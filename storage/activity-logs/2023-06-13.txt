@@ -1,0 +1,285 @@
+2023-06-13 10:48:44 - Update Product: "1674" by Betzabe Sapon
+2023-06-13 11:02:53 - Delete Product: {"p_id":"1646","p_type":"standard","p_code":"MNL14","hsn_code":"","barcode_symbology":"code128","p_name":"MOLDURA MNL  \"M#0141\" 15 X 15cm","category_id":"6","unit_id":"12","p_image":"","description":"","id":"2814","product_id":"1646","store_id":"1","purchase_price":"13","sell_price":"38","quantity_in_stock":"50.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"35","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"MNL","unit":"CM","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 11:05:07 - Create Product: {"p_id":"2487","p_type":"standard","p_code":"07462928","hsn_code":null,"barcode_symbology":"code128","p_name":"MOLDURA   &quot;M#0141&quot; 15 X 15cm","category_id":"6","unit_id":"10","p_image":"","description":"","id":"4655","product_id":"2487","store_id":"1","purchase_price":"0","sell_price":"38","quantity_in_stock":"0.0000","alert_quantity":"30.0000","sup_id":"16","brand_id":"35","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-11","p_date":"2023-06-13","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"MNL","brand_name":"MNL","unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 11:06:22 - Update Product: "1647" by Betzabe Sapon
+2023-06-13 11:06:57 - Update Product: "1648" by Betzabe Sapon
+2023-06-13 11:13:34 - Update Product: "1649" by Betzabe Sapon
+2023-06-13 11:14:07 - Update Product: "1650" by Betzabe Sapon
+2023-06-13 11:14:44 - Update Product: "1651" by Betzabe Sapon
+2023-06-13 11:15:13 - Update Product: "1652" by Betzabe Sapon
+2023-06-13 11:15:49 - Update Product: "1653" by Betzabe Sapon
+2023-06-13 11:16:21 - Update Product: "1654" by Betzabe Sapon
+2023-06-13 11:16:47 - Update Product: "1655" by Betzabe Sapon
+2023-06-13 11:17:15 - Update Product: "1656" by Betzabe Sapon
+2023-06-13 11:18:37 - Update Product: "1657" by Betzabe Sapon
+2023-06-13 11:19:18 - Update Product: "1658" by Betzabe Sapon
+2023-06-13 11:19:44 - Update Product: "1659" by Betzabe Sapon
+2023-06-13 11:20:23 - Delete Product: {"p_id":"1660","p_type":"standard","p_code":"MLIN15","hsn_code":"","barcode_symbology":"code128","p_name":"Moldura Lineal  0.15cms X 2.44 mts  cuadrada, redonda, lisa","category_id":"6","unit_id":"11","p_image":"","description":"","id":"2828","product_id":"1660","store_id":"1","purchase_price":"70","sell_price":"105","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"21","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"Ferrocasa","unit":"MT","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 11:22:59 - Create Product: {"p_id":"2488","p_type":"standard","p_code":"MLINC15","hsn_code":null,"barcode_symbology":"code128","p_name":"Moldura Lineal cuadrada 0.15cms X 2.44 mts     ","category_id":"6","unit_id":"10","p_image":"","description":"","id":"4657","product_id":"2488","store_id":"1","purchase_price":"0","sell_price":"105","quantity_in_stock":"0.0000","alert_quantity":"5.0000","sup_id":"3","brand_id":"51","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-12","p_date":"2023-06-13","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"sistegua","brand_name":"SIS","unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 11:28:09 - Create Product: {"p_id":"2489","p_type":"standard","p_code":"MLINRE15","hsn_code":null,"barcode_symbology":"code128","p_name":"Moldura Lineal Redonda Estriada 0.15cms X 2.44 mts      ","category_id":"6","unit_id":"10","p_image":"","description":"","id":"4659","product_id":"2489","store_id":"1","purchase_price":"0","sell_price":"105","quantity_in_stock":"0.0000","alert_quantity":"5.0000","sup_id":"3","brand_id":"0","box_id":"0","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-12","p_date":"2023-06-13","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"sistegua","brand_name":null,"unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 11:30:45 - Create Product: {"p_id":"2490","p_type":"standard","p_code":"MLINL15","hsn_code":null,"barcode_symbology":"code128","p_name":"Moldura Lineal Lisa 0.15cms X 2.44 mts    ","category_id":"6","unit_id":"10","p_image":"","description":"","id":"4661","product_id":"2490","store_id":"1","purchase_price":"0","sell_price":"105","quantity_in_stock":"0.0000","alert_quantity":"5.0000","sup_id":"8","brand_id":"0","box_id":"0","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-12","p_date":"2023-06-13","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"FERROCASA ","brand_name":null,"unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 11:32:31 - Delete Product: {"p_id":"1661","p_type":"standard","p_code":"MLIN20","hsn_code":"","barcode_symbology":"code128","p_name":"Moldura Lineal  0.20cms X 2.44 mts  cuadrada, redonda, lisa","category_id":"6","unit_id":"11","p_image":"","description":"","id":"2829","product_id":"1661","store_id":"1","purchase_price":"125","sell_price":"145","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"21","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"Ferrocasa","unit":"MT","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 11:47:56 - Create Product: {"p_id":"2491","p_type":"standard","p_code":"MLINC20","hsn_code":null,"barcode_symbology":"code128","p_name":"Moldura Lineal  Cuadrada Estriada 0.20cms X 2.44 mts ","category_id":"5","unit_id":"10","p_image":"","description":"","id":"4663","product_id":"2491","store_id":"1","purchase_price":"0","sell_price":"145","quantity_in_stock":"0.0000","alert_quantity":"5.0000","sup_id":"3","brand_id":"0","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-12","p_date":"2023-06-13","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"sistegua","brand_name":null,"unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 11:49:31 - Create Product: {"p_id":"2492","p_type":"standard","p_code":"MLINRE20","hsn_code":null,"barcode_symbology":"code128","p_name":"Moldura Lineal Redonda Estriada 0.20cms X 2.44 mts      ","category_id":"6","unit_id":"10","p_image":"","description":"","id":"4665","product_id":"2492","store_id":"1","purchase_price":"0","sell_price":"145","quantity_in_stock":"0.0000","alert_quantity":"5.0000","sup_id":"3","brand_id":"0","box_id":"0","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-12","p_date":"2023-06-13","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"sistegua","brand_name":null,"unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 11:50:45 - Create Product: {"p_id":"2493","p_type":"standard","p_code":"MLINL20","hsn_code":null,"barcode_symbology":"code128","p_name":"Moldura Lineal Lisa0.20cms X 2.44 mts      ","category_id":"6","unit_id":"10","p_image":"","description":"","id":"4667","product_id":"2493","store_id":"1","purchase_price":"0","sell_price":"145","quantity_in_stock":"0.0000","alert_quantity":"5.0000","sup_id":"3","brand_id":"0","box_id":"0","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-12","p_date":"2023-06-13","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"sistegua","brand_name":null,"unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 11:52:21 - Create Product: {"p_id":"2494","p_type":"standard","p_code":"MLINC25","hsn_code":null,"barcode_symbology":"code128","p_name":"Moldura Lineal  Cuadrada 0.25 cms X 2.44 mts      ","category_id":"6","unit_id":"10","p_image":"","description":"","id":"4669","product_id":"2494","store_id":"1","purchase_price":"0","sell_price":"185","quantity_in_stock":"0.0000","alert_quantity":"8.0000","sup_id":"3","brand_id":"0","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-12","p_date":"2023-06-13","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"sistegua","brand_name":null,"unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 11:53:36 - Create Product: {"p_id":"2495","p_type":"standard","p_code":"MLINRE25","hsn_code":null,"barcode_symbology":"code128","p_name":"Moldura Lineal Redonda Estraida 0.25 cms X 2.44 mts   ","category_id":"6","unit_id":"10","p_image":"","description":"","id":"4671","product_id":"2495","store_id":"1","purchase_price":"0","sell_price":"185","quantity_in_stock":"0.0000","alert_quantity":"8.0000","sup_id":"3","brand_id":"0","box_id":"0","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-12","p_date":"2023-06-13","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"sistegua","brand_name":null,"unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 11:54:35 - Create Product: {"p_id":"2496","p_type":"standard","p_code":"MLINL25","hsn_code":null,"barcode_symbology":"code128","p_name":"Moldura Lineal Lisa 0.25 cms X 2.44 mts","category_id":"6","unit_id":"10","p_image":"","description":"","id":"4673","product_id":"2496","store_id":"1","purchase_price":"0","sell_price":"185","quantity_in_stock":"0.0000","alert_quantity":"8.0000","sup_id":"3","brand_id":"0","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-12","p_date":"2023-06-13","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"sistegua","brand_name":null,"unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 11:55:58 - Create Product: {"p_id":"2497","p_type":"standard","p_code":"MLINC30","hsn_code":null,"barcode_symbology":"code128","p_name":"Moldura Lineal Cuadrada 0.30 cms X 2.44 mts      ","category_id":"6","unit_id":"10","p_image":"","description":"","id":"4675","product_id":"2497","store_id":"1","purchase_price":"0","sell_price":"285","quantity_in_stock":"0.0000","alert_quantity":"5.0000","sup_id":"3","brand_id":"0","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-12","p_date":"2023-06-13","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"sistegua","brand_name":null,"unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 11:56:55 - Create Product: {"p_id":"2498","p_type":"standard","p_code":"MLINRE30","hsn_code":null,"barcode_symbology":"code128","p_name":"Moldura Lineal Redonda Estriada  0.30 cms X 2.44 mts     ","category_id":"6","unit_id":"10","p_image":"","description":"","id":"4677","product_id":"2498","store_id":"1","purchase_price":"0","sell_price":"285","quantity_in_stock":"0.0000","alert_quantity":"5.0000","sup_id":"3","brand_id":"0","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-12","p_date":"2023-06-13","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"sistegua","brand_name":null,"unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 11:57:54 - Create Product: {"p_id":"2499","p_type":"standard","p_code":"MLINL30","hsn_code":null,"barcode_symbology":"code128","p_name":"Moldura Lineal Lisa  0.30 cms X 2.44 mts     ","category_id":"6","unit_id":"10","p_image":"","description":"","id":"4679","product_id":"2499","store_id":"1","purchase_price":"0","sell_price":"285","quantity_in_stock":"0.0000","alert_quantity":"5.0000","sup_id":"3","brand_id":"0","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-12","p_date":"2023-06-13","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"sistegua","brand_name":null,"unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 11:58:22 - Delete Product: {"p_id":"1662","p_type":"standard","p_code":"MLIN25","hsn_code":"","barcode_symbology":"code128","p_name":"Moldura Lineal  0.25 cms X 2.44 mts  cuadrada, redonda, lisa","category_id":"6","unit_id":"11","p_image":"","description":"","id":"2830","product_id":"1662","store_id":"1","purchase_price":"174.4","sell_price":"185","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"21","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"Ferrocasa","unit":"MT","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 11:58:32 - Delete Product: {"p_id":"1663","p_type":"standard","p_code":"MLIN30","hsn_code":"","barcode_symbology":"code128","p_name":"Moldura Lineal  0.30 cms X 2.44 mts  cuadrada, redonda, lisa","category_id":"6","unit_id":"11","p_image":"","description":"","id":"2831","product_id":"1663","store_id":"1","purchase_price":"250","sell_price":"285","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"21","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"Ferrocasa","unit":"MT","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 12:00:43 - Update Product: "1664" by Betzabe Sapon
+2023-06-13 12:01:36 - Update Product: "1665" by Betzabe Sapon
+2023-06-13 12:02:21 - Update Product: "1666" by Betzabe Sapon
+2023-06-13 12:02:56 - Update Product: "1667" by Betzabe Sapon
+2023-06-13 12:03:44 - Delete Product: {"p_id":"1668","p_type":"standard","p_code":"SILLA64","hsn_code":"","barcode_symbology":"code128","p_name":"Juego sillar completo contra No. 641 sillar (equineros y moldura)","category_id":"6","unit_id":"12","p_image":"","description":"","id":"2836","product_id":"1668","store_id":"1","purchase_price":"1","sell_price":"75","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"21","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"Ferrocasa","unit":"CM","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 12:03:56 - Delete Product: {"p_id":"1669","p_type":"standard","p_code":"ESQ64","hsn_code":"","barcode_symbology":"code128","p_name":"Esquineros contra moldura  No. 641 10X10 cms.  juego Solo Esquineros","category_id":"6","unit_id":"12","p_image":"","description":"","id":"2837","product_id":"1669","store_id":"1","purchase_price":"1","sell_price":"45","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"21","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"Ferrocasa","unit":"CM","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 12:04:20 - Update Product: "1670" by Betzabe Sapon
+2023-06-13 12:04:48 - Update Product: "1671" by Betzabe Sapon
+2023-06-13 12:05:11 - Update Product: "1672" by Betzabe Sapon
+2023-06-13 12:05:37 - Update Product: "1673" by Betzabe Sapon
+2023-06-13 12:06:21 - Update Product: "1675" by Betzabe Sapon
+2023-06-13 12:06:44 - Update Product: "1676" by Betzabe Sapon
+2023-06-13 12:07:06 - Update Product: "1677" by Betzabe Sapon
+2023-06-13 12:07:31 - Update Product: "1678" by Betzabe Sapon
+2023-06-13 12:07:52 - Update Product: "1679" by Betzabe Sapon
+2023-06-13 12:08:27 - Update Product: "1680" by Betzabe Sapon
+2023-06-13 12:08:49 - Update Product: "1681" by Betzabe Sapon
+2023-06-13 12:09:08 - Update Product: "1682" by Betzabe Sapon
+2023-06-13 12:09:46 - Update Product: "1690" by Betzabe Sapon
+2023-06-13 12:09:59 - Delete Product: {"p_id":"1691","p_type":"standard","p_code":"PV33G40","hsn_code":"","barcode_symbology":"code128","p_name":"Punta de viga  M #33G  40cms. (40cm X 60cm) ","category_id":"6","unit_id":"12","p_image":"","description":"","id":"2859","product_id":"1691","store_id":"1","purchase_price":"1","sell_price":"185","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"21","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"Ferrocasa","unit":"CM","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 12:10:42 - Update Product: "1687" by Betzabe Sapon
+2023-06-13 12:11:08 - Update Product: "1688" by Betzabe Sapon
+2023-06-13 12:11:36 - Update Product: "1689" by Betzabe Sapon
+2023-06-13 12:12:07 - Update Product: "1683" by Betzabe Sapon
+2023-06-13 12:12:23 - Update Product: "1684" by Betzabe Sapon
+2023-06-13 12:13:22 - Update Product: "1685" by Betzabe Sapon
+2023-06-13 12:13:38 - Update Product: "1686" by Betzabe Sapon
+2023-06-13 12:13:56 - Update Product: "1684" by Betzabe Sapon
+2023-06-13 12:14:45 - Update Product: "2468" by Betzabe Sapon
+2023-06-13 12:15:06 - Update Product: "1692" by Betzabe Sapon
+2023-06-13 12:15:43 - Update Product: "1693" by Betzabe Sapon
+2023-06-13 12:17:58 - Update Product: "1694" by Betzabe Sapon
+2023-06-13 12:24:44 - Create Supplier: {"sup_id":"18","sup_name":"NMC ","code_name":"nmc","sup_mobile":" +32 87 85 85 ","sup_email":"info@nmc.eu","gtin":"","sup_address":"BELGICA","sup_city":"BELGICA","sup_state":"BELGICA","sup_country":"BE","sup_details":"","created_at":"2023-06-13 12:24:44","s2s_id":"36","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-13 12:28:22 - Delete Product: {"p_id":"1694","p_type":"standard","p_code":"MAT","hsn_code":null,"barcode_symbology":"code128","p_name":"Moldura LEGANT  10AMT","category_id":"6","unit_id":"10","p_image":"","description":"","id":"2863","product_id":"1694","store_id":"1","purchase_price":"1","sell_price":"185","quantity_in_stock":"2.0000","alert_quantity":"20.0000","sup_id":"8","brand_id":"39","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"FERROCASA ","brand_name":"NMSTYL","unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 12:31:02 - Create Product: {"p_id":"2500","p_type":"standard","p_code":"M-AT10","hsn_code":null,"barcode_symbology":"code128","p_name":"Moldura LEGANT  CODIGO 10MAT","category_id":"6","unit_id":"10","p_image":"","description":"","id":"4681","product_id":"2500","store_id":"1","purchase_price":"0","sell_price":"185","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"18","brand_id":"0","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-12","p_date":"2023-06-13","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"NMC ","brand_name":null,"unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 12:32:38 - Update Product: "1695" by Betzabe Sapon
+2023-06-13 12:33:10 - Update Product: "1696" by Betzabe Sapon
+2023-06-13 12:33:48 - Delete Product: {"p_id":"1697","p_type":"standard","p_code":"MN","hsn_code":"","barcode_symbology":"code128","p_name":"Moldura LEGANT   I60NM","category_id":"6","unit_id":"12","p_image":"","description":"","id":"2866","product_id":"1697","store_id":"1","purchase_price":"1","sell_price":"105","quantity_in_stock":"11.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"39","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"NMSTYL","unit":"CM","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 12:35:01 - Create Product: {"p_id":"2501","p_type":"standard","p_code":"M160-N","hsn_code":null,"barcode_symbology":"code128","p_name":"Moldura LEGANT   I60NM","category_id":"6","unit_id":"10","p_image":"","description":"","id":"4683","product_id":"2501","store_id":"1","purchase_price":"0","sell_price":"105","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"18","brand_id":"0","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-12","p_date":"2023-06-13","status":"1","sort_order":"0","stores":["1"],"sup_name":"NMC ","brand_name":null,"unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 12:39:00 - Create Supplier: {"sup_id":"19","sup_name":"Globales","code_name":"globales","sup_mobile":"14253696","sup_email":"globales@glob.com","gtin":"","sup_address":"Guatemala","sup_city":"Guatemala","sup_state":"Guatemala","sup_country":"GT","sup_details":"","created_at":"2023-06-13 12:39:00","s2s_id":"38","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1","3"]} by Betzabe Sapon
+2023-06-13 12:39:49 - Update Product: "1698" by Betzabe Sapon
+2023-06-13 12:40:19 - Update Product: "1699" by Betzabe Sapon
+2023-06-13 12:40:38 - Update Product: "1698" by Betzabe Sapon
+2023-06-13 12:41:44 - Update Product: "1700" by Betzabe Sapon
+2023-06-13 12:42:23 - Update Product: "1701" by Betzabe Sapon
+2023-06-13 12:42:51 - Update Product: "1702" by Betzabe Sapon
+2023-06-13 12:42:59 - Update Product: "1701" by Betzabe Sapon
+2023-06-13 12:43:17 - Update Product: "1703" by Betzabe Sapon
+2023-06-13 12:43:47 - Update Product: "1704" by Betzabe Sapon
+2023-06-13 12:44:09 - Update Product: "1705" by Betzabe Sapon
+2023-06-13 12:44:34 - Update Product: "1706" by Betzabe Sapon
+2023-06-13 12:44:53 - Update Product: "1707" by Betzabe Sapon
+2023-06-13 12:45:52 - Update Product: "1708" by Betzabe Sapon
+2023-06-13 12:46:11 - Update Product: "1709" by Betzabe Sapon
+2023-06-13 12:46:37 - Update Product: "1710" by Betzabe Sapon
+2023-06-13 12:46:56 - Update Product: "1711" by Betzabe Sapon
+2023-06-13 12:47:17 - Update Product: "1712" by Betzabe Sapon
+2023-06-13 12:47:33 - Update Product: "1713" by Betzabe Sapon
+2023-06-13 12:47:51 - Update Product: "1714" by Betzabe Sapon
+2023-06-13 12:48:49 - Update Product: "1715" by Betzabe Sapon
+2023-06-13 12:49:09 - Update Product: "1716" by Betzabe Sapon
+2023-06-13 12:49:24 - Update Product: "1717" by Betzabe Sapon
+2023-06-13 12:49:41 - Update Product: "1718" by Betzabe Sapon
+2023-06-13 12:50:03 - Update Product: "1719" by Betzabe Sapon
+2023-06-13 12:50:31 - Update Product: "1720" by Betzabe Sapon
+2023-06-13 12:50:43 - Update Product: "1719" by Betzabe Sapon
+2023-06-13 12:51:32 - Update Product: "1721" by Betzabe Sapon
+2023-06-13 12:51:50 - Update Product: "1722" by Betzabe Sapon
+2023-06-13 12:51:59 - Update Product: "1721" by Betzabe Sapon
+2023-06-13 12:52:13 - Update Product: "1723" by Betzabe Sapon
+2023-06-13 12:52:32 - Update Product: "1724" by Betzabe Sapon
+2023-06-13 12:53:00 - Update Product: "1725" by Betzabe Sapon
+2023-06-13 12:53:57 - Update Product: "1726" by Betzabe Sapon
+2023-06-13 12:54:11 - Update Product: "1727" by Betzabe Sapon
+2023-06-13 12:54:24 - Update Product: "1728" by Betzabe Sapon
+2023-06-13 12:54:43 - Update Product: "1729" by Betzabe Sapon
+2023-06-13 12:55:04 - Update Product: "1730" by Betzabe Sapon
+2023-06-13 12:55:36 - Update Product: "1731" by Betzabe Sapon
+2023-06-13 12:56:27 - Update Product: "1732" by Betzabe Sapon
+2023-06-13 12:56:48 - Update Product: "1733" by Betzabe Sapon
+2023-06-13 12:57:14 - Update Product: "1734" by Betzabe Sapon
+2023-06-13 12:57:28 - Update Product: "1735" by Betzabe Sapon
+2023-06-13 12:57:45 - Update Product: "1736" by Betzabe Sapon
+2023-06-13 12:58:01 - Update Product: "1737" by Betzabe Sapon
+2023-06-13 13:16:41 - Update Product: "1739" by Betzabe Sapon
+2023-06-13 13:17:22 - Update Product: "1738" by Betzabe Sapon
+2023-06-13 13:47:22 - Update Product: "1739" by Betzabe Sapon
+2023-06-13 13:48:32 - Update Product: "1740" by Betzabe Sapon
+2023-06-13 13:48:50 - Update Product: "1741" by Betzabe Sapon
+2023-06-13 13:49:10 - Update Product: "1742" by Betzabe Sapon
+2023-06-13 13:49:40 - Update Product: "1743" by Betzabe Sapon
+2023-06-13 13:50:00 - Update Product: "1744" by Betzabe Sapon
+2023-06-13 13:50:24 - Update Product: "1745" by Betzabe Sapon
+2023-06-13 13:52:48 - Update Product: "1746" by Betzabe Sapon
+2023-06-13 13:53:49 - Update Product: "1746" by Betzabe Sapon
+2023-06-13 13:54:18 - Update Product: "1747" by Betzabe Sapon
+2023-06-13 13:54:45 - Update Product: "1748" by Betzabe Sapon
+2023-06-13 13:55:40 - Update Product: "1749" by Betzabe Sapon
+2023-06-13 13:56:54 - Update Product: "1750" by Betzabe Sapon
+2023-06-13 13:57:16 - Update Product: "1751" by Betzabe Sapon
+2023-06-13 13:57:44 - Update Product: "1752" by Betzabe Sapon
+2023-06-13 13:58:08 - Update Product: "1751" by Betzabe Sapon
+2023-06-13 13:58:53 - Update Product: "1753" by Betzabe Sapon
+2023-06-13 13:59:16 - Update Product: "1754" by Betzabe Sapon
+2023-06-13 14:02:31 - Update Product: "1755" by Betzabe Sapon
+2023-06-13 14:03:05 - Update Product: "1756" by Betzabe Sapon
+2023-06-13 14:03:33 - Update Product: "1757" by Betzabe Sapon
+2023-06-13 14:04:18 - Update Product: "1758" by Betzabe Sapon
+2023-06-13 14:06:13 - Update Product: "1759" by Betzabe Sapon
+2023-06-13 14:06:46 - Update Product: "1760" by Betzabe Sapon
+2023-06-13 14:07:43 - Update Product: "1761" by Betzabe Sapon
+2023-06-13 16:40:44 - Update Product: "1769" by Betzabe Sapon
+2023-06-13 16:41:05 - Update Product: "1768" by Betzabe Sapon
+2023-06-13 16:41:20 - Update Product: "1767" by Betzabe Sapon
+2023-06-13 16:41:34 - Update Product: "1766" by Betzabe Sapon
+2023-06-13 16:41:48 - Update Product: "1765" by Betzabe Sapon
+2023-06-13 16:42:11 - Update Product: "1764" by Betzabe Sapon
+2023-06-13 16:42:25 - Update Product: "1763" by Betzabe Sapon
+2023-06-13 16:42:30 - Update Product: "1763" by Betzabe Sapon
+2023-06-13 16:42:44 - Update Product: "1762" by Betzabe Sapon
+2023-06-13 16:42:55 - Update Product: "1770" by Betzabe Sapon
+2023-06-13 16:43:36 - Update Product: "1777" by Betzabe Sapon
+2023-06-13 16:43:51 - Update Product: "1776" by Betzabe Sapon
+2023-06-13 16:44:03 - Update Product: "1775" by Betzabe Sapon
+2023-06-13 16:44:18 - Update Product: "1774" by Betzabe Sapon
+2023-06-13 16:44:35 - Update Product: "1773" by Betzabe Sapon
+2023-06-13 16:44:49 - Update Product: "1772" by Betzabe Sapon
+2023-06-13 16:45:06 - Update Product: "1771" by Betzabe Sapon
+2023-06-13 16:45:50 - Update Product: "1785" by Betzabe Sapon
+2023-06-13 16:45:55 - Update Product: "1785" by Betzabe Sapon
+2023-06-13 16:46:08 - Update Product: "1784" by Betzabe Sapon
+2023-06-13 16:46:23 - Update Product: "1783" by Betzabe Sapon
+2023-06-13 16:46:37 - Update Product: "1782" by Betzabe Sapon
+2023-06-13 16:46:50 - Update Product: "1781" by Betzabe Sapon
+2023-06-13 16:47:04 - Update Product: "1780" by Betzabe Sapon
+2023-06-13 16:47:16 - Update Product: "1779" by Betzabe Sapon
+2023-06-13 16:47:33 - Update Product: "1778" by Betzabe Sapon
+2023-06-13 16:47:44 - Update Product: "1786" by Betzabe Sapon
+2023-06-13 16:49:06 - Update Product: "1796" by Betzabe Sapon
+2023-06-13 16:49:20 - Update Product: "1795" by Betzabe Sapon
+2023-06-13 16:49:33 - Update Product: "1794" by Betzabe Sapon
+2023-06-13 16:49:47 - Update Product: "1793" by Betzabe Sapon
+2023-06-13 16:49:58 - Update Product: "1792" by Betzabe Sapon
+2023-06-13 16:50:09 - Update Product: "1791" by Betzabe Sapon
+2023-06-13 16:50:24 - Update Product: "1790" by Betzabe Sapon
+2023-06-13 16:50:37 - Update Product: "1789" by Betzabe Sapon
+2023-06-13 16:50:48 - Update Product: "1797" by Betzabe Sapon
+2023-06-13 16:51:15 - Update Product: "1803" by Betzabe Sapon
+2023-06-13 16:51:30 - Update Product: "1802" by Betzabe Sapon
+2023-06-13 16:51:44 - Update Product: "1801" by Betzabe Sapon
+2023-06-13 16:51:56 - Update Product: "1800" by Betzabe Sapon
+2023-06-13 16:52:09 - Update Product: "1799" by Betzabe Sapon
+2023-06-13 16:52:21 - Update Product: "1798" by Betzabe Sapon
+2023-06-13 16:52:47 - Update Product: "1812" by Betzabe Sapon
+2023-06-13 16:52:58 - Update Product: "1811" by Betzabe Sapon
+2023-06-13 16:53:09 - Update Product: "1810" by Betzabe Sapon
+2023-06-13 16:53:21 - Update Product: "1809" by Betzabe Sapon
+2023-06-13 16:53:34 - Update Product: "1808" by Betzabe Sapon
+2023-06-13 16:53:47 - Update Product: "1807" by Betzabe Sapon
+2023-06-13 16:53:59 - Update Product: "1806" by Betzabe Sapon
+2023-06-13 16:54:12 - Update Product: "1805" by Betzabe Sapon
+2023-06-13 16:54:23 - Update Product: "1813" by Betzabe Sapon
+2023-06-13 16:54:55 - Update Product: "1815" by Betzabe Sapon
+2023-06-13 16:55:08 - Update Product: "1814" by Betzabe Sapon
+2023-06-13 16:55:36 - Update Product: "1788" by Betzabe Sapon
+2023-06-13 16:55:52 - Update Product: "1787" by Betzabe Sapon
+2023-06-13 16:57:00 - Update Product: "1816" by Betzabe Sapon
+2023-06-13 16:58:51 - Create Category: {"category_id":"10","category_name":"PUERTAS","category_slug":"puertas","parent_id":"5","category_details":"","category_image":"","created_at":"2023-06-13 16:58:51","updated_at":null,"c2s_id":"28","ccategory_id":"10","store_id":"1","status":"1","sort_order":"0","stores":["1","3"]} by Betzabe Sapon
+2023-06-13 16:59:48 - Create Product: {"p_id":"2502","p_type":"standard","p_code":"MARBO","hsn_code":null,"barcode_symbology":"code128","p_name":"Marco Bocelado Madera &quot;individual&quot; ","category_id":"10","unit_id":"10","p_image":"","description":"","id":"4684","product_id":"2502","store_id":"1","purchase_price":"0","sell_price":"175","quantity_in_stock":"0.0000","alert_quantity":"20.0000","sup_id":"8","brand_id":"0","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-11","p_date":"2023-06-13","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"FERROCASA ","brand_name":null,"unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 17:02:19 - Update Product: "1817" by Betzabe Sapon
+2023-06-13 17:03:24 - Update Product: "1818" by Betzabe Sapon
+2023-06-13 17:05:39 - Create Supplier: {"sup_id":"20","sup_name":"CEFECO","code_name":"cefeco","sup_mobile":"74859656","sup_email":"cefeco@cefeci.com","gtin":"","sup_address":"Guatemala","sup_city":"Guatemala","sup_state":"Guatemala","sup_country":"GT","sup_details":"","created_at":"2023-06-13 17:05:39","s2s_id":"40","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-13 17:06:06 - Update Product: "1819" by Betzabe Sapon
+2023-06-13 17:06:10 - Update Product: "1819" by Betzabe Sapon
+2023-06-13 17:06:42 - Update Product: "1820" by Betzabe Sapon
+2023-06-13 17:07:12 - Update Product: "1821" by Betzabe Sapon
+2023-06-13 17:08:49 - Create Supplier: {"sup_id":"21","sup_name":"El Angel ","code_name":"el_angel","sup_mobile":"25836974","sup_email":"elangel@angel.com","gtin":"","sup_address":"Guatemala","sup_city":"Guatemala","sup_state":"Guatemala","sup_country":"GT","sup_details":"","created_at":"2023-06-13 17:08:49","s2s_id":"42","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-13 17:10:05 - Update Product: "1824" by Betzabe Sapon
+2023-06-13 17:10:32 - Update Product: "1829" by Betzabe Sapon
+2023-06-13 17:10:51 - Update Product: "1826" by Betzabe Sapon
+2023-06-13 17:11:34 - Update Product: "1831" by Betzabe Sapon
+2023-06-13 17:12:09 - Update Product: "1822" by Betzabe Sapon
+2023-06-13 17:12:31 - Update Product: "1827" by Betzabe Sapon
+2023-06-13 17:12:53 - Update Product: "1823" by Betzabe Sapon
+2023-06-13 17:13:11 - Update Product: "1828" by Betzabe Sapon
+2023-06-13 17:13:34 - Update Product: "1825" by Betzabe Sapon
+2023-06-13 17:13:47 - Update Product: "1830" by Betzabe Sapon
+2023-06-13 17:16:46 - Update Product: "1832" by Betzabe Sapon
+2023-06-13 17:16:56 - Update Product: "1832" by Betzabe Sapon
+2023-06-13 17:17:24 - Update Product: "1833" by Betzabe Sapon
+2023-06-13 17:17:28 - Update Product: "1833" by Betzabe Sapon
+2023-06-13 17:18:01 - Update Product: "1834" by Betzabe Sapon
+2023-06-13 17:19:12 - Create Supplier: {"sup_id":"22","sup_name":"PROCRETO","code_name":"procreto","sup_mobile":"52689745","sup_email":"procre@procre.com","gtin":"","sup_address":"Guatemala","sup_city":"Guatemala","sup_state":"Guatemala","sup_country":"GT","sup_details":"","created_at":"2023-06-13 17:19:12","s2s_id":"45","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-13 17:20:40 - Update Product: "1836" by Betzabe Sapon
+2023-06-13 17:21:15 - Update Product: "1835" by Betzabe Sapon
+2023-06-13 17:22:29 - Update Product: "1837" by Betzabe Sapon
+2023-06-13 17:23:02 - Update Product: "1838" by Betzabe Sapon
+2023-06-13 17:23:59 - Update Product: "1841" by Betzabe Sapon
+2023-06-13 17:24:16 - Update Product: "1843" by Betzabe Sapon
+2023-06-13 17:24:40 - Update Product: "1844" by Betzabe Sapon
+2023-06-13 17:24:56 - Update Product: "1842" by Betzabe Sapon
+2023-06-13 17:25:09 - Update Product: "1839" by Betzabe Sapon
+2023-06-13 17:25:27 - Update Product: "1840" by Betzabe Sapon
+2023-06-13 17:30:44 - Update Product: "1845" by Betzabe Sapon
+2023-06-13 17:31:43 - Update Product: "1847" by Betzabe Sapon
+2023-06-13 17:36:32 - Create Supplier: {"sup_id":"23","sup_name":"Nuevos Almacenes S.A","code_name":"nuevos_almacenes_s.a","sup_mobile":"25897458","sup_email":"nuevos@nuevos.com","gtin":"","sup_address":"Ciudad ","sup_city":"ciudad","sup_state":"ciudad","sup_country":"GT","sup_details":"","created_at":"2023-06-13 17:36:32","s2s_id":"47","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-13 17:37:47 - Update Supplier: "5" by Betzabe Sapon
+2023-06-13 17:39:04 - Update Supplier: "19" by Betzabe Sapon
+2023-06-13 17:41:44 - Update Supplier: "14" by Betzabe Sapon
+2023-06-13 17:44:07 - Update Product: "1846" by Betzabe Sapon
+2023-06-13 17:52:07 - Update Supplier: "22" by Betzabe Sapon
+2023-06-13 17:52:19 - Update Product: "1848" by Betzabe Sapon
+2023-06-13 17:53:13 - Update Product: "1852" by Betzabe Sapon
+2023-06-13 17:53:27 - Update Supplier: "21" by Betzabe Sapon
+2023-06-13 17:53:31 - Update Product: "1851" by Betzabe Sapon
+2023-06-13 17:53:59 - Update Product: "1850" by Betzabe Sapon
+2023-06-13 17:54:21 - Update Supplier: "20" by Betzabe Sapon
+2023-06-13 17:54:22 - Update Product: "1853" by Betzabe Sapon
+2023-06-13 17:54:58 - Update Product: "1849" by Betzabe Sapon
+2023-06-13 17:55:24 - Update Product: "1854" by Betzabe Sapon
+2023-06-13 17:55:25 - Update Supplier: "13" by Betzabe Sapon
+2023-06-13 17:55:55 - Update Product: "1855" by Betzabe Sapon
+2023-06-13 17:58:14 - Update Supplier: "12" by Betzabe Sapon
+2023-06-13 17:58:57 - Update Supplier: "14" by Betzabe Sapon
+2023-06-13 17:59:30 - Update Supplier: "22" by Betzabe Sapon
+2023-06-13 18:00:08 - Update Supplier: "21" by Betzabe Sapon
+2023-06-13 18:00:47 - Update Supplier: "21" by Betzabe Sapon
+2023-06-13 18:01:26 - Update Supplier: "20" by Betzabe Sapon
+2023-06-13 18:01:50 - Update Supplier: "20" by Betzabe Sapon
+2023-06-13 18:02:32 - Update Supplier: "19" by Betzabe Sapon
+2023-06-13 18:03:03 - Update Supplier: "18" by Betzabe Sapon
+2023-06-13 18:05:21 - Update Supplier: "16" by Betzabe Sapon
+2023-06-13 18:11:23 - Update Supplier: "17" by Betzabe Sapon
+2023-06-13 18:11:38 - Update Supplier: "16" by Betzabe Sapon
+2023-06-13 18:16:02 - Delete Product: {"p_id":"1856","p_type":"standard","p_code":"CHAPGAL","hsn_code":"","barcode_symbology":"code128","p_name":"Cemento Asfaltico \"Chapopote\"  GALON ECONOMICO","category_id":"9","unit_id":"6","p_image":"","description":"","id":"3025","product_id":"1856","store_id":"1","purchase_price":"180","sell_price":"185","quantity_in_stock":"2.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"11","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"Cambridge","unit":"Galon","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 18:16:05 - Update Supplier: "11" by Betzabe Sapon
+2023-06-13 18:17:28 - Update Supplier: "10" by Betzabe Sapon
+2023-06-13 18:19:27 - Update Supplier: "9" by Betzabe Sapon
+2023-06-13 18:20:04 - Create Product: {"p_id":"2503","p_type":"standard","p_code":"galchapo","hsn_code":null,"barcode_symbology":"code128","p_name":"Gal\u00f3n Cemento Asfaltico presentaci\u00f3n econ\u00f3mica ","category_id":"9","unit_id":"6","p_image":"","description":"","id":"4686","product_id":"2503","store_id":"1","purchase_price":"0","sell_price":"175","quantity_in_stock":"0.0000","alert_quantity":"3.0000","sup_id":"8","brand_id":"0","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-12","p_date":"2023-06-13","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"FERROCASA ","brand_name":null,"unit":"Galon","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-13 18:20:58 - Update Supplier: "7" by Betzabe Sapon
+2023-06-13 18:22:36 - Update Supplier: "6" by Betzabe Sapon
+2023-06-13 18:24:33 - Update Supplier: "5" by Betzabe Sapon
+2023-06-13 18:27:31 - Update Supplier: "4" by Betzabe Sapon
+2023-06-13 18:28:07 - Update Product: "1858" by Betzabe Sapon
+2023-06-13 18:28:18 - Update Supplier: "7" by Betzabe Sapon
+2023-06-13 18:28:34 - Update Product: "1857" by Betzabe Sapon
+2023-06-13 18:30:20 - Update Product: "1859" by Betzabe Sapon
+2023-06-13 18:30:24 - Update Supplier: "3" by Betzabe Sapon
+2023-06-13 18:30:46 - Update Product: "1860" by Betzabe Sapon
+2023-06-13 18:31:13 - Update Product: "1861" by Betzabe Sapon
+2023-06-13 18:31:48 - Update Product: "1862" by Betzabe Sapon
+2023-06-13 18:32:14 - Update Supplier: "2" by Betzabe Sapon
+2023-06-13 18:32:22 - Update Product: "1863" by Betzabe Sapon

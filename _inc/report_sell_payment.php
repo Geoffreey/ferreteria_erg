@@ -1,0 +1,114 @@
+<?php 
+ob_start();
+session_start();
+include ("../_init.php");
+
+// Check, if your logged in or not
+// If user is not logged in then return an alert message
+if (!is_loggedin()) {
+  header('HTTP/1.1 422 Unprocessable Entity');
+  header('Content-Type: application/json; charset=UTF-8');
+  echo json_encode(array('errorMsg' => trans('error_login')));
+  exit();
+}
+
+// Comprobar, si el usuario tiene permiso de lectura o no
+// If user have not reading permission return an alert message
+if (user_group_id() != 1 && !has_permission('access', 'read_sell_payment_report')) {
+  header('HTTP/1.1 422 Unprocessable Entity');
+  header('Content-Type: application/json; charset=UTF-8');
+  echo json_encode(array('errorMsg' => trans('error_read_permission')));
+  exit();
+}
+
+$store_id = store_id();
+
+/**
+ *===================
+ * INICIO DE TABLA DE DATOS
+ *===================
+ */
+
+$where_query = "payments.store_id = '$store_id' AND `is_hide` = 0";
+//$where_query = "payments.store_id = $store_id AND payments.type = 'sell'";
+if (from()) {
+  $from = from();
+  $to = to();
+  $where_query .= date_range_sell_payments_filter($from, $to);
+}
+
+// tabla de base de datos a utilizar
+$table = "(SELECT payments.*, SUM(payments.amount) as total
+           FROM payments
+           WHERE $where_query
+           AND invoice_id NOT IN (
+               SELECT si.invoice_id
+               FROM selling_item si
+               LEFT JOIN (
+                   SELECT invoice_id, item_id, SUM(item_quantity) AS returned_qty
+                   FROM return_items
+                   GROUP BY invoice_id, item_id
+               ) ri ON si.invoice_id = ri.invoice_id AND si.item_id = ri.item_id
+               WHERE si.store_id = '$store_id'
+               GROUP BY si.invoice_id
+               HAVING SUM(si.item_quantity) = SUM(IFNULL(ri.returned_qty, 0))
+           )
+           GROUP BY invoice_id
+           HAVING total > 0
+         ) as payments";
+
+// Llave principal de la tabla
+$primaryKey = 'id';
+$columns = array(
+  array( 'db' => 'id', 'dt' => 'id' ),
+  array( 'db' => 'created_at', 'dt' => 'created_at' ),
+  array( 
+      'db' => 'type',  
+      'dt' => 'type',
+      'formatter' => function( $d, $row ) {
+        return '<span class="label label-warning">'.ucfirst(str_replace('_',' ',$row['type'])).'</span>';
+      }
+    ),
+  array( 'db' => 'invoice_id', 'dt' => 'ref_no' ),
+  array( 'db' => 'details', 'dt' => 'details' ),
+  array( 
+    'db' => 'pmethod_id',   
+    'dt' => 'pmethod_name' ,
+    'formatter' => function($d, $row) {
+      $o = '<b>'.get_the_pmethod($row['pmethod_id'], 'name').'</b>';
+      $details = unserialize($row['details']);
+      if (!empty($details)) {
+        $o .= '<ul>';
+        foreach ($details as $key => $value) {
+          $o .= '<li>'. str_replace('_',' ', strtoupper($key)) . ' = '.$value.'</li>';
+        }
+        $o .= '</ul>';
+      }
+      return $o;
+    }
+  ),
+  array( 
+      'db' => 'note',  
+      'dt' => 'note',
+      'formatter' => function( $d, $row ) {
+        return $row['note'];
+      }
+    ),
+  array( 
+      'db' => 'total',  
+      'dt' => 'amount',
+      'formatter' => function( $d, $row ) {
+        return currency_format($row['total']);
+      }
+    ),
+);
+ 
+echo json_encode(
+    SSP::simple($request->get, $sql_details, $table, $primaryKey, $columns)
+);
+
+/**
+ *===================
+ * FIN TABLA DE DATOS
+ *===================
+ */

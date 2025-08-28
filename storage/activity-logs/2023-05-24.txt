@@ -1,0 +1,258 @@
+2023-05-24 7:58:28 - Update Unit: "1" by Betzabe Sapon
+2023-05-24 7:58:46 - Create Unit: {"unit_id":"2","unit_name":"Kilos","code_name":"kilos","unit_details":"","unit2s_id":"3","uunit_id":"2","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 7:59:07 - Create Unit: {"unit_id":"3","unit_name":"Caja","code_name":"caja","unit_details":"","unit2s_id":"5","uunit_id":"3","store_id":"1","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-05-24 7:59:32 - Create Unit: {"unit_id":"4","unit_name":"Ciento","code_name":"ciento","unit_details":"","unit2s_id":"6","uunit_id":"4","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 7:59:44 - Update Unit: "3" by Betzabe Sapon
+2023-05-24 8:00:27 - Create Unit: {"unit_id":"5","unit_name":"Centimetro","code_name":"centimetro","unit_details":"","unit2s_id":"9","uunit_id":"5","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 8:00:44 - Create Unit: {"unit_id":"6","unit_name":"Galon","code_name":"galon","unit_details":"","unit2s_id":"11","uunit_id":"6","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 8:01:18 - Update Unit: "2" by Betzabe Sapon
+2023-05-24 8:01:41 - Create Unit: {"unit_id":"7","unit_name":"Libra","code_name":"libra","unit_details":"","unit2s_id":"13","uunit_id":"7","store_id":"1","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-05-24 8:01:45 - Create Unit: {"unit_id":"8","unit_name":"Metro","code_name":"metro","unit_details":"","unit2s_id":"14","uunit_id":"8","store_id":"1","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-05-24 8:01:53 - Update Unit: "8" by Betzabe Sapon
+2023-05-24 8:01:58 - Update Unit: "7" by Betzabe Sapon
+2023-05-24 8:02:53 - Create Unit: {"unit_id":"9","unit_name":"Par","code_name":"par","unit_details":"","unit2s_id":"17","uunit_id":"9","store_id":"1","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-05-24 8:03:28 - Create Unit: {"unit_id":"10","unit_name":"Unidad","code_name":"unidad","unit_details":"","unit2s_id":"18","uunit_id":"10","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 8:05:48 - Create Unit: {"unit_id":"11","unit_name":"MT","code_name":"mt","unit_details":"","unit2s_id":"20","uunit_id":"11","store_id":"1","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-05-24 8:05:53 - Update Unit: "11" by Betzabe Sapon
+2023-05-24 8:06:23 - Create Unit: {"unit_id":"12","unit_name":"CM","code_name":"cm","unit_details":"","unit2s_id":"22","uunit_id":"12","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 8:08:36 - Create Unit: {"unit_id":"13","unit_name":"Kit","code_name":"kit","unit_details":"","unit2s_id":"24","uunit_id":"13","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 8:14:11 - Create Category: {"category_id":"2","category_name":"Cielo","category_slug":"cielo","parent_id":"0","category_details":"","category_image":"","created_at":"2023-05-24 08:14:11","updated_at":null,"c2s_id":"3","ccategory_id":"2","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 8:15:34 - Create Category: {"category_id":"3","category_name":"Columycap","category_slug":"columycap","parent_id":"0","category_details":"","category_image":"","created_at":"2023-05-24 08:15:34","updated_at":null,"c2s_id":"5","ccategory_id":"3","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 8:17:09 - Create Category: {"category_id":"4","category_name":"Herramienta","category_slug":"herramienta","parent_id":"0","category_details":"","category_image":"","created_at":"2023-05-24 08:17:09","updated_at":null,"c2s_id":"7","ccategory_id":"4","store_id":"1","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-05-24 8:17:17 - Update Category: "4" by Betzabe Sapon
+2023-05-24 19:00:54 - Create Category: {"category_id":"5","category_name":"Maderas","category_slug":"maderas","parent_id":"0","category_details":"","category_image":"","created_at":"2023-05-24 19:00:54","updated_at":null,"c2s_id":"9","ccategory_id":"5","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:01:13 - Create Category: {"category_id":"6","category_name":"Moldura","category_slug":"moldura","parent_id":"0","category_details":"","category_image":"","created_at":"2023-05-24 19:01:13","updated_at":null,"c2s_id":"11","ccategory_id":"6","store_id":"1","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-05-24 19:01:19 - Update Category: "6" by Betzabe Sapon
+2023-05-24 19:01:37 - Create Category: {"category_id":"7","category_name":"Pintura","category_slug":"pintura","parent_id":"0","category_details":"","category_image":"","created_at":"2023-05-24 19:01:37","updated_at":null,"c2s_id":"13","ccategory_id":"7","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:01:58 - Create Category: {"category_id":"8","category_name":"Tablayeso","category_slug":"tablayeso","parent_id":"0","category_details":"","category_image":"","created_at":"2023-05-24 19:01:58","updated_at":null,"c2s_id":"15","ccategory_id":"8","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:02:16 - Create Category: {"category_id":"9","category_name":"Techos","category_slug":"techos","parent_id":"0","category_details":"","category_image":"","created_at":"2023-05-24 19:02:16","updated_at":null,"c2s_id":"17","ccategory_id":"9","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:03:16 - Update Category: "3" by Betzabe Sapon
+2023-05-24 19:04:07 - Update Category: "4" by Betzabe Sapon
+2023-05-24 19:12:59 - Create Unit: {"unit_id":"14","unit_name":"Kilos","code_name":"kilos","unit_details":"","unit2s_id":"26","uunit_id":"14","store_id":"1","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-05-24 19:13:04 - Update Unit: "14" by Betzabe Sapon
+2023-05-24 19:13:52 - Update Unit: "7" by Betzabe Sapon
+2023-05-24 19:14:58 - Update Unit: "8" by Betzabe Sapon
+2023-05-24 19:16:10 - Update Unit: "9" by Betzabe Sapon
+2023-05-24 19:16:52 - Update Unit: "1" by Betzabe Sapon
+2023-05-24 19:17:47 - Update Unit: "10" by Betzabe Sapon
+2023-05-24 19:19:05 - Create Unit: {"unit_id":"15","unit_name":"S\/U","code_name":"s\/u","unit_details":"","unit2s_id":"29","uunit_id":"15","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:29:54 - Create Brand: {"brand_id":"2","brand_name":"3M","code_name":"3m","brand_details":"","brand_image":"","created_at":"2023-05-24 19:29:54","updated_at":null,"b2s_id":"2","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:30:03 - Brand Edit Form: {"brand_id":"2","brand_name":"3M","code_name":"3m","brand_details":"","brand_image":"","created_at":"2023-05-24 19:29:54","updated_at":null,"b2s_id":"2","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:30:49 - Create Brand: {"brand_id":"3","brand_name":"Ace","code_name":"ace","brand_details":"","brand_image":"","created_at":"2023-05-24 19:30:49","updated_at":null,"b2s_id":"4","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:31:17 - Create Brand: {"brand_id":"4","brand_name":"Aguila","code_name":"aguila","brand_details":"","brand_image":"","created_at":"2023-05-24 19:31:17","updated_at":null,"b2s_id":"6","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:31:53 - Create Brand: {"brand_id":"5","brand_name":"American","code_name":"american","brand_details":"","brand_image":"","created_at":"2023-05-24 19:31:53","updated_at":null,"b2s_id":"8","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:32:35 - Create Brand: {"brand_id":"6","brand_name":"Best","code_name":"best","brand_details":"","brand_image":"","created_at":"2023-05-24 19:32:35","updated_at":null,"b2s_id":"10","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:33:37 - Create Brand: {"brand_id":"7","brand_name":"Blak&amp;Deker","code_name":"blak&amp;deker","brand_details":"","brand_image":"","created_at":"2023-05-24 19:33:37","updated_at":null,"b2s_id":"12","store_id":"1","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-05-24 19:33:47 - Brand Edit Form: {"brand_id":"7","brand_name":"Blak&amp;Deker","code_name":"blak&amp;deker","brand_details":"","brand_image":"","created_at":"2023-05-24 19:33:37","updated_at":null,"b2s_id":"12","store_id":"1","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-05-24 19:33:50 - Update Brand: "7" by Betzabe Sapon
+2023-05-24 19:34:15 - Create Brand: {"brand_id":"8","brand_name":"Bond","code_name":"bond","brand_details":"","brand_image":"","created_at":"2023-05-24 19:34:15","updated_at":null,"b2s_id":"14","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:34:33 - Brand Edit Form: {"brand_id":"8","brand_name":"Bond","code_name":"bond","brand_details":"","brand_image":"","created_at":"2023-05-24 19:34:15","updated_at":null,"b2s_id":"14","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:34:59 - Create Brand: {"brand_id":"9","brand_name":"Bosch","code_name":"bosch","brand_details":"","brand_image":"","created_at":"2023-05-24 19:34:59","updated_at":null,"b2s_id":"16","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:35:17 - Brand Edit Form: {"brand_id":"9","brand_name":"Bosch","code_name":"bosch","brand_details":"","brand_image":"","created_at":"2023-05-24 19:34:59","updated_at":null,"b2s_id":"16","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:35:47 - Create Brand: {"brand_id":"10","brand_name":"California","code_name":"california","brand_details":"","brand_image":"","created_at":"2023-05-24 19:35:47","updated_at":null,"b2s_id":"18","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:36:17 - Brand Edit Form: {"brand_id":"10","brand_name":"California","code_name":"california","brand_details":"","brand_image":"","created_at":"2023-05-24 19:35:47","updated_at":null,"b2s_id":"18","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:37:02 - Create Brand: {"brand_id":"11","brand_name":"Cambridge","code_name":"cambridge","brand_details":"","brand_image":"","created_at":"2023-05-24 19:37:02","updated_at":null,"b2s_id":"20","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:37:48 - Create Brand: {"brand_id":"12","brand_name":"Ceiling","code_name":"ceiling","brand_details":"","brand_image":"","created_at":"2023-05-24 19:37:48","updated_at":null,"b2s_id":"22","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:38:48 - Create Brand: {"brand_id":"13","brand_name":"Cem","code_name":"cem","brand_details":"","brand_image":"","created_at":"2023-05-24 19:38:48","updated_at":null,"b2s_id":"24","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:38:50 - Brand Edit Form: {"brand_id":"11","brand_name":"Cambridge","code_name":"cambridge","brand_details":"","brand_image":"","created_at":"2023-05-24 19:37:02","updated_at":null,"b2s_id":"20","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:38:53 - Brand Edit Form: {"brand_id":"12","brand_name":"Ceiling","code_name":"ceiling","brand_details":"","brand_image":"","created_at":"2023-05-24 19:37:48","updated_at":null,"b2s_id":"22","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:39:29 - Create Brand: {"brand_id":"14","brand_name":"Chileno","code_name":"chileno","brand_details":"","brand_image":"","created_at":"2023-05-24 19:39:29","updated_at":null,"b2s_id":"26","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:40:17 - Create Brand: {"brand_id":"15","brand_name":"Crest","code_name":"crest","brand_details":"","brand_image":"","created_at":"2023-05-24 19:40:17","updated_at":null,"b2s_id":"28","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:40:22 - Brand Edit Form: {"brand_id":"14","brand_name":"Chileno","code_name":"chileno","brand_details":"","brand_image":"","created_at":"2023-05-24 19:39:29","updated_at":null,"b2s_id":"26","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:42:16 - Create Brand: {"brand_id":"16","brand_name":"Croix","code_name":"croix","brand_details":"","brand_image":"","created_at":"2023-05-24 19:42:16","updated_at":null,"b2s_id":"30","store_id":"1","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-05-24 19:42:19 - Brand Edit Form: {"brand_id":"16","brand_name":"Croix","code_name":"croix","brand_details":"","brand_image":"","created_at":"2023-05-24 19:42:16","updated_at":null,"b2s_id":"30","store_id":"1","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-05-24 19:42:21 - Update Brand: "16" by Betzabe Sapon
+2023-05-24 19:42:52 - Create Brand: {"brand_id":"17","brand_name":"Dorico","code_name":"dorico","brand_details":"","brand_image":"","created_at":"2023-05-24 19:42:52","updated_at":null,"b2s_id":"32","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:43:28 - Create Brand: {"brand_id":"18","brand_name":"Duramax","code_name":"duramax","brand_details":"","brand_image":"","created_at":"2023-05-24 19:43:28","updated_at":null,"b2s_id":"34","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:43:58 - Create Brand: {"brand_id":"19","brand_name":"Esp","code_name":"esp","brand_details":"","brand_image":"","created_at":"2023-05-24 19:43:58","updated_at":null,"b2s_id":"36","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:44:30 - Create Brand: {"brand_id":"20","brand_name":"Ferreto","code_name":"ferreto","brand_details":"","brand_image":"","created_at":"2023-05-24 19:44:30","updated_at":null,"b2s_id":"38","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:45:27 - Create Brand: {"brand_id":"21","brand_name":"Ferrocasa","code_name":"ferrocasa","brand_details":"","brand_image":"","created_at":"2023-05-24 19:45:27","updated_at":null,"b2s_id":"40","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:46:27 - Create Brand: {"brand_id":"22","brand_name":"Fj","code_name":"fj","brand_details":"","brand_image":"","created_at":"2023-05-24 19:46:27","updated_at":null,"b2s_id":"42","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:47:44 - Create Brand: {"brand_id":"23","brand_name":"Frescasa","code_name":"frescasa","brand_details":"","brand_image":"","created_at":"2023-05-24 19:47:44","updated_at":null,"b2s_id":"44","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:48:22 - Create Brand: {"brand_id":"24","brand_name":"Gl","code_name":"gl","brand_details":"","brand_image":"","created_at":"2023-05-24 19:48:22","updated_at":null,"b2s_id":"46","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:48:51 - Create Brand: {"brand_id":"25","brand_name":"Glanz","code_name":"glanz","brand_details":"","brand_image":"","created_at":"2023-05-24 19:48:51","updated_at":null,"b2s_id":"48","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:49:43 - Create Brand: {"brand_id":"26","brand_name":"Glo","code_name":"glo","brand_details":"","brand_image":"","created_at":"2023-05-24 19:49:43","updated_at":null,"b2s_id":"50","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:50:28 - Create Brand: {"brand_id":"27","brand_name":"Gold","code_name":"gold","brand_details":"","brand_image":"","created_at":"2023-05-24 19:50:28","updated_at":null,"b2s_id":"52","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:51:03 - Create Brand: {"brand_id":"28","brand_name":"Hermex","code_name":"hermex","brand_details":"","brand_image":"","created_at":"2023-05-24 19:51:03","updated_at":null,"b2s_id":"54","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:52:02 - Create Brand: {"brand_id":"29","brand_name":"Hitec","code_name":"hitec","brand_details":"","brand_image":"","created_at":"2023-05-24 19:52:02","updated_at":null,"b2s_id":"56","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:52:57 - Create Brand: {"brand_id":"30","brand_name":"Hystick","code_name":"hystick","brand_details":"","brand_image":"","created_at":"2023-05-24 19:52:57","updated_at":null,"b2s_id":"58","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 19:53:30 - Create Brand: {"brand_id":"31","brand_name":"JC","code_name":"jc","brand_details":"","brand_image":"","created_at":"2023-05-24 19:53:30","updated_at":null,"b2s_id":"60","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:05:36 - Brand Edit Form: {"brand_id":"31","brand_name":"JC","code_name":"jc","brand_details":"","brand_image":"","created_at":"2023-05-24 19:53:30","updated_at":null,"b2s_id":"60","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:06:20 - Create Brand: {"brand_id":"32","brand_name":"Look plus","code_name":"look_plus","brand_details":"","brand_image":"","created_at":"2023-05-24 21:06:20","updated_at":null,"b2s_id":"62","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:07:11 - Create Brand: {"brand_id":"33","brand_name":"Marshalltown","code_name":"marshalltown","brand_details":"","brand_image":"","created_at":"2023-05-24 21:07:11","updated_at":null,"b2s_id":"64","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:07:44 - Create Brand: {"brand_id":"34","brand_name":"Metalic","code_name":"metalic","brand_details":"","brand_image":"","created_at":"2023-05-24 21:07:44","updated_at":null,"b2s_id":"66","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:08:08 - Create Brand: {"brand_id":"35","brand_name":"MNL","code_name":"mnl","brand_details":"","brand_image":"","created_at":"2023-05-24 21:08:08","updated_at":null,"b2s_id":"68","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:09:04 - Create Brand: {"brand_id":"36","brand_name":"Molduraty","code_name":"molduraty","brand_details":"","brand_image":"","created_at":"2023-05-24 21:09:04","updated_at":null,"b2s_id":"70","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:09:51 - Create Brand: {"brand_id":"37","brand_name":"Multi","code_name":"multi","brand_details":"","brand_image":"","created_at":"2023-05-24 21:09:51","updated_at":null,"b2s_id":"72","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:10:09 - Brand Edit Form: {"brand_id":"37","brand_name":"Multi","code_name":"multi","brand_details":"","brand_image":"","created_at":"2023-05-24 21:09:51","updated_at":null,"b2s_id":"72","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:10:24 - Create Brand: {"brand_id":"38","brand_name":"MX","code_name":"mx","brand_details":"","brand_image":"","created_at":"2023-05-24 21:10:24","updated_at":null,"b2s_id":"74","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:11:01 - Create Brand: {"brand_id":"39","brand_name":"NMSTYL","code_name":"nmstyl","brand_details":"","brand_image":"","created_at":"2023-05-24 21:11:01","updated_at":null,"b2s_id":"76","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:11:29 - Create Brand: {"brand_id":"40","brand_name":"Panel","code_name":"panel","brand_details":"","brand_image":"","created_at":"2023-05-24 21:11:29","updated_at":null,"b2s_id":"78","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:12:01 - Create Brand: {"brand_id":"41","brand_name":"Panel Rey","code_name":"panel_rey","brand_details":"","brand_image":"","created_at":"2023-05-24 21:12:01","updated_at":null,"b2s_id":"80","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:12:04 - Brand Edit Form: {"brand_id":"39","brand_name":"NMSTYL","code_name":"nmstyl","brand_details":"","brand_image":"","created_at":"2023-05-24 21:11:01","updated_at":null,"b2s_id":"76","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:12:06 - Brand Edit Form: {"brand_id":"40","brand_name":"Panel","code_name":"panel","brand_details":"","brand_image":"","created_at":"2023-05-24 21:11:29","updated_at":null,"b2s_id":"78","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:12:45 - Create Brand: {"brand_id":"42","brand_name":"Premium","code_name":"premium","brand_details":"","brand_image":"","created_at":"2023-05-24 21:12:45","updated_at":null,"b2s_id":"82","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:13:25 - Create Brand: {"brand_id":"43","brand_name":"Pretul","code_name":"pretul","brand_details":"","brand_image":"","created_at":"2023-05-24 21:13:25","updated_at":null,"b2s_id":"84","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:13:27 - Brand Edit Form: {"brand_id":"42","brand_name":"Premium","code_name":"premium","brand_details":"","brand_image":"","created_at":"2023-05-24 21:12:45","updated_at":null,"b2s_id":"82","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:13:30 - Brand Edit Form: {"brand_id":"43","brand_name":"Pretul","code_name":"pretul","brand_details":"","brand_image":"","created_at":"2023-05-24 21:13:25","updated_at":null,"b2s_id":"84","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:13:57 - Create Brand: {"brand_id":"44","brand_name":"Pris","code_name":"pris","brand_details":"","brand_image":"","created_at":"2023-05-24 21:13:57","updated_at":null,"b2s_id":"86","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:14:34 - Create Brand: {"brand_id":"45","brand_name":"Proto","code_name":"proto","brand_details":"","brand_image":"","created_at":"2023-05-24 21:14:34","updated_at":null,"b2s_id":"88","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:15:00 - Create Brand: {"brand_id":"46","brand_name":"Radar","code_name":"radar","brand_details":"","brand_image":"","created_at":"2023-05-24 21:15:00","updated_at":null,"b2s_id":"90","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:15:05 - Brand Edit Form: {"brand_id":"45","brand_name":"Proto","code_name":"proto","brand_details":"","brand_image":"","created_at":"2023-05-24 21:14:34","updated_at":null,"b2s_id":"88","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:15:46 - Create Brand: {"brand_id":"47","brand_name":"Ramset","code_name":"ramset","brand_details":"","brand_image":"","created_at":"2023-05-24 21:15:46","updated_at":null,"b2s_id":"92","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:16:21 - Create Brand: {"brand_id":"48","brand_name":"Reflex","code_name":"reflex","brand_details":"","brand_image":"","created_at":"2023-05-24 21:16:21","updated_at":null,"b2s_id":"94","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:16:47 - Create Brand: {"brand_id":"49","brand_name":"Scolary","code_name":"scolary","brand_details":"","brand_image":"","created_at":"2023-05-24 21:16:47","updated_at":null,"b2s_id":"96","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:17:17 - Create Brand: {"brand_id":"50","brand_name":"Scoth","code_name":"scoth","brand_details":"","brand_image":"","created_at":"2023-05-24 21:17:17","updated_at":null,"b2s_id":"98","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:17:23 - Brand Edit Form: {"brand_id":"49","brand_name":"Scolary","code_name":"scolary","brand_details":"","brand_image":"","created_at":"2023-05-24 21:16:47","updated_at":null,"b2s_id":"96","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:17:25 - Brand Edit Form: {"brand_id":"48","brand_name":"Reflex","code_name":"reflex","brand_details":"","brand_image":"","created_at":"2023-05-24 21:16:21","updated_at":null,"b2s_id":"94","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:17:53 - Create Brand: {"brand_id":"51","brand_name":"SIS","code_name":"sis","brand_details":"","brand_image":"","created_at":"2023-05-24 21:17:53","updated_at":null,"b2s_id":"100","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:18:04 - Brand Edit Form: {"brand_id":"51","brand_name":"SIS","code_name":"sis","brand_details":"","brand_image":"","created_at":"2023-05-24 21:17:53","updated_at":null,"b2s_id":"100","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:18:38 - Create Brand: {"brand_id":"52","brand_name":"SS","code_name":"ss","brand_details":"","brand_image":"","created_at":"2023-05-24 21:18:38","updated_at":null,"b2s_id":"102","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:19:22 - Create Brand: {"brand_id":"53","brand_name":"Steel Mart","code_name":"steel_mart","brand_details":"","brand_image":"","created_at":"2023-05-24 21:19:22","updated_at":null,"b2s_id":"104","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:19:53 - Create Brand: {"brand_id":"54","brand_name":"Super","code_name":"super","brand_details":"","brand_image":"","created_at":"2023-05-24 21:19:53","updated_at":null,"b2s_id":"106","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:20:19 - Create Brand: {"brand_id":"55","brand_name":"SUR","code_name":"sur","brand_details":"","brand_image":"","created_at":"2023-05-24 21:20:19","updated_at":null,"b2s_id":"108","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:20:49 - Create Brand: {"brand_id":"56","brand_name":"TOL","code_name":"tol","brand_details":"","brand_image":"","created_at":"2023-05-24 21:20:49","updated_at":null,"b2s_id":"110","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:21:35 - Create Brand: {"brand_id":"57","brand_name":"TOLL","code_name":"toll","brand_details":"","brand_image":"","created_at":"2023-05-24 21:21:35","updated_at":null,"b2s_id":"112","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:22:07 - Create Brand: {"brand_id":"58","brand_name":"Truper","code_name":"truper","brand_details":"","brand_image":"","created_at":"2023-05-24 21:22:07","updated_at":null,"b2s_id":"114","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:22:38 - Create Brand: {"brand_id":"59","brand_name":"USG","code_name":"usg","brand_details":"","brand_image":"","created_at":"2023-05-24 21:22:38","updated_at":null,"b2s_id":"116","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:23:22 - Create Brand: {"brand_id":"60","brand_name":"Voltech","code_name":"voltech","brand_details":"","brand_image":"","created_at":"2023-05-24 21:23:22","updated_at":null,"b2s_id":"118","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:24:39 - Create Brand: {"brand_id":"61","brand_name":"Wellbond","code_name":"wellbond","brand_details":"","brand_image":"","created_at":"2023-05-24 21:24:39","updated_at":null,"b2s_id":"120","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:25:14 - Brand Edit Form: {"brand_id":"1","brand_name":"No brand","code_name":"no_brand","brand_details":"","brand_image":null,"created_at":"2019-03-31 03:36:47","updated_at":"2019-07-02 07:59:26","b2s_id":"1","store_id":"1","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-05-24 21:25:27 - Update Brand: "1" by Betzabe Sapon
+2023-05-24 21:38:52 - Update Box: "1" by Betzabe Sapon
+2023-05-24 21:40:40 - Update Box: "1" by Betzabe Sapon
+2023-05-24 21:40:56 - Create Box: {"box_id":"2","box_name":"Caja 2","code_name":"caja_2","box_details":"","id":"3","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 21:41:57 - Update Box: "1" by Betzabe Sapon
+2023-05-24 21:42:17 - Update Box: "1" by Betzabe Sapon
+2023-05-24 21:42:36 - Delete Product: {"p_id":"1","p_type":"standard","p_code":"84719278","hsn_code":null,"barcode_symbology":"code128","p_name":"hp core i5 ","category_id":"1","unit_id":"1","p_image":"\/computadora3-e1537911659471.jpg","description":"&lt;p&gt;hp core i5&lt;\/p&gt;\r\n&lt;p&gt;disco duro 100gb&lt;\/p&gt;\r\n&lt;p&gt;memoria ram 8gb&lt;\/p&gt;","id":"1","product_id":"1","store_id":"1","purchase_price":"2500","sell_price":"3000","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"1","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2030-01-23","p_date":"2019-12-15","status":"1","sort_order":"1","stores":["1","2"],"sup_name":"No Supplier","brand_name":"No brand","unit":"Pies","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-05-24 21:42:51 - Update Box: "1" by Betzabe Sapon
+2023-05-24 21:43:01 - Update Box: "2" by Betzabe Sapon
+2023-05-24 21:43:19 - Update Box: "2" by Betzabe Sapon
+2023-05-24 22:12:49 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:12:50 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:12:58 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:12:58 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:13:14 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:13:14 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:13:22 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:13:22 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:13:30 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:13:30 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:13:37 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:13:37 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:13:44 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:13:44 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:13:51 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:13:51 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:13:57 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:13:57 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:05 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:05 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:11 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:11 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:17 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:17 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:23 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:23 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:28 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:28 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:34 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:34 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:40 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:40 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:45 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:45 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:50 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:50 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:58 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:14:58 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:25:02 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:25:02 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:25:22 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:25:22 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:25:35 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:25:35 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:25:52 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:25:52 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:26:03 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:26:03 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:26:15 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:26:15 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:26:29 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:26:29 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:27:00 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:27:00 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:27:13 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:27:13 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:27:26 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:27:26 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:27:44 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:27:44 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:28:05 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:28:05 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:28:19 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:28:19 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:28:31 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:28:31 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:28:42 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:28:42 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:28:58 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:28:58 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:29:11 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:29:11 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:29:21 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:29:21 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:29:34 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:29:34 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:35:43 - Update Category: "4" by Betzabe Sapon
+2023-05-24 22:39:20 - Brand Edit Form: {"brand_id":"7","brand_name":"Blak&amp;Deker","code_name":"blak&amp;deker","brand_details":"","brand_image":"","created_at":"2023-05-24 19:33:37","updated_at":null,"b2s_id":"12","store_id":"1","status":"1","sort_order":"0","stores":["1","2"]} by Betzabe Sapon
+2023-05-24 22:39:36 - Update Brand: "7" by Betzabe Sapon
+2023-05-24 22:42:20 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:42:20 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:42:40 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:42:40 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:42:51 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:42:51 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:43:02 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:43:02 - Product Bulk Action: "delete" by Betzabe Sapon
+2023-05-24 22:55:48 - Import Product: {"get":[],"post":{"submit":""},"cookie":{"__gsas":"ID=44d52541bf8c7247:T=1684089321:S=ALNI_MZOBqiThXM5KLOKOLK9s1Jl6NYTVA","PHPSESSID":"220e03624fba016bedfa13dfb367bec0"},"files":{"filename":{"name":"pos-products.xls","type":"application\/vnd.ms-excel","tmp_name":"\/tmp\/phpizgiCg","error":"0","size":"178688"}},"server":{"PATH":"\/usr\/local\/bin:\/bin:\/usr\/bin","HTTP_ACCEPT":"text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/webp,image\/apng,*\/*;q=0.8,application\/signed-exchange;v=b3;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br","HTTP_ACCEPT_LANGUAGE":"es,es-ES;q=0.9","CONTENT_TYPE":"multipart\/form-data; boundary=----WebKitFormBoundaryezGS3YQnA9V8xXbh","CONTENT_LENGTH":"178989","HTTP_COOKIE":"__gsas=ID=44d52541bf8c7247:T=1684089321:S=ALNI_MZOBqiThXM5KLOKOLK9s1Jl6NYTVA; PHPSESSID=220e03624fba016bedfa13dfb367bec0","HTTP_HOST":"ferrocasa.pw","HTTP_REFERER":"https:\/\/ferrocasa.pw\/admin\/import_product.php","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/113.0.0.0 Safari\/537.36 Edg\/113.0.1774.50","HTTP_CACHE_CONTROL":"max-age=0","HTTP_X_FORWARDED_FOR":"190.148.50.185","HTTP_SEC_CH_UA":"&quot;Microsoft Edge&quot;;v=&quot;113&quot;, &quot;Chromium&quot;;v=&quot;113&quot;, &quot;Not-A.Brand&quot;;v=&quot;24&quot;","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA_PLATFORM":"&quot;Windows&quot;","HTTP_UPGRADE_INSECURE_REQUESTS":"1","HTTP_ORIGIN":"https:\/\/ferrocasa.pw","HTTP_SEC_FETCH_SITE":"same-origin","HTTP_SEC_FETCH_MODE":"navigate","HTTP_SEC_FETCH_USER":"?1","HTTP_SEC_FETCH_DEST":"document","HTTP_X_FORWARDED_PROTO":"https","HTTP_X_HTTPS":"on","DOCUMENT_ROOT":"\/home\/ferrcuxe\/public_html","REMOTE_ADDR":"190.148.50.185","REMOTE_PORT":"49550","SERVER_ADDR":"162.254.39.2","SERVER_NAME":"ferrocasa.pw","SERVER_ADMIN":"webmaster@ferrocasa.pw","SERVER_PORT":"443","REQUEST_SCHEME":"https","REQUEST_URI":"\/admin\/import_product.php","PROXY_REMOTE_ADDR":"162.254.39.2","HTTPS":"1","SCRIPT_FILENAME":"\/home\/ferrcuxe\/public_html\/admin\/import_product.php","QUERY_STRING":"","SCRIPT_URI":"https:\/\/ferrocasa.pw\/admin\/import_product.php","SCRIPT_URL":"\/admin\/import_product.php","SCRIPT_NAME":"\/admin\/import_product.php","SERVER_PROTOCOL":"HTTP\/1.1","SERVER_SOFTWARE":"LiteSpeed","REQUEST_METHOD":"POST","X-LSCACHE":"on","PHP_SELF":"\/admin\/import_product.php","REQUEST_TIME_FLOAT":"1684990546.3421","REQUEST_TIME":"1684990546"},"request":{"submit":""}} by Betzabe Sapon
+2023-05-24 22:56:10 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:56:10 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:56:27 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:56:27 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:56:55 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:56:55 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:57:05 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:57:05 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:57:16 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:57:16 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:57:30 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:57:30 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:57:42 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:57:42 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:57:55 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:57:55 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:58:07 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:58:07 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:58:17 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:58:17 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:58:30 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:58:30 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:58:43 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:58:43 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:58:55 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:58:55 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:59:09 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:59:09 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:59:20 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:59:20 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:59:34 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:59:34 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:59:48 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:59:48 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:59:59 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 22:59:59 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 23:00:12 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 23:00:12 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 23:00:22 - Product Bulk Action: "restore" by Betzabe Sapon
+2023-05-24 23:00:22 - Product Bulk Action: "restore" by Betzabe Sapon

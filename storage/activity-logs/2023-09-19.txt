@@ -1,0 +1,14 @@
+2023-09-19 20:59:41 - Create Product: [] by Your Name
+2023-09-19 21:14:48 - Create Product: {"p_id":11,"p_type":"standard","p_code":"43669436","hsn_code":null,"barcode_symbology":"code128","p_name":"celular","category_id":1,"unit_id":1,"p_image":"","description":"&lt;p&gt;lg&lt;\/p&gt;","id":3,"product_id":11,"store_id":1,"purchase_price":0,"sell_price":800,"quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":1,"brand_id":1,"box_id":1,"taxrate_id":3,"tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-09-18","p_date":"2023-09-19","status":1,"sort_order":0,"stores":[1],"sup_name":"No Supplier","category_name":"Computadoras","brand_name":"No brand","unit":"Pieces","taxrate":{"taxrate_id":3,"taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":1,"sort_order":1},"purchase_tax_amount":0} by Your Name
+2023-09-19 21:28:39 - Aftere Showing Transfer List: "" by Your Name
+2023-09-19 21:50:05 - Aftere Showing Transfer List: "" by Your Name
+2023-09-19 21:56:01 - Aftere Showing Transfer List: "" by Your Name
+2023-09-19 21:57:37 - Aftere Showing Transfer List: "" by Your Name
+2023-09-19 21:58:49 - Aftere Showing Transfer List: "" by Your Name
+2023-09-19 22:01:56 - Aftere Showing Transfer List: "" by Your Name
+2023-09-19 22:01:58 - Aftere Showing Transfer List: "" by Your Name
+2023-09-19 22:02:31 - Aftere Showing Transfer List: "" by Your Name
+2023-09-19 22:03:33 - Aftere Showing Transfer List: "" by Your Name
+2023-09-19 22:05:37 - Aftere Showing Transfer List: "" by Your Name
+2023-09-19 22:07:25 - Aftere Showing Transfer List: "" by Your Name
+2023-09-19 22:14:12 - Aftere Showing Transfer List: "" by Your Name

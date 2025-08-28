@@ -1,0 +1,15 @@
+2023-05-19 8:25:30 - Update Usergroup: "2" by Betzabe Sapon
+2023-05-19 8:26:07 - Update Usergroup: "3" by Betzabe Sapon
+2023-05-19 8:26:40 - Update Usergroup: "2" by Betzabe Sapon
+2023-05-19 8:28:40 - Update User: "2" by Betzabe Sapon
+2023-05-19 8:34:38 - Update User: "3" by Betzabe Sapon
+2023-05-19 8:35:12 - Update User: "3" by Betzabe Sapon
+2023-05-19 8:35:43 - Update User: "2" by Betzabe Sapon
+2023-05-19 8:46:50 - Create User: {"id":"4","group_id":"2","username":"Sucursal 1 Cajero","email":"s1cajero@ferrocasa.pw","mobile":"58567544","dob":"0000-00-00","sex":"M","password":"b7b03dc3993b23b9be1d37b79e68b028","raw_password":"Sucursal1","pass_reset_code":null,"reset_code_time":null,"login_try":"0","last_login":null,"ip":"","address":null,"preference":null,"user_image":"","created_at":"2023-05-19 08:46:50","updated_at":null,"group_name":"cashier","sort_order":"2","stores":["2"]} by Betzabe Sapon
+2023-05-19 8:48:14 - Create User: {"id":"5","group_id":"3","username":"Sucursal 1 Vendedor","email":"s1vendedor@ferrocasa.pw","mobile":"00000000","dob":"0000-00-00","sex":"M","password":"b7b03dc3993b23b9be1d37b79e68b028","raw_password":"Sucursal1","pass_reset_code":null,"reset_code_time":null,"login_try":"0","last_login":null,"ip":"","address":null,"preference":null,"user_image":"","created_at":"2023-05-19 08:48:14","updated_at":null,"group_name":"vendedor","sort_order":"3","stores":["2"]} by Betzabe Sapon
+2023-05-19 8:48:51 - Update User: "4" by Betzabe Sapon
+2023-05-19 8:49:30 - Update User: "5" by Betzabe Sapon
+2023-05-19 8:50:37 - Update User: "4" by Betzabe Sapon
+2023-05-19 8:52:19 - Update User: "3" by Betzabe Sapon
+2023-05-19 8:53:24 - Update User: "3" by Betzabe Sapon
+2023-05-19 9:02:51 - Update Usergroup: "2" by Betzabe Sapon

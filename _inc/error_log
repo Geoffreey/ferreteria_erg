@@ -1,0 +1,1478 @@
+[09-Sep-2024 18:01:30 America/Guatemala] PHP Notice:  Undefined index: customer_id in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 8
+[09-Sep-2024 18:01:30 America/Guatemala] PHP Notice:  Undefined index: customer_name in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 17
+[09-Sep-2024 18:01:30 America/Guatemala] PHP Notice:  Undefined index: customer_mobile in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 26
+[09-Sep-2024 18:01:30 America/Guatemala] PHP Notice:  Undefined index: customer_nit in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 35
+[09-Sep-2024 18:01:30 America/Guatemala] PHP Notice:  Undefined index: dob in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 44
+[09-Sep-2024 18:01:30 America/Guatemala] PHP Notice:  Undefined index: customer_email in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 53
+[09-Sep-2024 18:01:30 America/Guatemala] PHP Notice:  Undefined index: customer_sex in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 63
+[09-Sep-2024 18:01:30 America/Guatemala] PHP Notice:  Undefined index: customer_sex in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 66
+[09-Sep-2024 18:01:30 America/Guatemala] PHP Notice:  Undefined index: customer_age in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 78
+[09-Sep-2024 18:01:30 America/Guatemala] PHP Notice:  Undefined index: customer_address in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 98
+[09-Sep-2024 18:01:30 America/Guatemala] PHP Notice:  Undefined index: customer_city in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 107
+[09-Sep-2024 18:01:30 America/Guatemala] PHP Notice:  Undefined index: customer_state in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 126
+[09-Sep-2024 18:01:30 America/Guatemala] PHP Notice:  Undefined index: customer_country in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 136
+[09-Sep-2024 18:01:30 America/Guatemala] PHP Notice:  Undefined index: sort_order in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 189
+[12-Sep-2024 18:06:49 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[12-Sep-2024 18:21:04 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[12-Sep-2024 19:56:50 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[13-Sep-2024 19:19:03 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[16-Sep-2024 18:04:27 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[16-Sep-2024 18:05:32 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[23-Sep-2024 14:16:08 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[23-Sep-2024 17:46:41 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:41 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:41 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:41 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:41 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:41 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:41 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:41 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:41 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:41 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[23-Sep-2024 17:46:42 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BLANCA%' OR `p_code` = 'EXTENSION 12' BLANCA') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:52 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:52 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:52 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:52 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:53 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:53 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:53 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:53 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:53 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:53 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:53 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:53 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:53 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:53 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:53 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:53 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:53 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:53 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:53 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:53 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:53 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'X2 1/2 %' OR `p_code` = 'CANAL DE 12'X2 1/2 ') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[24-Sep-2024 13:18:57 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'CANAL DE 12'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[30-Sep-2024 16:43:29 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[10-Oct-2024 16:28:16 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[10-Oct-2024 16:29:44 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[28-Oct-2024 17:27:48 America/Guatemala] PHP Notice:  Undefined index: customer_id in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 8
+[28-Oct-2024 17:27:48 America/Guatemala] PHP Notice:  Undefined index: customer_name in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 17
+[28-Oct-2024 17:27:48 America/Guatemala] PHP Notice:  Undefined index: customer_mobile in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 26
+[28-Oct-2024 17:27:48 America/Guatemala] PHP Notice:  Undefined index: customer_nit in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 35
+[28-Oct-2024 17:27:48 America/Guatemala] PHP Notice:  Undefined index: dob in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 44
+[28-Oct-2024 17:27:48 America/Guatemala] PHP Notice:  Undefined index: customer_email in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 53
+[28-Oct-2024 17:27:48 America/Guatemala] PHP Notice:  Undefined index: customer_sex in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 63
+[28-Oct-2024 17:27:48 America/Guatemala] PHP Notice:  Undefined index: customer_sex in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 66
+[28-Oct-2024 17:27:48 America/Guatemala] PHP Notice:  Undefined index: customer_age in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 78
+[28-Oct-2024 17:27:48 America/Guatemala] PHP Notice:  Undefined index: customer_address in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 98
+[28-Oct-2024 17:27:48 America/Guatemala] PHP Notice:  Undefined index: customer_city in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 107
+[28-Oct-2024 17:27:48 America/Guatemala] PHP Notice:  Undefined index: customer_state in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 126
+[28-Oct-2024 17:27:48 America/Guatemala] PHP Notice:  Undefined index: customer_country in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 136
+[28-Oct-2024 17:27:48 America/Guatemala] PHP Notice:  Undefined index: sort_order in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 189
+[18-Nov-2024 13:01:45 America/Guatemala] PHP Notice:  A non well formed numeric value encountered in /home/systccbx/ferrocasa.app/_inc/model/invoice.php on line 227
+[18-Nov-2024 13:01:45 America/Guatemala] PHP Notice:  A non well formed numeric value encountered in /home/systccbx/ferrocasa.app/_inc/model/invoice.php on line 254
+[18-Nov-2024 13:01:45 America/Guatemala] PHP Notice:  A non well formed numeric value encountered in /home/systccbx/ferrocasa.app/_inc/model/invoice.php on line 267
+[21-Nov-2024 17:06:41 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[21-Nov-2024 18:33:23 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[21-Nov-2024 18:33:51 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[22-Nov-2024 09:48:42 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[22-Nov-2024 09:55:50 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[22-Nov-2024 09:59:07 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[15-Jan-2025 04:09:01 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[15-Jan-2025 04:13:03 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[15-Jan-2025 14:28:48 America/Guatemala] PHP Notice:  Undefined index: customer_id in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 8
+[15-Jan-2025 14:28:48 America/Guatemala] PHP Notice:  Undefined index: customer_name in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 17
+[15-Jan-2025 14:28:48 America/Guatemala] PHP Notice:  Undefined index: customer_mobile in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 26
+[15-Jan-2025 14:28:48 America/Guatemala] PHP Notice:  Undefined index: customer_nit in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 35
+[15-Jan-2025 14:28:48 America/Guatemala] PHP Notice:  Undefined index: dob in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 44
+[15-Jan-2025 14:28:48 America/Guatemala] PHP Notice:  Undefined index: customer_email in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 53
+[15-Jan-2025 14:28:48 America/Guatemala] PHP Notice:  Undefined index: customer_sex in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 63
+[15-Jan-2025 14:28:48 America/Guatemala] PHP Notice:  Undefined index: customer_sex in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 66
+[15-Jan-2025 14:28:48 America/Guatemala] PHP Notice:  Undefined index: customer_age in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 78
+[15-Jan-2025 14:28:48 America/Guatemala] PHP Notice:  Undefined index: customer_address in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 98
+[15-Jan-2025 14:28:48 America/Guatemala] PHP Notice:  Undefined index: customer_city in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 107
+[15-Jan-2025 14:28:48 America/Guatemala] PHP Notice:  Undefined index: customer_state in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 126
+[15-Jan-2025 14:28:48 America/Guatemala] PHP Notice:  Undefined index: customer_country in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 136
+[15-Jan-2025 14:28:48 America/Guatemala] PHP Notice:  Undefined index: sort_order in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 189
+[15-Jan-2025 14:28:52 America/Guatemala] PHP Notice:  Undefined index: customer_id in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 8
+[15-Jan-2025 14:28:52 America/Guatemala] PHP Notice:  Undefined index: customer_name in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 17
+[15-Jan-2025 14:28:52 America/Guatemala] PHP Notice:  Undefined index: customer_mobile in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 26
+[15-Jan-2025 14:28:52 America/Guatemala] PHP Notice:  Undefined index: customer_nit in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 35
+[15-Jan-2025 14:28:52 America/Guatemala] PHP Notice:  Undefined index: dob in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 44
+[15-Jan-2025 14:28:52 America/Guatemala] PHP Notice:  Undefined index: customer_email in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 53
+[15-Jan-2025 14:28:52 America/Guatemala] PHP Notice:  Undefined index: customer_sex in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 63
+[15-Jan-2025 14:28:52 America/Guatemala] PHP Notice:  Undefined index: customer_sex in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 66
+[15-Jan-2025 14:28:52 America/Guatemala] PHP Notice:  Undefined index: customer_age in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 78
+[15-Jan-2025 14:28:52 America/Guatemala] PHP Notice:  Undefined index: customer_address in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 98
+[15-Jan-2025 14:28:52 America/Guatemala] PHP Notice:  Undefined index: customer_city in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 107
+[15-Jan-2025 14:28:52 America/Guatemala] PHP Notice:  Undefined index: customer_state in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 126
+[15-Jan-2025 14:28:52 America/Guatemala] PHP Notice:  Undefined index: customer_country in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 136
+[15-Jan-2025 14:28:52 America/Guatemala] PHP Notice:  Undefined index: sort_order in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 189
+[15-Jan-2025 16:46:29 America/Guatemala] PHP Notice:  Undefined index: customer_id in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 8
+[15-Jan-2025 16:46:29 America/Guatemala] PHP Notice:  Undefined index: customer_name in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 17
+[15-Jan-2025 16:46:29 America/Guatemala] PHP Notice:  Undefined index: customer_mobile in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 26
+[15-Jan-2025 16:46:29 America/Guatemala] PHP Notice:  Undefined index: customer_nit in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 35
+[15-Jan-2025 16:46:29 America/Guatemala] PHP Notice:  Undefined index: dob in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 44
+[15-Jan-2025 16:46:29 America/Guatemala] PHP Notice:  Undefined index: customer_email in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 53
+[15-Jan-2025 16:46:29 America/Guatemala] PHP Notice:  Undefined index: customer_sex in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 63
+[15-Jan-2025 16:46:29 America/Guatemala] PHP Notice:  Undefined index: customer_sex in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 66
+[15-Jan-2025 16:46:29 America/Guatemala] PHP Notice:  Undefined index: customer_age in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 78
+[15-Jan-2025 16:46:29 America/Guatemala] PHP Notice:  Undefined index: customer_address in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 98
+[15-Jan-2025 16:46:29 America/Guatemala] PHP Notice:  Undefined index: customer_city in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 107
+[15-Jan-2025 16:46:29 America/Guatemala] PHP Notice:  Undefined index: customer_state in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 126
+[15-Jan-2025 16:46:29 America/Guatemala] PHP Notice:  Undefined index: customer_country in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 136
+[15-Jan-2025 16:46:29 America/Guatemala] PHP Notice:  Undefined index: sort_order in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 189
+[21-Jan-2025 18:40:49 America/Guatemala] PHP Notice:  Undefined index: unit_id in /home/systccbx/ferrocasa.app/_inc/model/invoice.php on line 594
+[23-Jan-2025 09:58:46 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[23-Jan-2025 12:08:14 America/Guatemala] PHP Notice:  Undefined index: customer_id in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 8
+[23-Jan-2025 12:08:14 America/Guatemala] PHP Notice:  Undefined index: customer_name in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 17
+[23-Jan-2025 12:08:14 America/Guatemala] PHP Notice:  Undefined index: customer_mobile in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 26
+[23-Jan-2025 12:08:14 America/Guatemala] PHP Notice:  Undefined index: customer_nit in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 35
+[23-Jan-2025 12:08:14 America/Guatemala] PHP Notice:  Undefined index: dob in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 44
+[23-Jan-2025 12:08:14 America/Guatemala] PHP Notice:  Undefined index: customer_email in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 53
+[23-Jan-2025 12:08:14 America/Guatemala] PHP Notice:  Undefined index: customer_sex in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 63
+[23-Jan-2025 12:08:14 America/Guatemala] PHP Notice:  Undefined index: customer_sex in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 66
+[23-Jan-2025 12:08:14 America/Guatemala] PHP Notice:  Undefined index: customer_age in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 78
+[23-Jan-2025 12:08:14 America/Guatemala] PHP Notice:  Undefined index: customer_address in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 98
+[23-Jan-2025 12:08:14 America/Guatemala] PHP Notice:  Undefined index: customer_city in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 107
+[23-Jan-2025 12:08:14 America/Guatemala] PHP Notice:  Undefined index: customer_state in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 126
+[23-Jan-2025 12:08:14 America/Guatemala] PHP Notice:  Undefined index: customer_country in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 136
+[23-Jan-2025 12:08:14 America/Guatemala] PHP Notice:  Undefined index: sort_order in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 189
+[09-Feb-2025 15:02:24 America/Guatemala] PHP Fatal error:  Uncaught Error: Cannot use object of type Request as array in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/report_purchase_the_itemwise.php on line 31
+[21-Feb-2025 17:27:54 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GUIA ACERADA DE 1/8X50'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[21-Feb-2025 17:27:54 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GUIA ACERADA DE 1/8X50'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[21-Feb-2025 17:27:54 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GUIA ACERADA DE 1/8X50'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[21-Feb-2025 17:29:05 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GUIA ACERADA DE 1/8X100'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[21-Feb-2025 17:29:05 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GUIA ACERADA DE 1/8X100'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[21-Feb-2025 17:29:05 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GUIA ACERADA DE 1/8X100'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[21-Feb-2025 17:29:05 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GUIA ACERADA DE 1/8X100'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[21-Feb-2025 17:29:05 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GUIA ACERADA DE 1/8X100'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[21-Feb-2025 17:29:05 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GUIA ACERADA DE 1/8X100'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[21-Feb-2025 17:29:05 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GUIA ACERADA DE 1/8X100'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[21-Feb-2025 17:29:05 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GUIA ACERADA DE 1/8X100'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[21-Feb-2025 17:29:05 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GUIA ACERADA DE 1/8X100'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[22-Feb-2025 11:27:12 America/Guatemala] PHP Notice:  Undefined index: customer_id in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 8
+[22-Feb-2025 11:27:12 America/Guatemala] PHP Notice:  Undefined index: customer_name in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 17
+[22-Feb-2025 11:27:12 America/Guatemala] PHP Notice:  Undefined index: customer_mobile in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 26
+[22-Feb-2025 11:27:12 America/Guatemala] PHP Notice:  Undefined index: customer_nit in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 35
+[22-Feb-2025 11:27:12 America/Guatemala] PHP Notice:  Undefined index: dob in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 44
+[22-Feb-2025 11:27:12 America/Guatemala] PHP Notice:  Undefined index: customer_email in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 53
+[22-Feb-2025 11:27:12 America/Guatemala] PHP Notice:  Undefined index: customer_sex in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 63
+[22-Feb-2025 11:27:12 America/Guatemala] PHP Notice:  Undefined index: customer_sex in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 66
+[22-Feb-2025 11:27:12 America/Guatemala] PHP Notice:  Undefined index: customer_age in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 78
+[22-Feb-2025 11:27:12 America/Guatemala] PHP Notice:  Undefined index: customer_address in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 98
+[22-Feb-2025 11:27:12 America/Guatemala] PHP Notice:  Undefined index: customer_city in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 107
+[22-Feb-2025 11:27:12 America/Guatemala] PHP Notice:  Undefined index: customer_state in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 126
+[22-Feb-2025 11:27:12 America/Guatemala] PHP Notice:  Undefined index: customer_country in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 136
+[22-Feb-2025 11:27:12 America/Guatemala] PHP Notice:  Undefined index: sort_order in /home/systccbx/ferrocasa.app/_inc/template/customer_form.php on line 189
+[04-Mar-2025 17:31:17 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AZADON TOMATERO CORTO 18'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:31:17 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AZADON TOMATERO CORTO 18'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:06 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:06 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:06 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:06 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:07 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:07 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:07 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:07 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:07 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:07 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:07 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:07 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:07 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:07 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:08 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:08 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:08 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:08 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:08 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:08 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:08 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:08 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:08 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:08 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:09 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:09 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:09 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:09 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:09 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:09 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:52:09 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 3/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:45 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:45 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:45 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:46 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:46 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:46 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:46 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:46 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:46 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:46 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:46 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:46 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:46 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:46 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:46 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:46 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:46 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:46 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:47 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:47 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:47 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:47 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:47 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:47 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:47 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:47 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:47 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:47 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:47 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:47 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:47 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:47 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:47 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:47 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:48 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 17:57:48 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 7/64'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:03:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 1/8'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:18 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:19 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41
+[04-Mar-2025 18:06:20 America/Guatemala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BROCA PARA METAL 5/32'') ORDER BY `p_id` DESC LIMIT 10' at line 4 in /home/systccbx/ferrocasa.app/_inc/lib/database.php:41
+Stack trace:
+#0 /home/systccbx/ferrocasa.app/_inc/lib/database.php(41): PDO->prepare('SELECT `p_id`, ...', Array)
+#1 /home/systccbx/ferrocasa.app/_inc/ajax.php(186): Database->prepare('SELECT `p_id`, ...')
+#2 {main}
+  thrown in /home/systccbx/ferrocasa.app/_inc/lib/database.php on line 41

@@ -1,0 +1,17 @@
+2023-07-12 18:43:04 - Create Purchase Invoice: "B01" by Betzabe Sapon
+2023-07-12 18:44:02 - Delete Purchase Invoice: "B01" by Betzabe Sapon
+2023-07-12 18:54:42 - Create Purchase Invoice: "B39649" by Betzabe Sapon
+2023-07-12 19:08:04 - Create Purchase Invoice: "B3837019711" by Betzabe Sapon
+2023-07-12 19:22:53 - Update Product: "2179" by Betzabe Sapon
+2023-07-12 19:25:37 - Update Product: "2194" by Betzabe Sapon
+2023-07-12 19:27:23 - Update Product: "2179" by Betzabe Sapon
+2023-07-12 19:29:00 - Update Product: "2454" by Betzabe Sapon
+2023-07-12 19:30:35 - Aftere Showing Transfer List: "" by Betzabe Sapon
+2023-07-12 19:31:30 - Stock Transfer: "2" by Betzabe Sapon
+2023-07-12 19:31:31 - Aftere Showing Transfer List: "" by Betzabe Sapon
+2023-07-12 19:31:49 - Aftere Showing Transfer List: "" by Betzabe Sapon
+2023-07-12 19:32:47 - Aftere Showing Transfer List: "" by Betzabe Sapon
+2023-07-12 19:33:20 - Update Stock Transfer: "1" by Betzabe Sapon
+2023-07-12 19:33:23 - Aftere Showing Transfer List: "" by Betzabe Sapon
+2023-07-12 19:33:45 - Update Stock Transfer: "2" by Betzabe Sapon
+2023-07-12 19:33:48 - Aftere Showing Transfer List: "" by Betzabe Sapon

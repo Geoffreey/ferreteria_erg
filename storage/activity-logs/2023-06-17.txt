@@ -1,0 +1,158 @@
+2023-06-17 12:12:21 - Update Product: "2174" by Betzabe Sapon
+2023-06-17 12:13:31 - Update Product: "2171" by Betzabe Sapon
+2023-06-17 12:13:55 - Update Product: "2172" by Betzabe Sapon
+2023-06-17 12:14:05 - Update Product: "2175" by Betzabe Sapon
+2023-06-17 12:14:17 - Update Product: "2177" by Betzabe Sapon
+2023-06-17 12:14:28 - Update Product: "2177" by Betzabe Sapon
+2023-06-17 12:14:36 - Update Product: "2173" by Betzabe Sapon
+2023-06-17 12:17:45 - Update Product: "2427" by Betzabe Sapon
+2023-06-17 12:18:29 - Update Product: "2426" by Betzabe Sapon
+2023-06-17 12:18:57 - Update Product: "2432" by Betzabe Sapon
+2023-06-17 12:19:27 - Update Product: "2431" by Betzabe Sapon
+2023-06-17 12:19:57 - Update Product: "2430" by Betzabe Sapon
+2023-06-17 12:20:33 - Update Product: "2429" by Betzabe Sapon
+2023-06-17 12:20:54 - Update Product: "2432" by Betzabe Sapon
+2023-06-17 12:21:15 - Update Product: "2431" by Betzabe Sapon
+2023-06-17 12:21:28 - Update Product: "2430" by Betzabe Sapon
+2023-06-17 12:21:56 - Update Product: "2327" by Betzabe Sapon
+2023-06-17 12:23:43 - Create Category: {"category_id":"13","category_name":"SWITCH Y ARMADURAS","category_slug":"switch_y_armaduras","parent_id":"11","category_details":"","category_image":"","created_at":"2023-06-17 12:23:43","updated_at":null,"c2s_id":"34","ccategory_id":"13","store_id":"1","status":"1","sort_order":"0","stores":["1","3"]} by Betzabe Sapon
+2023-06-17 12:24:21 - Create Category: {"category_id":"14","category_name":"TABLEROS PARA CIRCUITOS ","category_slug":"tableros_para_circuitos","parent_id":"0","category_details":"","category_image":"","created_at":"2023-06-17 12:24:21","updated_at":null,"c2s_id":"36","ccategory_id":"14","store_id":"1","status":"1","sort_order":"0","stores":["1","3"]} by Betzabe Sapon
+2023-06-17 12:25:27 - Update Product: "2432" by Betzabe Sapon
+2023-06-17 12:25:40 - Update Product: "2431" by Betzabe Sapon
+2023-06-17 12:25:51 - Update Product: "2430" by Betzabe Sapon
+2023-06-17 12:26:08 - Update Product: "2429" by Betzabe Sapon
+2023-06-17 12:26:53 - Update Product: "2327" by Betzabe Sapon
+2023-06-17 12:28:48 - Update Product: "2326" by Betzabe Sapon
+2023-06-17 13:08:03 - Create Category: {"category_id":"15","category_name":"LAMPARAS TIPO LISTON ","category_slug":"lamparas_tipo_liston","parent_id":"11","category_details":"","category_image":"","created_at":"2023-06-17 13:08:03","updated_at":null,"c2s_id":"38","ccategory_id":"15","store_id":"1","status":"1","sort_order":"0","stores":["1","3"]} by Betzabe Sapon
+2023-06-17 13:08:40 - Create Category: {"category_id":"16","category_name":"OJO DE BUEY CONCRETO &quot;CAJA OCTOGONAL&quot;","category_slug":"ojo_de_buey_concreto_&quot;caja_octogonal&quot;","parent_id":"0","category_details":"","category_image":"","created_at":"2023-06-17 13:08:40","updated_at":null,"c2s_id":"40","ccategory_id":"16","store_id":"1","status":"1","sort_order":"0","stores":["1","3"]} by Betzabe Sapon
+2023-06-17 13:09:05 - Create Category: {"category_id":"17","category_name":"OJO DE BUEY CIELO FALSO ","category_slug":"ojo_de_buey_cielo_falso","parent_id":"0","category_details":"","category_image":"","created_at":"2023-06-17 13:09:05","updated_at":null,"c2s_id":"42","ccategory_id":"17","store_id":"1","status":"1","sort_order":"0","stores":["1","3"]} by Betzabe Sapon
+2023-06-17 13:09:27 - Create Category: {"category_id":"18","category_name":"OJO DE BUEY TIPO T","category_slug":"ojo_de_buey_tipo_t","parent_id":"0","category_details":"","category_image":"","created_at":"2023-06-17 13:09:27","updated_at":null,"c2s_id":"44","ccategory_id":"18","store_id":"1","status":"1","sort_order":"0","stores":["1","3"]} by Betzabe Sapon
+2023-06-17 13:10:10 - Create Category: {"category_id":"19","category_name":"BOMBILLA CLASICA ","category_slug":"bombilla_clasica","parent_id":"0","category_details":"","category_image":"","created_at":"2023-06-17 13:10:10","updated_at":null,"c2s_id":"46","ccategory_id":"19","store_id":"1","status":"1","sort_order":"0","stores":["1","3"]} by Betzabe Sapon
+2023-06-17 13:10:40 - Create Category: {"category_id":"20","category_name":"BOMBILLA TIPO PLAFON  &quot;OVNI&quot;","category_slug":"bombilla_tipo_plafon__&quot;ovni&quot;","parent_id":"0","category_details":"","category_image":"","created_at":"2023-06-17 13:10:40","updated_at":null,"c2s_id":"48","ccategory_id":"20","store_id":"1","status":"1","sort_order":"0","stores":["1","3"]} by Betzabe Sapon
+2023-06-17 13:11:13 - Create Category: {"category_id":"21","category_name":"LAMPARAS DECORATIVAS ","category_slug":"lamparas_decorativas","parent_id":"0","category_details":"","category_image":"","created_at":"2023-06-17 13:11:13","updated_at":null,"c2s_id":"50","ccategory_id":"21","store_id":"1","status":"1","sort_order":"0","stores":["1","3"]} by Betzabe Sapon
+2023-06-17 13:11:53 - Create Category: {"category_id":"22","category_name":"LAMPARAS COMERCIALES ","category_slug":"lamparas_comerciales","parent_id":"0","category_details":"","category_image":"","created_at":"2023-06-17 13:11:53","updated_at":null,"c2s_id":"52","ccategory_id":"22","store_id":"1","status":"1","sort_order":"0","stores":["1","3"]} by Betzabe Sapon
+2023-06-17 13:12:25 - Update Category: "21" by Betzabe Sapon
+2023-06-17 13:12:39 - Update Category: "22" by Betzabe Sapon
+2023-06-17 13:12:52 - Update Category: "20" by Betzabe Sapon
+2023-06-17 13:13:01 - Update Category: "19" by Betzabe Sapon
+2023-06-17 13:13:13 - Update Category: "18" by Betzabe Sapon
+2023-06-17 13:13:23 - Update Category: "17" by Betzabe Sapon
+2023-06-17 13:13:35 - Update Category: "16" by Betzabe Sapon
+2023-06-17 13:13:47 - Update Category: "14" by Betzabe Sapon
+2023-06-17 13:15:43 - Update Product: "2297" by Betzabe Sapon
+2023-06-17 13:16:39 - Update Product: "2296" by Betzabe Sapon
+2023-06-17 13:22:37 - Update Product: "1506" by Betzabe Sapon
+2023-06-17 13:23:27 - Update Product: "1507" by Betzabe Sapon
+2023-06-17 13:24:12 - Update Product: "2321" by Betzabe Sapon
+2023-06-17 13:25:03 - Update Product: "2306" by Betzabe Sapon
+2023-06-17 13:26:12 - Update Product: "2312" by Betzabe Sapon
+2023-06-17 13:26:51 - Update Product: "2311" by Betzabe Sapon
+2023-06-17 13:27:10 - Update Product: "2310" by Betzabe Sapon
+2023-06-17 13:27:31 - Update Product: "2309" by Betzabe Sapon
+2023-06-17 13:27:56 - Update Product: "2308" by Betzabe Sapon
+2023-06-17 13:29:24 - Update Product: "2343" by Betzabe Sapon
+2023-06-17 13:30:03 - Update Product: "2219" by Betzabe Sapon
+2023-06-17 13:30:17 - Update Product: "2218" by Betzabe Sapon
+2023-06-17 13:30:33 - Update Product: "2217" by Betzabe Sapon
+2023-06-17 13:32:07 - Create Supplier: {"sup_id":"33","sup_name":"ARQ. ALLANJ","code_name":"arq._allanj","sup_mobile":"12054050","sup_email":"allan@allan","gtin":"","sup_address":"ciudad","sup_city":"ciudad","sup_state":"ciudad","sup_country":"GT","sup_details":"","created_at":"2023-06-17 13:32:07","s2s_id":"66","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-17 13:33:02 - Update Product: "2209" by Betzabe Sapon
+2023-06-17 13:40:21 - Update Product: "2207" by Betzabe Sapon
+2023-06-17 13:40:45 - Update Product: "2206" by Betzabe Sapon
+2023-06-17 13:41:09 - Update Product: "2203" by Betzabe Sapon
+2023-06-17 13:41:23 - Update Product: "2204" by Betzabe Sapon
+2023-06-17 13:41:35 - Update Product: "2211" by Betzabe Sapon
+2023-06-17 13:41:46 - Update Product: "2208" by Betzabe Sapon
+2023-06-17 13:41:54 - Update Product: "2202" by Betzabe Sapon
+2023-06-17 13:42:05 - Update Product: "2205" by Betzabe Sapon
+2023-06-17 13:46:40 - Update Product: "2210" by Betzabe Sapon
+2023-06-17 13:47:01 - Update Product: "2144" by Betzabe Sapon
+2023-06-17 13:47:30 - Update Product: "2462" by Betzabe Sapon
+2023-06-17 13:47:52 - Update Product: "2461" by Betzabe Sapon
+2023-06-17 13:48:11 - Update Product: "2354" by Betzabe Sapon
+2023-06-17 14:09:59 - Update Product: "2320" by Betzabe Sapon
+2023-06-17 14:11:24 - Create Supplier: {"sup_id":"34","sup_name":"UNISA","code_name":"unisa","sup_mobile":"25878960","sup_email":"uni@uni","gtin":"","sup_address":"ciudad","sup_city":"ciudad","sup_state":"ciudad","sup_country":"GT","sup_details":"","created_at":"2023-06-17 14:11:24","s2s_id":"68","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-17 14:12:31 - Update Product: "2341" by Betzabe Sapon
+2023-06-17 14:12:53 - Update Product: "2340" by Betzabe Sapon
+2023-06-17 14:13:14 - Update Product: "2339" by Betzabe Sapon
+2023-06-17 14:13:48 - Update Product: "2338" by Betzabe Sapon
+2023-06-17 14:14:00 - Update Product: "2338" by Betzabe Sapon
+2023-06-17 14:14:47 - Update Product: "2337" by Betzabe Sapon
+2023-06-17 14:15:29 - Update Product: "2336" by Betzabe Sapon
+2023-06-17 14:16:03 - Update Product: "2335" by Betzabe Sapon
+2023-06-17 14:16:31 - Update Product: "2334" by Betzabe Sapon
+2023-06-17 14:17:05 - Update Product: "2333" by Betzabe Sapon
+2023-06-17 14:17:23 - Update Product: "2333" by Betzabe Sapon
+2023-06-17 14:17:48 - Update Product: "2362" by Betzabe Sapon
+2023-06-17 14:18:08 - Update Product: "2366" by Betzabe Sapon
+2023-06-17 14:19:27 - Update Product: "2216" by Betzabe Sapon
+2023-06-17 14:20:18 - Update Product: "2215" by Betzabe Sapon
+2023-06-17 14:20:52 - Update Product: "2214" by Betzabe Sapon
+2023-06-17 14:21:11 - Update Product: "2213" by Betzabe Sapon
+2023-06-17 14:21:29 - Update Product: "2212" by Betzabe Sapon
+2023-06-17 14:21:54 - Update Product: "2358" by Betzabe Sapon
+2023-06-17 14:22:17 - Update Product: "2359" by Betzabe Sapon
+2023-06-17 14:23:29 - Update Product: "2357" by Betzabe Sapon
+2023-06-17 14:23:47 - Update Product: "2356" by Betzabe Sapon
+2023-06-17 14:24:10 - Update Product: "2307" by Betzabe Sapon
+2023-06-17 14:24:31 - Update Product: "2459" by Betzabe Sapon
+2023-06-17 14:24:52 - Update Product: "2329" by Betzabe Sapon
+2023-06-17 14:30:13 - Delete Product: {"p_id":"2485","p_type":"standard","p_code":"MTX80","hsn_code":null,"barcode_symbology":"code128","p_name":"Juego Combinado  (1 Ecendedor y 2 Toma de corriente).","category_id":"1","unit_id":"15","p_image":"","description":"","id":"3671","product_id":"2485","store_id":"1","purchase_price":"0","sell_price":"107.9","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"1","box_id":"0","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-05","p_date":"2023-06-06","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"No brand","unit":"S\/U","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-17 14:30:23 - Delete Product: {"p_id":"2484","p_type":"standard","p_code":"MTX79","hsn_code":null,"barcode_symbology":"code128","p_name":"Juego Combinado  (2 Ecendedor y 1 Toma de corriente).","category_id":"1","unit_id":"15","p_image":"","description":"","id":"3670","product_id":"2484","store_id":"1","purchase_price":"0","sell_price":"106","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"1","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-05","p_date":"2023-06-06","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"No brand","unit":"S\/U","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-17 14:30:30 - Delete Product: {"p_id":"2483","p_type":"standard","p_code":"MTX78","hsn_code":null,"barcode_symbology":"code128","p_name":"Toma de Corriente Doble 2P+T, 15A, 125V Matix (ocupa 3 modulos).","category_id":"1","unit_id":"15","p_image":"","description":"","id":"3669","product_id":"2483","store_id":"1","purchase_price":"0","sell_price":"74.4","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"1","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-05","p_date":"2023-06-06","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"No brand","unit":"S\/U","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-17 14:31:14 - Delete Product: {"p_id":"2329","p_type":"standard","p_code":"MTX99","hsn_code":null,"barcode_symbology":"code128","p_name":"Puente Para 3 Mmodulos MATIX  (placa para poner los dados)","category_id":"13","unit_id":"10","p_image":"","description":"","id":"3508","product_id":"2329","store_id":"1","purchase_price":"1","sell_price":"9.65","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"31","brand_id":"1","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"CLS","brand_name":"No brand","unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-17 14:31:21 - Delete Product: {"p_id":"2482","p_type":"standard","p_code":"MTX77","hsn_code":null,"barcode_symbology":"code128","p_name":"Juego Toma de Corriente 2P+T, 15A, 125V MATIX  (1 toma de corriente).","category_id":"1","unit_id":"15","p_image":"","description":"","id":"3668","product_id":"2482","store_id":"1","purchase_price":"0","sell_price":"85.5","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"1","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-05","p_date":"2023-06-06","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"No brand","unit":"S\/U","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-17 14:31:29 - Delete Product: {"p_id":"2481","p_type":"standard","p_code":"MTX76","hsn_code":null,"barcode_symbology":"code128","p_name":"Juego Interruptor  Sencillo  Triple  MATIX  (3 swich).","category_id":"1","unit_id":"15","p_image":"","description":"","id":"3667","product_id":"2481","store_id":"1","purchase_price":"0","sell_price":"104","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"1","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-05","p_date":"2023-06-06","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"No brand","unit":"S\/U","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-17 14:31:44 - Delete Product: {"p_id":"2480","p_type":"standard","p_code":"MTX75","hsn_code":null,"barcode_symbology":"code128","p_name":"Juego Interruptor  Sencillo  Doble  MATIX  (2 swich).","category_id":"1","unit_id":"15","p_image":"","description":"","id":"3666","product_id":"2480","store_id":"1","purchase_price":"0","sell_price":"93.85","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"1","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-05","p_date":"2023-06-06","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"No brand","unit":"S\/U","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-17 14:31:51 - Delete Product: {"p_id":"2479","p_type":"standard","p_code":"MTX74","hsn_code":null,"barcode_symbology":"code128","p_name":"Juego Interruptor  Sencillo  MATIX  (1 swich).","category_id":"1","unit_id":"15","p_image":"","description":"","id":"3665","product_id":"2479","store_id":"1","purchase_price":"0","sell_price":"83.5","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"1","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-05","p_date":"2023-06-06","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"No brand","unit":"S\/U","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-17 14:32:22 - Update Product: "2344" by Betzabe Sapon
+2023-06-17 14:32:56 - Delete Product: {"p_id":"2351","p_type":"standard","p_code":"MTX65","hsn_code":"","barcode_symbology":"code128","p_name":"Juego Combinado  (1 Ecendedor y 2 Toma de corriente)","category_id":"1","unit_id":"15","p_image":"","description":"","id":"3538","product_id":"2351","store_id":"1","purchase_price":"1","sell_price":"107.9","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"1","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"No brand","unit":"S\/U","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-17 14:33:02 - Delete Product: {"p_id":"2350","p_type":"standard","p_code":"MTX64","hsn_code":"","barcode_symbology":"code128","p_name":"Juego Combinado  (2 Ecendedor y 1 Toma de corriente)","category_id":"1","unit_id":"15","p_image":"","description":"","id":"3537","product_id":"2350","store_id":"1","purchase_price":"1","sell_price":"106","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"1","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"No brand","unit":"S\/U","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-17 14:33:07 - Delete Product: {"p_id":"2349","p_type":"standard","p_code":"MTX63","hsn_code":"","barcode_symbology":"code128","p_name":"Toma de Corriente Doble 2P+T, 15A, 125V Matix (ocupa 3 modulos)  ","category_id":"1","unit_id":"15","p_image":"","description":"","id":"3536","product_id":"2349","store_id":"1","purchase_price":"1","sell_price":"74.4","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"1","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"No brand","unit":"S\/U","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-17 14:33:12 - Delete Product: {"p_id":"2348","p_type":"standard","p_code":"MTX62","hsn_code":"","barcode_symbology":"code128","p_name":"Juego Toma de Corriente 2P+T, 15A, 125V MATIX  (1 toma de corriente)","category_id":"1","unit_id":"15","p_image":"","description":"","id":"3535","product_id":"2348","store_id":"1","purchase_price":"1","sell_price":"85.5","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"1","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"No brand","unit":"S\/U","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-17 14:33:18 - Delete Product: {"p_id":"2347","p_type":"standard","p_code":"MTX61","hsn_code":"","barcode_symbology":"code128","p_name":"Juego Interruptor  Sencillo  Triple  MATIX  (3 swich)","category_id":"1","unit_id":"15","p_image":"","description":"","id":"3534","product_id":"2347","store_id":"1","purchase_price":"1","sell_price":"109","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"1","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"No brand","unit":"S\/U","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-17 14:33:24 - Delete Product: {"p_id":"2346","p_type":"standard","p_code":"MTX60","hsn_code":"","barcode_symbology":"code128","p_name":"Juego Interruptor  Sencillo  Doble  MATIX  (2 swich)","category_id":"1","unit_id":"15","p_image":"","description":"","id":"3533","product_id":"2346","store_id":"1","purchase_price":"1","sell_price":"98.85","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"1","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"No brand","unit":"S\/U","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-17 14:33:47 - Update Product: "2353" by Betzabe Sapon
+2023-06-17 14:33:53 - Delete Product: {"p_id":"2345","p_type":"standard","p_code":"MTX59","hsn_code":"","barcode_symbology":"code128","p_name":"Juego Interruptor  Sencillo  MATIX  (1 swich)","category_id":"1","unit_id":"15","p_image":"","description":"","id":"3532","product_id":"2345","store_id":"1","purchase_price":"1","sell_price":"88.5","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"1","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"No brand","unit":"S\/U","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-17 14:34:17 - Update Product: "2352" by Betzabe Sapon
+2023-06-17 14:34:43 - Update Product: "2328" by Betzabe Sapon
+2023-06-17 14:36:01 - Update Product: "2130" by Betzabe Sapon
+2023-06-17 14:36:25 - Update Product: "2131" by Betzabe Sapon
+2023-06-17 14:37:31 - Update Product: "2455" by Betzabe Sapon
+2023-06-17 14:38:43 - Update Product: "2293" by Betzabe Sapon
+2023-06-17 14:39:48 - Update Product: "2342" by Betzabe Sapon
+2023-06-17 14:39:57 - Update Product: "2342" by Betzabe Sapon
+2023-06-17 14:40:28 - Update Product: "2295" by Betzabe Sapon
+2023-06-17 14:40:58 - Update Product: "2294" by Betzabe Sapon
+2023-06-17 14:43:57 - Update Product: "2254" by Betzabe Sapon
+2023-06-17 14:47:34 - Update Product: "2237" by Betzabe Sapon
+2023-06-17 17:10:05 - Update Product: "2239" by Betzabe Sapon
+2023-06-17 17:11:08 - Update Product: "2238" by Betzabe Sapon
+2023-06-17 17:21:01 - Update Product: "2236" by Betzabe Sapon
+2023-06-17 17:21:57 - Update Product: "2235" by Betzabe Sapon
+2023-06-17 17:23:33 - Update Product: "2246" by Betzabe Sapon
+2023-06-17 17:25:15 - Update Product: "2245" by Betzabe Sapon
+2023-06-17 17:25:44 - Update Product: "2253" by Betzabe Sapon
+2023-06-17 17:26:21 - Update Product: "2256" by Betzabe Sapon
+2023-06-17 17:26:49 - Update Product: "2255" by Betzabe Sapon
+2023-06-17 17:28:25 - Update Category: "16" by Betzabe Sapon
+2023-06-17 17:30:15 - Update Product: "2227" by Betzabe Sapon
+2023-06-17 17:31:11 - Update Product: "2228" by Betzabe Sapon
+2023-06-17 17:31:51 - Update Product: "2226" by Betzabe Sapon
+2023-06-17 17:32:21 - Update Product: "2252" by Betzabe Sapon
+2023-06-17 17:33:27 - Update Product: "2225" by Betzabe Sapon
+2023-06-17 17:34:29 - Update Product: "2292" by Betzabe Sapon
+2023-06-17 17:34:34 - Update Product: "2292" by Betzabe Sapon
+2023-06-17 17:37:44 - Update Product: "2290" by Betzabe Sapon
+2023-06-17 17:37:50 - Update Product: "2290" by Betzabe Sapon
+2023-06-17 17:38:36 - Update Product: "2289" by Betzabe Sapon
+2023-06-17 17:39:42 - Delete Product: {"p_id":"2287","p_type":"standard","p_code":"L224","hsn_code":"","barcode_symbology":"code128","p_name":"LAMPARA TIPO PLAFON LED \"FLORES DE COLORES\"   18 W       \"VOLTECK\"","category_id":"1","unit_id":"15","p_image":"","description":"","id":"3466","product_id":"2287","store_id":"1","purchase_price":"1","sell_price":"125","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"1","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"No brand","unit":"S\/U","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-17 17:40:42 - Update Product: "2286" by Betzabe Sapon
+2023-06-17 17:42:01 - Update Product: "2262" by Betzabe Sapon
+2023-06-17 17:43:23 - Update Product: "2261" by Betzabe Sapon
+2023-06-17 17:45:05 - Update Product: "2229" by Betzabe Sapon
+2023-06-17 17:46:14 - Update Product: "2260" by Betzabe Sapon
+2023-06-17 17:47:20 - Update Product: "2259" by Betzabe Sapon
+2023-06-17 17:50:16 - Update Product: "2258" by Betzabe Sapon
+2023-06-17 17:51:11 - Update Product: "2257" by Betzabe Sapon
+2023-06-17 17:52:21 - Update Product: "2288" by Betzabe Sapon
+2023-06-17 17:53:37 - Update Product: "2301" by Betzabe Sapon

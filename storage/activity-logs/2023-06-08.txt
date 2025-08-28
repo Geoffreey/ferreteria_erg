@@ -1,0 +1,150 @@
+2023-06-08 12:25:38 - Create Supplier: {"sup_id":"4","sup_name":"PRISMA","code_name":"prisma","sup_mobile":"53533321","sup_email":"prisma@prisma.com","gtin":"","sup_address":"Guatemala","sup_city":"Guatemala","sup_state":"Guatemala","sup_country":"GT","sup_details":"","created_at":"2023-06-08 12:25:38","s2s_id":"10","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-08 12:29:19 - Create Supplier: {"sup_id":"5","sup_name":"Polaris","code_name":"polaris","sup_mobile":"7767 1817","sup_email":"polaris@polaris.com","gtin":"","sup_address":"Guatemala","sup_city":"Guatemala","sup_state":"Guatemala","sup_country":"GT","sup_details":"","created_at":"2023-06-08 12:29:19","s2s_id":"11","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-08 12:31:08 - Update Product: "1510" by Betzabe Sapon
+2023-06-08 12:31:52 - Update Product: "1511" by Betzabe Sapon
+2023-06-08 12:32:37 - Update Product: "1512" by Betzabe Sapon
+2023-06-08 12:32:50 - Update Product: "1512" by Betzabe Sapon
+2023-06-08 12:34:54 - Create Supplier: {"sup_id":"6","sup_name":"Sur","code_name":"sur","sup_mobile":"7763 0199","sup_email":"sur@sur.com","gtin":"","sup_address":"Guatemala","sup_city":"Guatemala","sup_state":"Guatemala","sup_country":"GT","sup_details":"","created_at":"2023-06-08 12:34:54","s2s_id":"13","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-08 12:35:52 - Update Product: "1513" by Betzabe Sapon
+2023-06-08 12:36:05 - Update Product: "1513" by Betzabe Sapon
+2023-06-08 12:39:01 - Create Supplier: {"sup_id":"7","sup_name":"Cortigua","code_name":"cortigua","sup_mobile":"2416 6767","sup_email":"cortigua@cortigua.com","gtin":"","sup_address":"Guatemala","sup_city":"Guatemala","sup_state":"Guatemala","sup_country":"GT","sup_details":"","created_at":"2023-06-08 12:39:01","s2s_id":"15","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-08 12:40:25 - Update Product: "1514" by Betzabe Sapon
+2023-06-08 12:41:16 - Update Product: "1515" by Betzabe Sapon
+2023-06-08 12:42:11 - Update Product: "1516" by Betzabe Sapon
+2023-06-08 12:42:33 - Update Product: "1515" by Betzabe Sapon
+2023-06-08 12:43:06 - Update Product: "1514" by Betzabe Sapon
+2023-06-08 12:43:44 - Update Product: "1517" by Betzabe Sapon
+2023-06-08 12:44:27 - Update Product: "1518" by Betzabe Sapon
+2023-06-08 12:45:08 - Update Product: "1519" by Betzabe Sapon
+2023-06-08 12:50:45 - Update Product: "1520" by Betzabe Sapon
+2023-06-08 12:51:58 - Update Product: "1521" by Betzabe Sapon
+2023-06-08 12:52:42 - Update Product: "1522" by Betzabe Sapon
+2023-06-08 12:53:25 - Update Product: "1523" by Betzabe Sapon
+2023-06-08 12:54:05 - Update Product: "1524" by Betzabe Sapon
+2023-06-08 12:54:34 - Update Product: "1525" by Betzabe Sapon
+2023-06-08 12:55:33 - Update Product: "1526" by Betzabe Sapon
+2023-06-08 12:58:06 - Create Supplier: {"sup_id":"8","sup_name":"FERROCASA ","code_name":"ferrocasa","sup_mobile":"77678315","sup_email":"ferrocasadeoccidente@gmail.com","gtin":"","sup_address":"Guatemala","sup_city":"Guatemala","sup_state":"Guatemala","sup_country":"GT","sup_details":"","created_at":"2023-06-08 12:58:06","s2s_id":"17","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-08 12:58:58 - Update Product: "1530" by Betzabe Sapon
+2023-06-08 13:00:34 - Create Supplier: {"sup_id":"9","sup_name":"TOLSEN","code_name":"tolsen","sup_mobile":"6625 6626","sup_email":"tolsen@tolsen.com","gtin":"","sup_address":"Guatemala","sup_city":"Guatemala","sup_state":"Guatemala","sup_country":"GT","sup_details":"","created_at":"2023-06-08 13:00:34","s2s_id":"19","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-08 13:01:23 - Update Product: "1527" by Betzabe Sapon
+2023-06-08 13:02:53 - Update Product: "1528" by Betzabe Sapon
+2023-06-08 13:07:24 - Update Product: "1529" by Betzabe Sapon
+2023-06-08 13:08:29 - Update Product: "1532" by Betzabe Sapon
+2023-06-08 13:09:25 - Update Product: "1531" by Betzabe Sapon
+2023-06-08 13:31:43 - Create Supplier: {"sup_id":"10","sup_name":"Multi Materiales","code_name":"multi_materiales","sup_mobile":"7736 8863","sup_email":"multim@multi.com","gtin":"","sup_address":"Guatemala","sup_city":"Guatemala","sup_state":"Guatemala","sup_country":"GT","sup_details":"","created_at":"2023-06-08 13:31:43","s2s_id":"21","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-08 13:35:00 - Create Supplier: {"sup_id":"11","sup_name":"Sn Miguel","code_name":"sn_miguel","sup_mobile":"22680808","sup_email":"snmiguel@snmiguel.com","gtin":"","sup_address":"Guatemala","sup_city":"Guatemala","sup_state":"Guatemala","sup_country":"GT","sup_details":"","created_at":"2023-06-08 13:35:00","s2s_id":"22","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-08 13:36:32 - Create Supplier: {"sup_id":"12","sup_name":"Carsa","code_name":"carsa","sup_mobile":" 2232 5446","sup_email":"carsa@carsa","gtin":"","sup_address":"Guatemala","sup_city":"Guatemala","sup_state":"Guatemala","sup_country":"GT","sup_details":"","created_at":"2023-06-08 13:36:32","s2s_id":"23","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-08 13:38:02 - Create Supplier: {"sup_id":"13","sup_name":"Ferretornillos","code_name":"ferretornillos","sup_mobile":"2216 2323","sup_email":"ferretor@ferretor.com","gtin":"","sup_address":"Guatemala","sup_city":"Guatemala","sup_state":"Guatemala","sup_country":"GT","sup_details":"","created_at":"2023-06-08 13:38:02","s2s_id":"24","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-08 13:39:48 - Create Supplier: {"sup_id":"14","sup_name":"Casa H","code_name":"casa_h","sup_mobile":"2327 7200","sup_email":"casah@casah.com","gtin":"","sup_address":"Guatemala","sup_city":"Guatemala","sup_state":"Guatemala","sup_country":"GT","sup_details":"","created_at":"2023-06-08 13:39:48","s2s_id":"25","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-08 13:42:38 - Create Supplier: {"sup_id":"15","sup_name":"Detalle C","code_name":"detalle_c","sup_mobile":"7763 7458","sup_email":"detallesceramicos@gmail.com","gtin":"","sup_address":"Guatemala","sup_city":"Guatemala","sup_state":"Guatemala","sup_country":"GT","sup_details":"","created_at":"2023-06-08 13:42:38","s2s_id":"26","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-08 13:46:23 - Update Product: "1533" by Betzabe Sapon
+2023-06-08 14:07:04 - Update Product: "1534" by Betzabe Sapon
+2023-06-08 14:07:47 - Update Product: "1535" by Betzabe Sapon
+2023-06-08 14:08:13 - Update Product: "1533" by Betzabe Sapon
+2023-06-08 14:09:50 - Update Product: "1536" by Betzabe Sapon
+2023-06-08 14:12:36 - Update Product: "1537" by Betzabe Sapon
+2023-06-08 14:13:23 - Update Product: "1538" by Betzabe Sapon
+2023-06-08 14:14:15 - Update Product: "1537" by Betzabe Sapon
+2023-06-08 14:15:18 - Update Product: "1539" by Betzabe Sapon
+2023-06-08 14:16:03 - Update Product: "1540" by Betzabe Sapon
+2023-06-08 14:16:51 - Update Product: "1541" by Betzabe Sapon
+2023-06-08 14:17:14 - Update Product: "1543" by Betzabe Sapon
+2023-06-08 14:17:58 - Update Product: "1542" by Betzabe Sapon
+2023-06-08 14:18:29 - Update Product: "1544" by Betzabe Sapon
+2023-06-08 14:18:46 - Update Product: "1545" by Betzabe Sapon
+2023-06-08 14:19:17 - Update Product: "1546" by Betzabe Sapon
+2023-06-08 14:20:17 - Update Product: "1547" by Betzabe Sapon
+2023-06-08 14:21:36 - Update Product: "1548" by Betzabe Sapon
+2023-06-08 17:01:21 - Update Product: "1548" by Betzabe Sapon
+2023-06-08 17:02:15 - Update Product: "1549" by Betzabe Sapon
+2023-06-08 17:07:09 - Update Product: "1550" by Betzabe Sapon
+2023-06-08 17:08:37 - Update Product: "1551" by Betzabe Sapon
+2023-06-08 17:08:51 - Update Product: "1552" by Betzabe Sapon
+2023-06-08 17:09:14 - Update Product: "1552" by Betzabe Sapon
+2023-06-08 17:09:23 - Update Product: "1551" by Betzabe Sapon
+2023-06-08 17:10:30 - Update Product: "1553" by Betzabe Sapon
+2023-06-08 17:24:13 - Update Product: "1554" by Betzabe Sapon
+2023-06-08 17:24:32 - Update Product: "1555" by Betzabe Sapon
+2023-06-08 17:30:39 - Update Product: "1556" by Betzabe Sapon
+2023-06-08 17:31:11 - Update Product: "1557" by Betzabe Sapon
+2023-06-08 17:31:38 - Update Product: "1558" by Betzabe Sapon
+2023-06-08 17:32:26 - Update Product: "1559" by Betzabe Sapon
+2023-06-08 17:32:52 - Update Product: "1559" by Betzabe Sapon
+2023-06-08 17:33:19 - Update Product: "1560" by Betzabe Sapon
+2023-06-08 17:33:35 - Update Product: "1560" by Betzabe Sapon
+2023-06-08 17:33:55 - Update Product: "1560" by Betzabe Sapon
+2023-06-08 17:34:23 - Update Product: "1561" by Betzabe Sapon
+2023-06-08 17:34:56 - Update Product: "1563" by Betzabe Sapon
+2023-06-08 17:35:25 - Update Product: "1562" by Betzabe Sapon
+2023-06-08 17:36:52 - Update Product: "1567" by Betzabe Sapon
+2023-06-08 17:37:44 - Update Product: "1566" by Betzabe Sapon
+2023-06-08 17:38:08 - Update Product: "1565" by Betzabe Sapon
+2023-06-08 17:38:30 - Update Product: "1564" by Betzabe Sapon
+2023-06-08 17:39:22 - Update Product: "1569" by Betzabe Sapon
+2023-06-08 17:39:57 - Update Product: "1568" by Betzabe Sapon
+2023-06-08 17:41:51 - Update Product: "1570" by Betzabe Sapon
+2023-06-08 17:42:49 - Update Product: "1571" by Betzabe Sapon
+2023-06-08 17:45:47 - Update Product: "1572" by Betzabe Sapon
+2023-06-08 17:47:01 - Update Product: "1573" by Betzabe Sapon
+2023-06-08 17:47:32 - Update Product: "1574" by Betzabe Sapon
+2023-06-08 17:48:15 - Update Product: "1575" by Betzabe Sapon
+2023-06-08 17:48:34 - Update Product: "1575" by Betzabe Sapon
+2023-06-08 17:49:00 - Update Product: "1577" by Betzabe Sapon
+2023-06-08 17:50:03 - Update Product: "1579" by Betzabe Sapon
+2023-06-08 17:50:27 - Update Product: "1580" by Betzabe Sapon
+2023-06-08 17:50:44 - Update Product: "1578" by Betzabe Sapon
+2023-06-08 17:51:41 - Update Product: "2464" by Betzabe Sapon
+2023-06-08 17:52:21 - Update Product: "1581" by Betzabe Sapon
+2023-06-08 17:53:01 - Update Product: "2465" by Betzabe Sapon
+2023-06-08 17:53:39 - Update Product: "1582" by Betzabe Sapon
+2023-06-08 17:53:57 - Update Product: "1582" by Betzabe Sapon
+2023-06-08 17:54:26 - Update Product: "2466" by Betzabe Sapon
+2023-06-08 17:54:53 - Update Product: "1583" by Betzabe Sapon
+2023-06-08 17:55:37 - Update Product: "2467" by Betzabe Sapon
+2023-06-08 17:56:01 - Update Product: "1584" by Betzabe Sapon
+2023-06-08 17:56:38 - Update Product: "1585" by Betzabe Sapon
+2023-06-08 18:08:17 - Create Purchase Invoice: "B45792" by Betzabe Sapon
+2023-06-08 18:13:03 - Aftere Showing Transfer List: "" by Betzabe Sapon
+2023-06-08 18:13:15 - Aftere Showing Transfer List: "" by Betzabe Sapon
+2023-06-08 18:15:02 - Aftere Showing Transfer List: "" by Betzabe Sapon
+2023-06-08 18:24:04 - Update Product: "1586" by Betzabe Sapon
+2023-06-08 18:24:40 - Update Product: "1587" by Betzabe Sapon
+2023-06-08 18:25:17 - Update Product: "1588" by Betzabe Sapon
+2023-06-08 18:25:41 - Update Product: "1589" by Betzabe Sapon
+2023-06-08 18:26:04 - Update Product: "1589" by Betzabe Sapon
+2023-06-08 18:26:26 - Update Product: "1589" by Betzabe Sapon
+2023-06-08 18:26:55 - Update Product: "1591" by Betzabe Sapon
+2023-06-08 18:27:15 - Update Product: "1591" by Betzabe Sapon
+2023-06-08 18:27:39 - Update Product: "1592" by Betzabe Sapon
+2023-06-08 18:28:39 - Update Product: "1591" by Betzabe Sapon
+2023-06-08 18:29:48 - Update Product: "1593" by Betzabe Sapon
+2023-06-08 18:31:20 - Update Product: "1594" by Betzabe Sapon
+2023-06-08 18:32:00 - Update Product: "1595" by Betzabe Sapon
+2023-06-08 18:32:59 - Update Product: "1596" by Betzabe Sapon
+2023-06-08 18:33:57 - Delete Product: {"p_id":"1597","p_type":"standard","p_code":"ESAND90","hsn_code":"","barcode_symbology":"code128","p_name":"YESO EN POLVO EASY SAND SECADO EN 90MIN","category_id":"8","unit_id":"14","p_image":"","description":"","id":"2765","product_id":"1597","store_id":"1","purchase_price":"125","sell_price":"175","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"1","brand_id":"59","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":null,"e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"No Supplier","brand_name":"USG","unit":"Kilos","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-08 18:34:32 - Update Product: "1598" by Betzabe Sapon
+2023-06-08 18:34:42 - Update Product: "1598" by Betzabe Sapon
+2023-06-08 18:35:40 - Update Product: "1599" by Betzabe Sapon
+2023-06-08 18:36:20 - Update Product: "1600" by Betzabe Sapon
+2023-06-08 18:36:55 - Update Product: "1601" by Betzabe Sapon
+2023-06-08 18:42:19 - Aftere Showing Transfer List: "" by Betzabe Sapon
+2023-06-08 18:42:31 - Aftere Showing Transfer List: "" by Betzabe Sapon
+2023-06-08 18:42:39 - Aftere Showing Transfer List: "" by Betzabe Sapon
+2023-06-08 18:50:56 - Aftere Showing Transfer List: "" by Betzabe Sapon
+2023-06-08 18:51:02 - Aftere Showing Transfer List: "" by Betzabe Sapon
+2023-06-08 19:26:43 - Update Product: "1602" by Betzabe Sapon
+2023-06-08 19:27:18 - Update Product: "1603" by Betzabe Sapon
+2023-06-08 19:27:53 - Update Product: "1604" by Betzabe Sapon
+2023-06-08 19:28:28 - Update Product: "1605" by Betzabe Sapon
+2023-06-08 19:29:08 - Update Product: "1606" by Betzabe Sapon
+2023-06-08 19:33:03 - Create Supplier: {"sup_id":"16","sup_name":"MNL","code_name":"mnl","sup_mobile":"23288000","sup_email":"ventas@grupoprecon.com","gtin":"","sup_address":"Guatemala","sup_city":"Guatemala","sup_state":"Guatemala","sup_country":"GT","sup_details":"","created_at":"2023-06-08 19:33:03","s2s_id":"32","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-08 19:34:03 - Update Product: "1606" by Betzabe Sapon
+2023-06-08 19:34:40 - Update Product: "1607" by Betzabe Sapon
+2023-06-08 19:35:19 - Update Product: "1608" by Betzabe Sapon
+2023-06-08 19:36:03 - Update Product: "1609" by Betzabe Sapon
+2023-06-08 19:37:11 - Update Product: "1610" by Betzabe Sapon
+2023-06-08 19:37:26 - Update Product: "1610" by Betzabe Sapon
+2023-06-08 19:38:41 - Update Product: "1611" by Betzabe Sapon
+2023-06-08 19:39:40 - Update Product: "1612" by Betzabe Sapon
+2023-06-08 19:40:19 - Update Product: "1613" by Betzabe Sapon
+2023-06-08 19:41:01 - Update Product: "1614" by Betzabe Sapon

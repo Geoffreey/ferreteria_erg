@@ -1,0 +1,15 @@
+2023-06-21 12:40:29 - Update Product: "2428" by Betzabe Sapon
+2023-06-21 12:41:37 - Update Product: "2170" by Betzabe Sapon
+2023-06-21 12:43:15 - Create Quotation: {"info_id":"2","reference_no":"003","invoice_id":null,"store_id":"1","customer_id":"4","customer_mobile":"","status":"sent","payment_status":"due","quotation_note":"prueba","is_installment":"0","is_order":"0","total_items":"2","address":null,"pmethod_details":null,"created_by":"1","created_at":"2023-06-21 12:43:15","updated_at":null,"price_id":"2","subtotal":"251.0000","discount_type":"plain","discount_amount":"0.0000","interest_amount":"0.0000","interest_percentage":"0","item_tax":"0.0000","order_tax":"0.0000","cgst":"0.0000","sgst":"0.0000","igst":"0.0000","total_purchase_price":"0.0000","shipping_type":"plain","shipping_amount":"0.0000","others_charge":"0.0000","payable_amount":"251.0000","customer_name":"Estelita Ixcoy","mobile_number":"20102030","customer_email":"d71c3d@gmail.com","by":"Betzabe Sapon","date":"2023-06-21"} by Betzabe Sapon
+2023-06-21 12:49:32 - Update Product: "2170" by Betzabe Sapon
+2023-06-21 12:50:56 - Update Product: "2170" by Betzabe Sapon
+2023-06-21 13:02:38 - Update Product: "2186" by Betzabe Sapon
+2023-06-21 13:03:25 - Update Product: "2182" by Betzabe Sapon
+2023-06-21 13:04:21 - Update Product: "2182" by Betzabe Sapon
+2023-06-21 13:05:08 - Update Product: "2181" by Betzabe Sapon
+2023-06-21 13:05:19 - Update Product: "2182" by Betzabe Sapon
+2023-06-21 13:08:39 - Update Product: "2187" by Betzabe Sapon
+2023-06-21 13:10:11 - Update Product: "2188" by Betzabe Sapon
+2023-06-21 13:10:55 - Update Product: "2187" by Betzabe Sapon
+2023-06-21 13:11:09 - Update Product: "2186" by Betzabe Sapon
+2023-06-21 13:16:02 - Update Product: "2424" by Betzabe Sapon

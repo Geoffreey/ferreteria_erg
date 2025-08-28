@@ -1,0 +1,38 @@
+2023-06-16 14:35:53 - Update Product: "1964" by Betzabe Sapon
+2023-06-16 14:45:01 - Delete Product: {"p_id":"2471","p_type":"standard","p_code":"11259","hsn_code":null,"barcode_symbology":"code128","p_name":"BROCA PARA CONCRETO   1\/4&quot; X 4&quot;","category_id":"4","unit_id":"10","p_image":"","description":"","id":"3657","product_id":"2471","store_id":"1","purchase_price":"0","sell_price":"10","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"9","brand_id":"57","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-06-05","p_date":"2023-06-06","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"TSN","brand_name":"TOLL","unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-16 14:46:55 - Update Product: "1965" by Betzabe Sapon
+2023-06-16 14:49:22 - Delete Product: {"p_id":"1965","p_type":"standard","p_code":"11203","hsn_code":null,"barcode_symbology":"code128","p_name":"BROCA CONCRETO   1\/4 &quot;x4&quot;","category_id":"4","unit_id":"10","p_image":"","description":"","id":"3137","product_id":"1965","store_id":"1","purchase_price":"5.38","sell_price":"14","quantity_in_stock":"0.0000","alert_quantity":"10.0000","sup_id":"25","brand_id":"58","box_id":"1","taxrate_id":"3","tax_method":"inclusive","preference":"a:0:{}","e_date":"2024-05-27","p_date":"2023-05-27","status":"1","sort_order":"0","stores":["1","3"],"sup_name":"Truper ","brand_name":"Truper","unit":"Unidad","taxrate":{"taxrate_id":"3","taxrate_name":"No Tax","code_name":"no_tax","taxrate":"0.0000","status":"1","sort_order":"1"},"purchase_tax_amount":0} by Betzabe Sapon
+2023-06-16 16:56:52 - Update Product: "1967" by Betzabe Sapon
+2023-06-16 16:57:20 - Update Product: "1968" by Betzabe Sapon
+2023-06-16 16:57:46 - Update Product: "1969" by Betzabe Sapon
+2023-06-16 17:05:59 - Create Supplier: {"sup_id":"29","sup_name":"Materiales El\u00e9ctricos ","code_name":"materiales_el\u00e9ctricos","sup_mobile":"25898745","sup_email":"elect@elect","gtin":"","sup_address":"ciudad","sup_city":"ciudad","sup_state":"ciudad","sup_country":"GT","sup_details":"","created_at":"2023-06-16 17:05:59","s2s_id":"59","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-16 17:07:19 - Create Supplier: {"sup_id":"30","sup_name":"ATLL","code_name":"atll","sup_mobile":"14253678","sup_email":"ATLL@ATLL","gtin":"","sup_address":"CIUDAD","sup_city":"CIUDAD","sup_state":"CIUDAD","sup_country":"GT","sup_details":"","created_at":"2023-06-16 17:07:19","s2s_id":"60","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-16 17:07:59 - Create Supplier: {"sup_id":"31","sup_name":"CLS","code_name":"cls","sup_mobile":"45210023","sup_email":"CLS@CLS","gtin":"","sup_address":"CIUDAD","sup_city":"ciudad","sup_state":"ciudad","sup_country":"GT","sup_details":"","created_at":"2023-06-16 17:07:59","s2s_id":"61","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-16 17:09:58 - Create Category: {"category_id":"11","category_name":"ELECTRICO","category_slug":"electrico","parent_id":"0","category_details":"","category_image":"","created_at":"2023-06-16 17:09:58","updated_at":null,"c2s_id":"30","ccategory_id":"11","store_id":"1","status":"1","sort_order":"0","stores":["1","3"]} by Betzabe Sapon
+2023-06-16 17:11:04 - Create Category: {"category_id":"12","category_name":"ACOMETICA ","category_slug":"acometica","parent_id":"11","category_details":"","category_image":"","created_at":"2023-06-16 17:11:04","updated_at":null,"c2s_id":"32","ccategory_id":"12","store_id":"1","status":"1","sort_order":"0","stores":["1","3"]} by Betzabe Sapon
+2023-06-16 17:12:02 - Update Category: "12" by Betzabe Sapon
+2023-06-16 17:12:54 - Update Category: "12" by Betzabe Sapon
+2023-06-16 17:13:30 - Update Product: "2454" by Betzabe Sapon
+2023-06-16 17:17:50 - Create Supplier: {"sup_id":"32","sup_name":"PLASMX","code_name":"plasmx","sup_mobile":"20023501","sup_email":"PLAS@PLAS","gtin":"","sup_address":"CIUDAD","sup_city":"CIUDAD","sup_state":"CIUDAD","sup_country":"GT","sup_details":"","created_at":"2023-06-16 17:17:50","s2s_id":"63","store_id":"1","balance":"0.0000","status":"1","sort_order":"0","stores":["1","3"]} by Betzabe Sapon
+2023-06-16 17:18:58 - Update Product: "2180" by Betzabe Sapon
+2023-06-16 17:19:17 - Update Product: "2178" by Betzabe Sapon
+2023-06-16 17:19:43 - Update Product: "2179" by Betzabe Sapon
+2023-06-16 17:21:08 - Update Product: "2447" by Betzabe Sapon
+2023-06-16 17:21:42 - Update Product: "2446" by Betzabe Sapon
+2023-06-16 17:22:15 - Update Product: "2445" by Betzabe Sapon
+2023-06-16 17:22:47 - Update Product: "2444" by Betzabe Sapon
+2023-06-16 17:23:31 - Update Product: "2304" by Betzabe Sapon
+2023-06-16 17:23:56 - Update Product: "2302" by Betzabe Sapon
+2023-06-16 17:25:02 - Update Product: "2303" by Betzabe Sapon
+2023-06-16 17:32:45 - Update Product: "2453" by Betzabe Sapon
+2023-06-16 17:33:48 - Update Supplier: "30" by Betzabe Sapon
+2023-06-16 17:35:40 - Update Product: "2452" by Betzabe Sapon
+2023-06-16 17:36:27 - Update Product: "2451" by Betzabe Sapon
+2023-06-16 17:37:11 - Update Product: "2450" by Betzabe Sapon
+2023-06-16 17:38:03 - Update Product: "2449" by Betzabe Sapon
+2023-06-16 17:38:38 - Update Product: "2448" by Betzabe Sapon
+2023-06-16 17:41:29 - Update Product: "2298" by Betzabe Sapon
+2023-06-16 17:42:38 - Update Product: "2299" by Betzabe Sapon
+2023-06-16 17:50:16 - Create Customer: {"customer_id":"4","customer_name":"Estelita Ixcoy","customer_email":"d71c3d@gmail.com","customer_mobile":"20102030","customer_address":"","dob":"1969-12-31","customer_sex":"1","customer_age":"0","gtin":"","customer_city":"","customer_state":"","customer_country":"AD","is_giftcard":"0","password":null,"raw_password":null,"created_at":"2023-06-16 17:50:16","updated_at":null,"c2s_id":"6","store_id":"1","balance":"0.0000","due":"0.0000","status":"1","sort_order":"0","stores":["1"]} by Betzabe Sapon
+2023-06-16 17:50:27 - Create Quotation: {"info_id":"1","reference_no":"001","invoice_id":null,"store_id":"1","customer_id":"4","customer_mobile":"","status":"sent","payment_status":"due","quotation_note":"prueba","is_installment":"0","is_order":"0","total_items":"4","address":null,"pmethod_details":null,"created_by":"1","created_at":"2023-06-16 17:50:27","updated_at":null,"price_id":"1","subtotal":"544.1900","discount_type":"plain","discount_amount":"0.0000","interest_amount":"0.0000","interest_percentage":"0","item_tax":"0.0000","order_tax":"0.0000","cgst":"0.0000","sgst":"0.0000","igst":"0.0000","total_purchase_price":"0.0000","shipping_type":"plain","shipping_amount":"0.0000","others_charge":"0.0000","payable_amount":"544.1900","customer_name":"Estelita Ixcoy","mobile_number":"20102030","customer_email":"d71c3d@gmail.com","by":"Betzabe Sapon","date":"2023-06-16"} by Betzabe Sapon
+2023-06-16 18:02:28 - Update Product: "2176" by Betzabe Sapon

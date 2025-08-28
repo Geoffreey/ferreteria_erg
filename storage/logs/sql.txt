@@ -1,0 +1,451 @@
+SHOW TABLES|
+SELECT * FROM `stores` WHERE `store_id` = ?|Array
+(
+    [0] => 1
+)
+
+SELECT * FROM `stores` WHERE `store_id` = ?|Array
+(
+    [0] => 
+)
+
+SELECT * FROM `users` LEFT JOIN `user_to_store` as `u2s` ON (`users`.`id` = `u2s`.`user_id`) WHERE `id` = ? AND `u2s`.`status` = ?|Array
+(
+    [0] => 13
+    [1] => 1
+)
+
+UPDATE `users` SET `preference` = ? WHERE `id` = ? |Array
+(
+    [0] => a:1:{s:8:"language";s:2:"en";}
+    [1] => 
+)
+
+SELECT `id` FROM `languages` WHERE `code` = ?|Array
+(
+    [0] => en
+)
+
+SELECT `id` FROM `languages` WHERE `code` = ?|Array
+(
+    [0] => en
+)
+
+SELECT `lang_key`, `lang_value` FROM `language_translations` WHERE `lang_id` = ?|Array
+(
+    [0] => 
+)
+
+SELECT * FROM `currency`|
+SELECT * FROM `stores` WHERE `store_id` = ?|Array
+(
+    [0] => 
+)
+
+SHOW TABLES|
+SELECT * FROM `stores` WHERE `store_id` = ?|Array
+(
+    [0] => 1
+)
+
+SELECT * FROM `stores` WHERE `store_id` = ?|Array
+(
+    [0] => 
+)
+
+UPDATE `users` SET `preference` = ? WHERE `id` = ? |Array
+(
+    [0] => a:1:{s:8:"language";s:2:"en";}
+    [1] => 
+)
+
+SELECT `id` FROM `languages` WHERE `code` = ?|Array
+(
+    [0] => en
+)
+
+SELECT `id` FROM `languages` WHERE `code` = ?|Array
+(
+    [0] => en
+)
+
+SELECT `lang_key`, `lang_value` FROM `language_translations` WHERE `lang_id` = ?|Array
+(
+    [0] => 
+)
+
+SELECT * FROM `currency`|
+SELECT * FROM `stores` WHERE `store_id` = ?|Array
+(
+    [0] => 
+)
+
+SELECT `id` FROM `language_translations` WHERE `lang_id` = ? AND `lang_key` = ?|Array
+(
+    [0] => 
+    [1] => text_login_title
+)
+
+INSERT INTO `language_translations` (lang_id, lang_key) VALUES(?, ?)|Array
+(
+    [0] => 
+    [1] => text_login_title
+)
+
+SELECT `id` FROM `language_translations` WHERE `lang_id` = ? AND `lang_key` = ?|Array
+(
+    [0] => 
+    [1] => title_log_in
+)
+
+INSERT INTO `language_translations` (lang_id, lang_key) VALUES(?, ?)|Array
+(
+    [0] => 
+    [1] => title_log_in
+)
+
+SELECT `id` FROM `language_translations` WHERE `lang_id` = ? AND `lang_key` = ?|Array
+(
+    [0] => 
+    [1] => text_login
+)
+
+INSERT INTO `language_translations` (lang_id, lang_key) VALUES(?, ?)|Array
+(
+    [0] => 
+    [1] => text_login
+)
+
+SELECT `id` FROM `language_translations` WHERE `lang_id` = ? AND `lang_key` = ?|Array
+(
+    [0] => 
+    [1] => button_sign_in
+)
+
+INSERT INTO `language_translations` (lang_id, lang_key) VALUES(?, ?)|Array
+(
+    [0] => 
+    [1] => button_sign_in
+)
+
+SELECT `id` FROM `language_translations` WHERE `lang_id` = ? AND `lang_key` = ?|Array
+(
+    [0] => 
+    [1] => text_forgot_password
+)
+
+INSERT INTO `language_translations` (lang_id, lang_key) VALUES(?, ?)|Array
+(
+    [0] => 
+    [1] => text_forgot_password
+)
+
+SELECT `id` FROM `language_translations` WHERE `lang_id` = ? AND `lang_key` = ?|Array
+(
+    [0] => 
+    [1] => text_forgot_password
+)
+
+INSERT INTO `language_translations` (lang_id, lang_key) VALUES(?, ?)|Array
+(
+    [0] => 
+    [1] => text_forgot_password
+)
+
+SELECT `id` FROM `language_translations` WHERE `lang_id` = ? AND `lang_key` = ?|Array
+(
+    [0] => 
+    [1] => title_forgot_password
+)
+
+INSERT INTO `language_translations` (lang_id, lang_key) VALUES(?, ?)|Array
+(
+    [0] => 
+    [1] => title_forgot_password
+)
+
+SELECT `id` FROM `language_translations` WHERE `lang_id` = ? AND `lang_key` = ?|Array
+(
+    [0] => 
+    [1] => text_forgot_password_instruction
+)
+
+INSERT INTO `language_translations` (lang_id, lang_key) VALUES(?, ?)|Array
+(
+    [0] => 
+    [1] => text_forgot_password_instruction
+)
+
+SELECT `id` FROM `language_translations` WHERE `lang_id` = ? AND `lang_key` = ?|Array
+(
+    [0] => 
+    [1] => button_close
+)
+
+INSERT INTO `language_translations` (lang_id, lang_key) VALUES(?, ?)|Array
+(
+    [0] => 
+    [1] => button_close
+)
+
+SELECT `id` FROM `language_translations` WHERE `lang_id` = ? AND `lang_key` = ?|Array
+(
+    [0] => 
+    [1] => button_submit
+)
+
+INSERT INTO `language_translations` (lang_id, lang_key) VALUES(?, ?)|Array
+(
+    [0] => 
+    [1] => button_submit
+)
+
+SHOW TABLES|
+SELECT * FROM `stores` WHERE `store_id` = ?|Array
+(
+    [0] => 1
+)
+
+SELECT * FROM `stores` WHERE `store_id` = ?|Array
+(
+    [0] => 
+)
+
+UPDATE `users` SET `preference` = ? WHERE `id` = ? |Array
+(
+    [0] => a:1:{s:8:"language";s:2:"en";}
+    [1] => 
+)
+
+SELECT `id` FROM `languages` WHERE `code` = ?|Array
+(
+    [0] => en
+)
+
+SELECT `id` FROM `languages` WHERE `code` = ?|Array
+(
+    [0] => en
+)
+
+SELECT `lang_key`, `lang_value` FROM `language_translations` WHERE `lang_id` = ?|Array
+(
+    [0] => 
+)
+
+SELECT * FROM `currency`|
+SELECT * FROM `stores` WHERE `store_id` = ?|Array
+(
+    [0] => 
+)
+
+SELECT `id` FROM `language_translations` WHERE `lang_id` = ? AND `lang_key` = ?|Array
+(
+    [0] => 
+    [1] => text_login_title
+)
+
+INSERT INTO `language_translations` (lang_id, lang_key) VALUES(?, ?)|Array
+(
+    [0] => 
+    [1] => text_login_title
+)
+
+SELECT `id` FROM `login_logs` WHERE `status` = ? AND `ip` = ? AND `created_at` >= ? AND `created_at` <= ?|Array
+(
+    [0] => error
+    [1] => 127.0.0.1
+    [2] => 2025-04-17 16:18:12
+    [3] => 2025-04-17 18:18:12
+)
+
+SELECT * FROM `users` LEFT JOIN `user_to_store` as u2s ON (`users`.`id` = `u2s`.`user_id`) WHERE (`email` = ? OR `mobile` = ?) AND `password` = ?|Array
+(
+    [0] => jcastillo@decomprasgt.com
+    [1] => jcastillo@decomprasgt.com
+    [2] => 60640c59603620037868d3695e3ffa0c
+)
+
+INSERT INTO `login_logs` SET `ip` = ?, `status` = ?|Array
+(
+    [0] => 127.0.0.1
+    [1] => error
+)
+
+SELECT `id` FROM `language_translations` WHERE `lang_id` = ? AND `lang_key` = ?|Array
+(
+    [0] => 
+    [1] => error_invalid_username_password
+)
+
+INSERT INTO `language_translations` (lang_id, lang_key) VALUES(?, ?)|Array
+(
+    [0] => 
+    [1] => error_invalid_username_password
+)
+
+SHOW TABLES|
+SELECT * FROM `stores` WHERE `store_id` = ?|Array
+(
+    [0] => 1
+)
+
+SELECT * FROM `stores` WHERE `store_id` = ?|Array
+(
+    [0] => 
+)
+
+UPDATE `users` SET `preference` = ? WHERE `id` = ? |Array
+(
+    [0] => a:1:{s:8:"language";s:2:"en";}
+    [1] => 
+)
+
+SELECT `id` FROM `languages` WHERE `code` = ?|Array
+(
+    [0] => en
+)
+
+SELECT `id` FROM `languages` WHERE `code` = ?|Array
+(
+    [0] => en
+)
+
+SELECT `lang_key`, `lang_value` FROM `language_translations` WHERE `lang_id` = ?|Array
+(
+    [0] => 
+)
+
+SELECT * FROM `currency`|
+SELECT * FROM `stores` WHERE `store_id` = ?|Array
+(
+    [0] => 
+)
+
+SELECT `id` FROM `language_translations` WHERE `lang_id` = ? AND `lang_key` = ?|Array
+(
+    [0] => 
+    [1] => text_login_title
+)
+
+INSERT INTO `language_translations` (lang_id, lang_key) VALUES(?, ?)|Array
+(
+    [0] => 
+    [1] => text_login_title
+)
+
+SELECT `id` FROM `login_logs` WHERE `status` = ? AND `ip` = ? AND `created_at` >= ? AND `created_at` <= ?|Array
+(
+    [0] => error
+    [1] => 127.0.0.1
+    [2] => 2025-04-17 16:18:13
+    [3] => 2025-04-17 18:18:13
+)
+
+SELECT * FROM `users` LEFT JOIN `user_to_store` as u2s ON (`users`.`id` = `u2s`.`user_id`) WHERE (`email` = ? OR `mobile` = ?) AND `password` = ?|Array
+(
+    [0] => jcastillo@decomprasgt.com
+    [1] => jcastillo@decomprasgt.com
+    [2] => 60640c59603620037868d3695e3ffa0c
+)
+
+INSERT INTO `login_logs` SET `ip` = ?, `status` = ?|Array
+(
+    [0] => 127.0.0.1
+    [1] => error
+)
+
+SELECT `id` FROM `language_translations` WHERE `lang_id` = ? AND `lang_key` = ?|Array
+(
+    [0] => 
+    [1] => error_invalid_username_password
+)
+
+INSERT INTO `language_translations` (lang_id, lang_key) VALUES(?, ?)|Array
+(
+    [0] => 
+    [1] => error_invalid_username_password
+)
+
+SHOW TABLES|
+SELECT * FROM `stores` WHERE `store_id` = ?|Array
+(
+    [0] => 1
+)
+
+SELECT * FROM `stores` WHERE `store_id` = ?|Array
+(
+    [0] => 
+)
+
+UPDATE `users` SET `preference` = ? WHERE `id` = ? |Array
+(
+    [0] => a:1:{s:8:"language";s:2:"en";}
+    [1] => 
+)
+
+SELECT `id` FROM `languages` WHERE `code` = ?|Array
+(
+    [0] => en
+)
+
+SELECT `id` FROM `languages` WHERE `code` = ?|Array
+(
+    [0] => en
+)
+
+SELECT `lang_key`, `lang_value` FROM `language_translations` WHERE `lang_id` = ?|Array
+(
+    [0] => 
+)
+
+SELECT * FROM `currency`|
+SELECT * FROM `stores` WHERE `store_id` = ?|Array
+(
+    [0] => 
+)
+
+SELECT `id` FROM `language_translations` WHERE `lang_id` = ? AND `lang_key` = ?|Array
+(
+    [0] => 
+    [1] => text_login_title
+)
+
+INSERT INTO `language_translations` (lang_id, lang_key) VALUES(?, ?)|Array
+(
+    [0] => 
+    [1] => text_login_title
+)
+
+SELECT `id` FROM `login_logs` WHERE `status` = ? AND `ip` = ? AND `created_at` >= ? AND `created_at` <= ?|Array
+(
+    [0] => error
+    [1] => 127.0.0.1
+    [2] => 2025-04-17 16:18:14
+    [3] => 2025-04-17 18:18:14
+)
+
+SELECT * FROM `users` LEFT JOIN `user_to_store` as u2s ON (`users`.`id` = `u2s`.`user_id`) WHERE (`email` = ? OR `mobile` = ?) AND `password` = ?|Array
+(
+    [0] => jcastillo@decomprasgt.com
+    [1] => jcastillo@decomprasgt.com
+    [2] => 60640c59603620037868d3695e3ffa0c
+)
+
+INSERT INTO `login_logs` SET `ip` = ?, `status` = ?|Array
+(
+    [0] => 127.0.0.1
+    [1] => error
+)
+
+SELECT `id` FROM `language_translations` WHERE `lang_id` = ? AND `lang_key` = ?|Array
+(
+    [0] => 
+    [1] => error_invalid_username_password
+)
+
+INSERT INTO `language_translations` (lang_id, lang_key) VALUES(?, ?)|Array
+(
+    [0] => 
+    [1] => error_invalid_username_password
+)
+
