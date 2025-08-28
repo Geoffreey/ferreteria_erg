@@ -3,7 +3,7 @@ define('INSTALLED', true);
 
 	$sql_details = array(
 'host' => 'localhost',
-'db' => 'systccbx_decomprasgt',
+'db' => 'systccbx_ferreteriaerg',
 'user' => 'root',
 'pass' => '',
 'port' => '3306'
@@ -55,7 +55,7 @@ define('INSTALLED', true);
 	 *
 	  *Esto es útil cuando alojará la aplicación dentro de un subdirectorio de root
 	 */
-	define('SUBDIRECTORY', 'decomprasgt');
+	define('SUBDIRECTORY', 'ferreteria_erg');
 
 
 	/*
