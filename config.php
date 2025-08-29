@@ -3,7 +3,7 @@ define('INSTALLED', true);
 
 	$sql_details = array(
 'host' => 'localhost',
-'db' => 'systccbx_ferreteriaerg',
+'db' => 'systccbx_corporacionerg',
 'user' => 'root',
 'pass' => '',
 'port' => '3306'
