@@ -200,31 +200,7 @@ $tab_active = isset($request->get['tab']) ? $request->get['tab'] : 'general';
                 </a>
               </div>
             </div>
-          </div>
-                  <!--Talla-->
-          <div ng-hide="hideTalla" class="form-group">
-            <label for="talla_id" class="col-sm-3 control-label">
-              <?php echo trans('label_talla'); ?>
-            </label>
-            <div class="col-sm-7">
-              <div class="{{ !hideTallaAddBtn ? 'input-group' : null }}">
-                <select id="talla_id" class="form-control" name="talla_id" required>
-                  <option value="">
-                    <?php echo trans('text_select'); ?>
-                  </option>
-                  <?php foreach (get_tallas() as $talla) : ?>
-                    <option value="<?php echo $talla['talla_id']; ?>">
-                      <?php echo $talla['talla_name'] ; ?>
-                    </option>
-                  <?php endforeach; ?>
-                </select>
-                <a ng-hide="hideTalladAddBtn" class="input-group-addon" ng-click="createNewTalla();" onClick="return false;" href="talla.php?box_state=open">
-                  <i class="fa fa-plus"></i>
-                </a>
-              </div>
-            </div>
-          </div>  
-          
+          </div> 
           <div class="form-group">
             <label for="barcode_symbology" class="col-sm-3 control-label">
               <?php echo trans('label_barcode_symbology'); ?><i class="required">*</i>

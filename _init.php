@@ -147,7 +147,6 @@ Cun6Q:
     require_once DIR_HELPER . "store.php"; 
     require_once DIR_HELPER . "supplier.php"; 
     require_once DIR_HELPER . "brand.php";
-    require_once DIR_HELPER . "talla.php"; 
     require_once DIR_HELPER . "user.php"; 
     require_once DIR_HELPER . "usergroup.php"; 
     require_once DIR_HELPER . "validator.php"; 

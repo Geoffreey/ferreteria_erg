@@ -496,20 +496,6 @@ class ModelReport extends Model
 		return $statement->fetchAll(PDO::FETCH_ASSOC);
 	}
 
-	public function getTopTallas($from, $to, $limit = 3, $store_id = null)
-	{
-		$store_id = $store_id ? $store_id : store_id();
-		$where_query = "`selling_info`.`store_id` = '$store_id' AND `selling_item`.`talla_id` IS NOT NULL AND `selling_item`.`sup_id` != '0'";
-		$where_query .= date_range_filter($from, $to);
-		$statement = $this->db->prepare("SELECT `selling_info`.`store_id`, `selling_info`.*, `selling_item`.`talla_id`, SUM(`selling_item`.`item_quantity`) as quantity FROM `selling_info` 
-			LEFT JOIN `selling_item` ON (`selling_info`.`invoice_id` = `selling_item`.`invoice_id`)
-			WHERE $where_query
-			GROUP BY `selling_item`.`talla_id` ORDER BY `quantity` 
-			DESC LIMIT $limit");
-		$statement->execute(array());
-		return $statement->fetchAll(PDO::FETCH_ASSOC);
-	}
-
 	public function totalOutOfStock($store_id = null)
 	{
 		$store_id = $store_id ? $store_id : store_id();

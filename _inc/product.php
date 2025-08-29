@@ -354,10 +354,6 @@ $Hooks->do_action('Before_Showing_Product_List');
 
 $where_query = 'p2s.store_id = ' . store_id();
 
-if (isset($request->get['talla_id']) && $request->get['talla_id'] !== 'null' && $request->get['talla_id'] !== '') {
-  $talla_id = (int)$request->get['talla_id'];
-  $where_query .= ' AND p2s.talla_id = ' . $talla_id;
-}
  
 // tabla de base de datos a utilizar
 $table = "(SELECT products.*, p2s.*, suppliers.sup_mobile, suppliers.sup_name as supplier, categorys.category_name as category, boxes.box_name FROM products 
@@ -365,7 +361,6 @@ $table = "(SELECT products.*, p2s.*, suppliers.sup_mobile, suppliers.sup_name as
   LEFT JOIN suppliers ON (p2s.sup_id = suppliers.sup_id)
   LEFT JOIN categorys ON (products.category_id = categorys.category_id) 
   LEFT JOIN boxes ON (p2s.box_id = boxes.box_id)
-  LEFT JOIN tallas ON (p2s.talla_id = tallas.talla_id)
   WHERE $where_query GROUP by products.p_id
   ORDER BY p2s.p_date DESC
   ) as products";
@@ -414,7 +409,6 @@ $columns = array(
     }
   ),
   array( 'db' => 'category_id',  'dt' => 'category_id' ),
-  array( 'db' => 'talla_id',  'dt' => 'talla_id' ),
   array( 'db' => 'sup_id',  'dt' => 'sup_id' ),
   array( 
     'db' => 'supplier',   
@@ -438,14 +432,6 @@ $columns = array(
     'dt' => 'category_name' ,
     'formatter' => function($d, $row) {
         return get_the_category($row['category_id'], 'category_name');
-        
-    }
-  ),
-  array( 
-    'db' => 'talla_id',   
-    'dt' => 'talla_name' ,
-    'formatter' => function($d, $row) {
-        return get_the_talla($row['talla_id'], 'talla_name');
         
     }
   ),

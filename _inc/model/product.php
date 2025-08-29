@@ -66,19 +66,9 @@ class ModelProduct extends Model
 					$statement->execute(array((int)$data['brand_id'], $store_id));
 			    }
 
-			//--- talla to store ---//
-
-			$statement = $this->db->prepare("SELECT * FROM `talla_to_store` WHERE `store_id` = ? AND `talla_id` = ?");
-			$statement->execute(array($store_id, $data['talla_id']));
-			$talla = $statement->fetch(PDO::FETCH_ASSOC);
-			if (!$talla) {
-				$statement = $this->db->prepare("INSERT INTO `talla_to_store` SET `talla_id` = ?, `store_id` = ?");
-				$statement->execute(array((int)$data['talla_id'], $store_id));
-			}
-
 			//--- product to store ---//
-				$statement = $this->db->prepare("INSERT INTO `product_to_store` SET `product_id` = ?, `store_id` = ?, `purchase_price` = ?, `sell_price` = ?, `sup_id` = ?, `brand_id` = ?, `talla_id` = ?, `box_id` = ?, `taxrate_id` = ?, `tax_method` = ?, `preference` = ?, `e_date` = ?, `alert_quantity` = ?, `p_date` = ?");
-				$statement->execute(array($product_id, $store_id, $data['purchase_price'], $data['sell_price'], $data['sup_id'], $data['brand_id'], $data['talla_id'], $data['box_id'], $data['taxrate_id'], $data['tax_method'], $preference, $data['e_date'], $data['alert_quantity'], date('Y-m-d')));
+				$statement = $this->db->prepare("INSERT INTO `product_to_store` SET `product_id` = ?, `store_id` = ?, `purchase_price` = ?, `sell_price` = ?, `sup_id` = ?, `brand_id` = ?, `box_id` = ?, `taxrate_id` = ?, `tax_method` = ?, `preference` = ?, `e_date` = ?, `alert_quantity` = ?, `p_date` = ?");
+				$statement->execute(array($product_id, $store_id, $data['purchase_price'], $data['sell_price'], $data['sup_id'], $data['brand_id'], $data['box_id'], $data['taxrate_id'], $data['tax_method'], $preference, $data['e_date'], $data['alert_quantity'], date('Y-m-d')));
 			}
 		}
 
@@ -182,29 +172,19 @@ class ModelProduct extends Model
 					$statement->execute(array((int)$data['brand_id'], $store_id));
 			    }
 
-				//--- talla to store ---//
-
-			    $statement = $this->db->prepare("SELECT * FROM `talla_to_store` WHERE `store_id` = ? AND `talla_id` = ?");
-			    $statement->execute(array($store_id, $data['talla_id']));
-			    $talla = $statement->fetch(PDO::FETCH_ASSOC);
-			    if (!$talla) {
-			    	$statement = $this->db->prepare("INSERT INTO `talla_to_store` SET `talla_id` = ?, `store_id` = ?");
-					$statement->execute(array((int)$data['talla_id'], $store_id));
-			    }
-
 			//--- product to store ---//
 
 				$statement = $this->db->prepare("SELECT * FROM `product_to_store` WHERE `store_id` = ? AND `product_id` = ?");
 			    $statement->execute(array($store_id, $product_id));
 			    $product = $statement->fetch(PDO::FETCH_ASSOC);
 			    if (!$product) {
-			    	$statement = $this->db->prepare("INSERT INTO `product_to_store` SET `product_id` = ?, `store_id` = ?, `sup_id` = ?,`brand_id` = ?, `talla_id` = ?, `box_id` = ?, `taxrate_id` = ?, `tax_method` = ?, `preference` = ?, `sell_price` = ?, `e_date` = ?, `alert_quantity` = ?, `p_date` = ?");
-					$statement->execute(array($product_id, $store_id, $data['sup_id'], $data['brand_id'], $data['talla_id'], $data['box_id'], $data['taxrate_id'], $data['tax_method'], $preference, $data['sell_price'], $data['e_date'], $data['alert_quantity'], date('Y-m-d')));
+			    	$statement = $this->db->prepare("INSERT INTO `product_to_store` SET `product_id` = ?, `store_id` = ?, `sup_id` = ?,`brand_id` = ?, `box_id` = ?, `taxrate_id` = ?, `tax_method` = ?, `preference` = ?, `sell_price` = ?, `e_date` = ?, `alert_quantity` = ?, `p_date` = ?");
+					$statement->execute(array($product_id, $store_id, $data['sup_id'], $data['brand_id'], $data['box_id'], $data['taxrate_id'], $data['tax_method'], $preference, $data['sell_price'], $data['e_date'], $data['alert_quantity'], date('Y-m-d')));
 			    
 			    } else {
 
-			    	$statement = $this->db->prepare("UPDATE `product_to_store` SET `sup_id` = ?,  `brand_id` = ?, `talla_id` = ?, `box_id` = ?, `taxrate_id` = ?, `tax_method` = ?, `preference` = ?, `purchase_price` = ?, `sell_price` = ?, `e_date` = ?, `alert_quantity` = ? WHERE `store_id` = ? AND `product_id` = ?");
-					$statement->execute(array($data['sup_id'], $data['brand_id'], $data['talla_id'], $data['box_id'], $data['taxrate_id'], $data['tax_method'], $preference, $data['purchase_price'], $data['sell_price'], $data['e_date'], $data['alert_quantity'], $store_id, $product_id));
+			    	$statement = $this->db->prepare("UPDATE `product_to_store` SET `sup_id` = ?,  `brand_id` = ?, `box_id` = ?, `taxrate_id` = ?, `tax_method` = ?, `preference` = ?, `purchase_price` = ?, `sell_price` = ?, `e_date` = ?, `alert_quantity` = ? WHERE `store_id` = ? AND `product_id` = ?");
+					$statement->execute(array($data['sup_id'], $data['brand_id'], $data['box_id'], $data['taxrate_id'], $data['tax_method'], $preference, $data['purchase_price'], $data['sell_price'], $data['e_date'], $data['alert_quantity'], $store_id, $product_id));
 			    }
 
 			    $store_ids[] = $store_id;
@@ -351,7 +331,6 @@ class ModelProduct extends Model
 	    $product['sup_name'] = get_the_supplier($product['sup_id'],'sup_name');
 		$product['category_name'] = get_the_category($product['category_id'],'category_name');
 	    $product['brand_name'] = get_the_brand($product['brand_id'],'brand_name');
-		$product['talla_name'] = get_the_brand($product['talla_id'],'talla_name');
 	    $product['unit'] = get_the_unit($product['unit_id'],'unit_name');
 	    $product['taxrate'] = '';
 	    $product['purchase_tax_amount'] = '0.00';
@@ -371,8 +350,7 @@ class ModelProduct extends Model
 			LEFT JOIN `product_to_store` p2s ON (`p`.`p_id` = `p2s`.`product_id`) 
 			LEFT JOIN `suppliers` s ON (`p2s`.`sup_id` = `s`.`sup_id`) 
 			LEFT JOIN `categorys` c ON (`p`.`category_id` = `p`.`category_id`)
-			LEFT JOIN `brands` b ON (`p2s`.`brand_id` = `b`.`brand_id`)
-			LEFT JOIN `tallas` t ON (`p2s`.`talla_id` = `t`.`talla_id`) 
+			LEFT JOIN `brands` b ON (`p2s`.`brand_id` = `b`.`brand_id`) 
 			LEFT JOIN `boxes` bx ON (`p2s`.`box_id` = `bx`.`box_id`) 
 			LEFT JOIN `taxrates` tr ON (`p2s`.`taxrate_id` = `tr`.`taxrate_id`) 
 			WHERE `p2s`.`store_id` = ? AND `p2s`.`status` = ?";
@@ -387,10 +365,6 @@ class ModelProduct extends Model
 
 		if (isset($data['filter_brand_id'])) {
 			$sql .= " AND `p2s`.`brand_id` = '" . $data['filter_brand_id'] . "'";
-		}
-
-		if (isset($data['filter_talla_id'])) {
-			$sql .= " AND `p2s`.`talla_id` = '" . $data['filter_talla_id'] . "'";
 		}
 
 		if (isset($data['filter_name'])) {

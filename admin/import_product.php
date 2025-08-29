@@ -112,7 +112,6 @@ if (isset($request->post['submit']))
 						$pro_data['tax_method'] = isset($Row[10]) ? $Row[10] : 'inclusive';
 						$pro_data['sup_id'] = get_supplier_id_by_code($Row[11]);
 						$pro_data['brand_id'] = get_brand_id_by_code($Row[12]);
-						$pro_data['talla_id'] = get_talla_id_by_code($Row[13]);
 						$pro_data['box_id'] = get_box_id_by_code($Row[14]);
 						$pro_data['alert_quantity'] = isset($Row[15]) ? (float)$Row[15] : 10;
 						$pro_data['cost_price'] = isset($Row[16]) ? (float)$Row[16] : 0;
@@ -158,9 +157,6 @@ if (isset($request->post['submit']))
 						if (!$pro_data['brand_id']) {
 							throw new Exception(trans('error_invalid_brand_code').' ('.$pro_data['product_name'].'-'.$pro_data['code'].')');
 						}
-						if (!$pro_data['talla_id']) {
-							throw new Exception(trans('error_invalid_talla_code').' ('.$pro_data['product_name'].'-'.$pro_data['code'].')');
-						}
 						if (!$pro_data['box_id']) {
 							throw new Exception(trans('error_invalid_box_code').' ('.$pro_data['product_name'].'-'.$pro_data['code'].')');
 						}
@@ -198,8 +194,8 @@ if (isset($request->post['submit']))
 							if ($product_id) {
 								foreach ($store_code_names as $store_code) {
 									$store_id = get_store_id_by_code($store_code);
-									$statement = db()->prepare("INSERT INTO `product_to_store` (product_id, store_id, purchase_price, sell_price, alert_quantity, sup_id, brand_id, talla_id, box_id, taxrate_id, tax_method, e_date, p_date, status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
-			        				$statement = $statement->execute(array($product_id, $store_id, $pro_data['cost_price'], $pro_data['sell_price'], $pro_data['alert_quantity'], $pro_data['sup_id'], $pro_data['brand_id'], $pro_data['talla_id'], $pro_data['box_id'], $pro_data['taxrate_id'], $pro_data['tax_method'], $expired_date, $p_date, $pro_data['status']));
+									$statement = db()->prepare("INSERT INTO `product_to_store` (product_id, store_id, purchase_price, sell_price, alert_quantity, sup_id, brand_id, box_id, taxrate_id, tax_method, e_date, p_date, status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+			        				$statement = $statement->execute(array($product_id, $store_id, $pro_data['cost_price'], $pro_data['sell_price'], $pro_data['alert_quantity'], $pro_data['sup_id'], $pro_data['brand_id'], $pro_data['box_id'], $pro_data['taxrate_id'], $pro_data['tax_method'], $expired_date, $p_date, $pro_data['status']));
 								}
 								$insert_status[] = 'ok';
 							} else {
@@ -228,8 +224,8 @@ if (isset($request->post['submit']))
 								$statement->execute(array($product_id));
 								foreach ($store_code_names as $store_code) {
 									$store_id = get_store_id_by_code($store_code);
-									$statement = db()->prepare("INSERT INTO `product_to_store` (product_id, store_id, purchase_price, sell_price, alert_quantity, sup_id, brand_id, talla_id, box_id, taxrate_id, tax_method, e_date, p_date, status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
-			        				$statement = $statement->execute(array($product_id, $store_id, $pro_data['cost_price'], $pro_data['sell_price'], $pro_data['alert_quantity'], $pro_data['sup_id'], $pro_data['brand_id'], $pro_data['talla_id'], $pro_data['box_id'], $pro_data['taxrate_id'], $pro_data['tax_method'], $expired_date, $p_date, $pro_data['status']));
+									$statement = db()->prepare("INSERT INTO `product_to_store` (product_id, store_id, purchase_price, sell_price, alert_quantity, sup_id, brand_id, box_id, taxrate_id, tax_method, e_date, p_date, status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+			        				$statement = $statement->execute(array($product_id, $store_id, $pro_data['cost_price'], $pro_data['sell_price'], $pro_data['alert_quantity'], $pro_data['sup_id'], $pro_data['brand_id'], $pro_data['box_id'], $pro_data['taxrate_id'], $pro_data['tax_method'], $expired_date, $p_date, $pro_data['status']));
 								}
 								$update_status[] = 'ok';
 							} else {

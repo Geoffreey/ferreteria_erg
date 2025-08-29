@@ -103,34 +103,6 @@
         </select>
       </div>
     </div>
-          <!--talla-->
-    <div class="form-group">
-      <label for="talla_id" class="col-sm-3 control-label">
-        <?php echo trans('label_talla'); ?>
-      </label>
-      <div class="col-sm-7">
-        <select class="form-control" name="talla_id" readonly disabled>
-          <option value="">
-            <?php echo trans('text_select'); ?>
-          </option>
-          <?php foreach(get_tallas() as $talla) {
-              if($talla['talla_id'] == $product['talla_id']) { ?>
-                <option value="<?php echo $talla['talla_id']; ?>" selected>
-                  <?php echo $talla['talla_name']; ?>
-                </option>
-              <?php
-              } else { ?>
-                <option value="<?php echo $talla['talla_id']; ?>">
-                  <?php echo $talla['talla_name']; ?>
-                </option>
-              <?php
-              }
-            }
-          ?>
-        </select>
-      </div>
-    </div>
-
     <div class="form-group">
       <label for="barcode_symbology" class="col-sm-3 control-label">
         <?php echo trans('label_barcode_symbology'); ?>

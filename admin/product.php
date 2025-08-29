@@ -216,9 +216,6 @@ include ("left_sidebar.php");
 								            <th class="w-15">
 								            	<?php echo trans('label_supplier'); ?>
 								            </th>
-											<th class="w-15">
-								            	<?php echo trans('label_talla'); ?>
-								            </th>
 								            <th class="w-10">
 								            	<?php echo trans('label_stock'); ?>
 								            </th>
@@ -264,9 +261,6 @@ include ("left_sidebar.php");
 								            </th>
 								            <th class="w-15">
 								            	<?php echo trans('label_supplier'); ?>
-								            </th>
-											<th class="w-15">
-								            	<?php echo trans('label_talla'); ?>
 								            </th>
 								            <th class="w-10">
 								            	<?php echo trans('label_stock'); ?>

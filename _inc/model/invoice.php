@@ -54,7 +54,6 @@ class ModelInvoice extends Model
             $product_info = get_the_product($product_id);
             $category_id = $product['category_id'];
             $brand_id = $product_info['brand_id'];
-            $talla_id = $product_info['talla_id'];
             $sup_id = $product['sup_id'];
             $product_name = $product['item_name'];
             $product_quantity = $product['item_quantity'];
@@ -80,8 +79,8 @@ class ModelInvoice extends Model
                 $igst = $tax;
                 $tigst += $tax;
             }
-            $statement = $this->db->prepare("INSERT INTO `holding_item` (ref_no, store_id, item_id, category_id, brand_id, talla_id, sup_id, item_name, item_price, item_discount, item_tax, tax_method, taxrate_id, tax, gst, cgst, sgst, igst, item_quantity, item_total) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
-            $statement->execute(array($ref_no, $store_id, $product_id, $category_id, $brand_id, $talla_id, $sup_id, $product_name, $product_price, $product_discount, $tax, $tax_method, $taxrate_id, $taxrate, $taxrate, $cgst, $sgst, $igst, $product_quantity, $product_total));
+            $statement = $this->db->prepare("INSERT INTO `holding_item` (ref_no, store_id, item_id, category_id, brand_id, sup_id, item_name, item_price, item_discount, item_tax, tax_method, taxrate_id, tax, gst, cgst, sgst, igst, item_quantity, item_total) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+            $statement->execute(array($ref_no, $store_id, $product_id, $category_id, $brand_id, $sup_id, $product_name, $product_price, $product_discount, $tax, $tax_method, $taxrate_id, $taxrate, $taxrate, $cgst, $sgst, $igst, $product_quantity, $product_total));
         }
         $statement = $this->db->prepare("INSERT INTO `holding_info` (store_id, order_title, ref_no, customer_id, customer_mobile, invoice_note, total_items, created_by, created_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)");
         $statement->execute(array($store_id, $order_title, $ref_no, $customer_id, $customer_mobile, $invoice_note, $total_items, $user_id, $created_at));
@@ -208,7 +207,6 @@ class ModelInvoice extends Model
             $product_info = get_the_product($product_id);
             $category_id = $product['category_id'];
             $brand_id = $product_info['brand_id'];
-            $talla_id = $product_info['talla_id'];
             $sup_id = $product['sup_id'];
             $product_name = $product['item_name'];
             $product_quantity = $product['item_quantity'];
@@ -292,8 +290,8 @@ class ModelInvoice extends Model
                 $igst = $tax;
                 $tigst += $tax;
             }
-            $statement = $this->db->prepare("INSERT INTO `selling_item` (invoice_id, store_id, item_id, category_id, brand_id, talla_id, sup_id, item_name, item_purchase_price, item_price, item_discount, item_tax, tax_method, taxrate_id, tax, gst, cgst, sgst, igst, item_quantity, item_total, purchase_invoice_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
-            $statement->execute(array($invoice_id, $store_id, $product_id, $category_id, $brand_id, $talla_id, $sup_id, $product_name, $item_purchase_price, $product_price, $product_discount, $tax, $tax_method, $taxrate_id, $taxrate, $taxrate, $cgst, $sgst, $igst, $product_quantity, $product_total, $purchase_invoice_id));
+            $statement = $this->db->prepare("INSERT INTO `selling_item` (invoice_id, store_id, item_id, category_id, brand_id, sup_id, item_name, item_purchase_price, item_price, item_discount, item_tax, tax_method, taxrate_id, tax, gst, cgst, sgst, igst, item_quantity, item_total, purchase_invoice_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+            $statement->execute(array($invoice_id, $store_id, $product_id, $category_id, $brand_id, $sup_id, $product_name, $item_purchase_price, $product_price, $product_discount, $tax, $tax_method, $taxrate_id, $taxrate, $taxrate, $cgst, $sgst, $igst, $product_quantity, $product_total, $purchase_invoice_id));
             $statement = $this->db->prepare("UPDATE `product_to_store` SET `quantity_in_stock` = `quantity_in_stock` - {$quantity_substract} WHERE `store_id` = ? AND `product_id` = ?");
             $statement->execute(array($store_id, $product_id));
         }

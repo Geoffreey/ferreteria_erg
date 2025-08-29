@@ -11,7 +11,6 @@ window.angularApp.controller("ProductController", [
   "CategoryCreateModal",
   "SupplierCreateModal",
   "BrandCreateModal",
-  "TallaCreateModal",
   "BoxCreateModal",
   "UnitCreateModal",
   "TaxrateCreateModal",
@@ -30,7 +29,6 @@ window.angularApp.controller("ProductController", [
     CategoryCreateModal,
     SupplierCreateModal,
     BrandCreateModal,
-    TallaCreateModal,
     BoxCreateModal,
     UnitCreateModal,
     TaxrateCreateModal,
@@ -40,7 +38,6 @@ window.angularApp.controller("ProductController", [
     "use strict";
 
     var dt = $("#product-product-list");
-    var TallaId;
     var categoryId;
     var productId;
     var productLocation;
@@ -55,7 +52,6 @@ window.angularApp.controller("ProductController", [
       }
     }
 
-    TallaId = window.getParameterByName("talla_id");
     categoryId = window.getParameterByName("category_id");
     productLocation = window.getParameterByName("location");
 
@@ -72,8 +68,6 @@ window.angularApp.controller("ProductController", [
       serverSide: true,
       ajax:
         API_URL +
-        "/_inc/product.php?talla_id=" +
-        TallaId +
         "&location=" +
         productLocation +
         "&category_id=" +
@@ -84,12 +78,12 @@ window.angularApp.controller("ProductController", [
         [10, 25, 50, 100, 200, "All"],
       ],
       columnDefs: [
-        { targets: [0, 1, 3, 4, 8, 9, 10, 11, 12, 13, 14], orderable: false },
-        { className: "text-center", targets: [0, 1, 5, 8, 9, 10, 11, 12, 13, 14] },
+        { targets: [0, 1, 3, 4, 8, 9, 10, 11, 12, 13], orderable: false },
+        { className: "text-center", targets: [0, 1, 5, 8, 9, 10, 11, 12, 13] },
         { className: "text-right", targets: [6, 7] },
         { visible: false, targets: hideColumsArray },
         {
-          targets: [1],
+          targets: [0],
           createdCell: function (td, cellData, rowData, row, col) {
             $(td).attr(
               "data-title",
@@ -98,7 +92,7 @@ window.angularApp.controller("ProductController", [
           },
         },
         {
-          targets: [2],
+          targets: [1],
           createdCell: function (td, cellData, rowData, row, col) {
             $(td).attr(
               "data-title",
@@ -107,7 +101,7 @@ window.angularApp.controller("ProductController", [
           },
         },
         {
-          targets: [3],
+          targets: [2],
           createdCell: function (td, cellData, rowData, row, col) {
             $(td).attr(
               "data-title",
@@ -116,7 +110,7 @@ window.angularApp.controller("ProductController", [
           },
         },
         {
-          targets: [4],
+          targets: [3],
           createdCell: function (td, cellData, rowData, row, col) {
             $(td).attr(
               "data-title",
@@ -125,7 +119,7 @@ window.angularApp.controller("ProductController", [
           },
         },
         {
-          targets: [5],
+          targets: [4],
           createdCell: function (td, cellData, rowData, row, col) {
             $(td).attr(
               "data-title",
@@ -134,7 +128,7 @@ window.angularApp.controller("ProductController", [
           },
         },
         {
-          targets: [6],
+          targets: [5],
           createdCell: function (td, cellData, rowData, row, col) {
             $(td).attr(
               "data-title",
@@ -143,7 +137,7 @@ window.angularApp.controller("ProductController", [
           },
         },
         {
-          targets: [7],
+          targets: [6],
           createdCell: function (td, cellData, rowData, row, col) {
             $(td).attr(
               "data-title",
@@ -152,11 +146,20 @@ window.angularApp.controller("ProductController", [
           },
         },
         {
-          targets: [8],
+          targets: [7],
           createdCell: function (td, cellData, rowData, row, col) {
             $(td).attr(
               "data-title",
               $("#product-product-list thead tr th:eq(8)").html()
+            );
+          },
+        },
+        {
+          targets: [8],
+          createdCell: function (td, cellData, rowData, row, col) {
+            $(td).attr(
+              "data-title",
+              $("#product-product-list thead tr th:eq(9)").html()
             );
           },
         },
@@ -174,7 +177,7 @@ window.angularApp.controller("ProductController", [
           createdCell: function (td, cellData, rowData, row, col) {
             $(td).attr(
               "data-title",
-              $("#product-product-list thead tr th:eq(9)").html()
+              $("#product-product-list thead tr th:eq(10)").html()
             );
           },
         },
@@ -183,7 +186,7 @@ window.angularApp.controller("ProductController", [
           createdCell: function (td, cellData, rowData, row, col) {
             $(td).attr(
               "data-title",
-              $("#product-product-list thead tr th:eq(10)").html()
+              $("#product-product-list thead tr th:eq(11)").html()
             );
           },
         },
@@ -192,21 +195,12 @@ window.angularApp.controller("ProductController", [
           createdCell: function (td, cellData, rowData, row, col) {
             $(td).attr(
               "data-title",
-              $("#product-product-list thead tr th:eq(11)").html()
-            );
-          },
-        },
-        {
-          targets: [13],
-          createdCell: function (td, cellData, rowData, row, col) {
-            $(td).attr(
-              "data-title",
               $("#product-product-list thead tr th:eq(12)").html()
             );
           },
         },
         {
-          targets: [14],
+          targets: [13],
           createdCell: function (td, cellData, rowData, row, col) {
             $(td).attr(
               "data-title",
@@ -221,7 +215,6 @@ window.angularApp.controller("ProductController", [
         { data: "p_code" },
         { data: "p_name" },
         { data: "supplier" },
-        { data: "talla_name" },
         { data: "quantity_in_stock" },
         { data: "purchase_price" },
         { data: "sell_price" },
@@ -436,7 +429,6 @@ window.angularApp.controller("ProductController", [
           $scope.hideSupplier = 1;
           $scope.hideCategory = 1;
           $scope.hideBrand = 1;
-          $scope.hideTalla = 1;
           $scope.hideUnit = 1;
           $scope.hideBox = 1;
           $scope.hideExpiredAt = 1;
@@ -449,7 +441,6 @@ window.angularApp.controller("ProductController", [
           $scope.hideSupplier = !1;
           $scope.hideCategory = 1;
           $scope.hideBrand = !1;
-          $scope.hideTalla = !1;
           $scope.hideUnit = !1;
           $scope.hideBox = !1;
           $scope.hideExpiredAt = !1;
@@ -507,7 +498,6 @@ window.angularApp.controller("ProductController", [
             $("#category_id").val(null).trigger("change");
             $("#sup_id").val(null).trigger("change");
             $("#brand_id").val(null).trigger("change");
-            $("#talla_id").val(null).trigger("change");
             $("#box_id").val(null).trigger("change");
             $("#unit_id").val(null).trigger("change");
             $("#random_num").val(null).trigger("click");
@@ -558,11 +548,6 @@ window.angularApp.controller("ProductController", [
     // Create new brand
     $scope.createNewBrand = function () {
       BrandCreateModal($scope);
-    };
-
-    // Create new talla
-    $scope.createNewTalla = function () {
-      TallaCreateModal($scope);
     };
 
     // Create new box

@@ -70,7 +70,6 @@ class ModelQuotation extends Model
             $product_name       = $product['item_name'];
             $category_id        = $product_info['category_id'];
             $brand_id           = $product_info['brand_id'];
-            $talla_id           = $product_info['talla_id'];
             $sup_id             = $product_info['sup_id'];
             $product_quantity   = $product['quantity'];
             $product_price      = $product['unit_price'];
@@ -97,8 +96,8 @@ class ModelQuotation extends Model
               $tigst += $tax;
             }
 
-            $statement = $this->db->prepare("INSERT INTO `quotation_item` (reference_no, store_id, sup_id, category_id, brand_id, talla_id, item_id, item_name, item_purchase_price, item_price, item_discount, item_tax, taxrate_id, tax, gst, cgst, sgst, igst, item_quantity, item_total, purchase_invoice_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
-            $statement->execute(array($reference_no, $store_id, $sup_id, $category_id, $brand_id, $talla_id, $product_id, $product_name, $item_purchase_price, $product_price, $product_discount, $tax, $taxrate_id, $taxrate, $taxrate, $cgst, $sgst, $igst, $product_quantity, $product_total, $purchase_invoice_id));
+            $statement = $this->db->prepare("INSERT INTO `quotation_item` (reference_no, store_id, sup_id, category_id, brand_id, item_id, item_name, item_purchase_price, item_price, item_discount, item_tax, taxrate_id, tax, gst, cgst, sgst, igst, item_quantity, item_total, purchase_invoice_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+            $statement->execute(array($reference_no, $store_id, $sup_id, $category_id, $brand_id, $product_id, $product_name, $item_purchase_price, $product_price, $product_discount, $tax, $taxrate_id, $taxrate, $taxrate, $cgst, $sgst, $igst, $product_quantity, $product_total, $purchase_invoice_id));
         }
 
         $statement = $this->db->prepare("INSERT INTO `quotation_info` (reference_no, store_id, customer_id, customer_mobile, quotation_note, total_items, status, payment_status, is_installment, created_by, created_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
@@ -170,7 +169,6 @@ class ModelQuotation extends Model
             $product_name       = $product['item_name'];
             $category_id        = $product['category_id'];
             $brand_id           = $product_info['brand_id'];
-            $talla_id           = $product_info['talla_id'];
             $sup_id             = $product_info['sup_id'];
             $product_quantity   = $product['quantity'];
             $product_price      = $product['unit_price'];
@@ -196,8 +194,8 @@ class ModelQuotation extends Model
               $tigst += $tax;
             }
 
-            $statement = $this->db->prepare("INSERT INTO `quotation_item` (reference_no, store_id, sup_id, category_id, brand_id, talla_id, item_id, item_name, item_purchase_price, item_price, item_discount, item_tax, taxrate_id, tax, gst, cgst, sgst, igst, item_quantity, item_total, purchase_invoice_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
-            $statement->execute(array($reference_no, $store_id, $sup_id, $category_id, $brand_id, $talla_id, $product_id, $product_name, $item_purchase_price, $product_price, $product_discount, $tax, $taxrate_id, $taxrate, $taxrate, $cgst, $sgst, $igst, $product_quantity, $product_total, $purchase_invoice_id));
+            $statement = $this->db->prepare("INSERT INTO `quotation_item` (reference_no, store_id, sup_id, category_id, brand_id, item_id, item_name, item_purchase_price, item_price, item_discount, item_tax, taxrate_id, tax, gst, cgst, sgst, igst, item_quantity, item_total, purchase_invoice_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+            $statement->execute(array($reference_no, $store_id, $sup_id, $category_id, $brand_id, $product_id, $product_name, $item_purchase_price, $product_price, $product_discount, $tax, $taxrate_id, $taxrate, $taxrate, $cgst, $sgst, $igst, $product_quantity, $product_total, $purchase_invoice_id));
 
         }
 

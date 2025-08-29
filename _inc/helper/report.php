@@ -216,7 +216,7 @@ function sell_in_year($year)
 {
 	$totalSell = [];
 	for ($i=1; $i < 12; $i++) { 
-		$totalSell[$i] = sell_price($year, $i);
+		$totalSell[$i] = selling_price($year, $i);
 	}
 	return $totalSell;
 }
@@ -274,10 +274,4 @@ function top_brands($from, $to, $limit = 3)
 {	
 	$report_model = registry()->get('loader')->model('report');
 	return $report_model->getTopBrands($from, $to, $limit);
-}
-
-function top_tallas($from, $to, $limit = 3)
-{	
-	$report_model = registry()->get('loader')->model('report');
-	return $report_model->getTopTallas($from, $to, $limit);
 }

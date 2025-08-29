@@ -1002,9 +1002,9 @@
         </li>
       <?php endif; ?>
 
-      <?php if (user_group_id() == 1 || has_permission('access', 'read_store') || has_permission('access', 'receipt_template') || has_permission('access', 'read_user_preference') || has_permission('access', 'read_unit') || has_permission('access', 'read_taxrate') || has_permission('access', 'read_pmethod') || has_permission('access', 'read_currency') || has_permission('access', 'read_brand') || has_permission('access', 'read_talla') || has_permission('access', 'read_box') || has_permission('access', 'read_printer') || has_permission('access', 'sms_setting') || has_permission('access', 'backup') || has_permission('access', 'language_translation')) : ?>
+      <?php if (user_group_id() == 1 || has_permission('access', 'read_store') || has_permission('access', 'receipt_template') || has_permission('access', 'read_user_preference') || has_permission('access', 'read_unit') || has_permission('access', 'read_taxrate') || has_permission('access', 'read_pmethod') || has_permission('access', 'read_currency') || has_permission('access', 'read_brand') || has_permission('access', 'read_box') || has_permission('access', 'read_printer') || has_permission('access', 'sms_setting') || has_permission('access', 'backup') || has_permission('access', 'language_translation')) : ?>
 
-        <li class="treeview<?php echo current_nav() == 'store' || current_nav() == 'receipt_template' || current_nav() == 'store_create' || current_nav() == 'user_preference' || current_nav() == 'store_single' || current_nav() == 'brand' || current_nav() == 'talla' || current_nav() == 'currency' || current_nav() == 'pmethod' || current_nav() == 'unit' || current_nav() == 'taxrate' || current_nav() == 'box' || current_nav() == 'printer' || current_nav() == 'sms_setting' || current_nav() == 'backup_restore' || current_nav() == 'language' ? ' active' : null; ?>">
+        <li class="treeview<?php echo current_nav() == 'store' || current_nav() == 'receipt_template' || current_nav() == 'store_create' || current_nav() == 'user_preference' || current_nav() == 'store_single' || current_nav() == 'brand' || current_nav() == 'currency' || current_nav() == 'pmethod' || current_nav() == 'unit' || current_nav() == 'taxrate' || current_nav() == 'box' || current_nav() == 'printer' || current_nav() == 'sms_setting' || current_nav() == 'backup_restore' || current_nav() == 'language' ? ' active' : null; ?>">
           
           <a href="store_single.php">
             <svg class="svg-icon"><use href="#icon-settings"></svg>
@@ -1111,41 +1111,7 @@
                 </ul>
               </li>
             <?php endif; ?>
-            <!--Talla-->
-            <?php if (user_group_id() == 1 || has_permission('access', 'read_talla')) : ?>
-              <li class="treeview<?php echo current_nav() == 'talla' || current_nav() == 'talla_profile' ? ' active' : null; ?>">
-                <a href="talla.php">
-                  <svg class="svg-icon"><use href="#icon-brand"></svg>
-                  <span>
-                    <?php echo trans('menu_talla'); ?>
-                  </span>
-                  <i class="fa fa-angle-left pull-right"></i>
-                </a>
-                <ul class="treeview-menu">
-                  <?php if (user_group_id() == 1 || has_permission('access', 'create_talla')): ?>
-                    <li class="<?php echo current_nav() == 'talla' && isset($request->get['box_state']) ? ' active' : null; ?>">
-                      <a href="talla.php?box_state=open">
-                        <svg class="svg-icon"><use href="#icon-plus"></svg>
-                        <span>
-                          <?php echo trans('menu_add_talla'); ?>
-                        </span>
-                      </a>
-                    </li>
-                  <?php endif; ?>
-                  <?php if (user_group_id() == 1 || has_permission('access', 'read_talla')): ?>
-                    <li class="<?php echo current_nav() == 'talla'  && !isset($request->get['box_state']) ? ' active' : null; ?>">
-                      <a href="talla.php">
-                        <svg class="svg-icon"><use href="#icon-list"></svg>
-                        <span>
-                          <?php echo trans('menu_talla_list'); ?>
-                        </span>
-                      </a>
-                    </li>
-                  <?php endif; ?>
-                </ul>
-              </li>
-            <?php endif; ?>
-
+            
             <?php if (user_group_id() == 1 || has_permission('access', 'read_currency')) : ?>
               <li class="<?php echo current_nav() == 'currency' ? 'active' : null; ?>">
                 <a href="currency.php">
