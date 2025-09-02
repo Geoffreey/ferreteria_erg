@@ -228,7 +228,6 @@ if ($request->server['REQUEST_METHOD'] == 'POST' && isset($request->post['action
         $item_name = $product['item_name'];
         $category_id = $product['category_id'];
         $brand_id = $the_product['brand_id'];
-        $talla_id = $the_product['talla_id'];
         $item_purchase_price = $product['purchase_price'];
         $item_selling_price = $product['sell_price'];
         $item_quantity = $product['quantity'];
@@ -249,8 +248,8 @@ if ($request->server['REQUEST_METHOD'] == 'POST' && isset($request->post['action
         }
         
         // Insert purchase item
-        $statement = db()->prepare("INSERT INTO `purchase_item` (invoice_id, store_id, item_id, category_id, brand_id, talla_id, item_name, item_purchase_price, item_selling_price, item_quantity, status, item_total, item_tax, tax_method, tax, gst, cgst, sgst, igst) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
-        $statement->execute(array($invoice_id, $store_id, $id, $category_id, $brand_id, $talla_id, $item_name, $item_purchase_price, $item_selling_price, $item_quantity, $status, $item_total, $item_tax, $tax_method, $taxrate, $taxrate, $cgst, $sgst, $igst));
+        $statement = db()->prepare("INSERT INTO `purchase_item` (invoice_id, store_id, item_id, category_id, brand_id, item_name, item_purchase_price, item_selling_price, item_quantity, status, item_total, item_tax, tax_method, tax, gst, cgst, sgst, igst) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+        $statement->execute(array($invoice_id, $store_id, $id, $category_id, $brand_id, $item_name, $item_purchase_price, $item_selling_price, $item_quantity, $status, $item_total, $item_tax, $tax_method, $taxrate, $taxrate, $cgst, $sgst, $igst));
         
         // Update stock quantity
         $statement = db()->prepare("UPDATE `product_to_store` SET `purchase_price` = ?, `sell_price` = ?, `quantity_in_stock` = `quantity_in_stock` + $item_quantity WHERE `product_id` = ? AND `store_id` = ?");

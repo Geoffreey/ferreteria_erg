@@ -143,14 +143,6 @@ $permissions = array(
     'read_brand_profile' => 'Read Brand Profile',
   ),
 
-  'talla' => array(
-    'read_talla' => 'Read talla List',
-    'create_talla' => 'Create Talla',
-    'update_talla' => 'Update Talla',
-    'delete_talla' => 'Delete Talla',
-    'read_talla_profile' => 'Read Talla Profile',
-  ),
-
   'storebox' => array(
     'read_box' => 'Read Box',
     'create_box' => 'Create Box',
